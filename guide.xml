@@ -1563,23 +1563,11 @@
     <programme start="20260216190700" stop="20260216193900" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑1-4</title>
     </programme>
-    <programme start="20260216193900" stop="20260216194600" channel="cctv5">
+    <programme start="20260216193900" stop="20260216194500" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
     </programme>
-    <programme start="20260216194600" stop="20260216200000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑5-8</title>
-    </programme>
-    <programme start="20260216200000" stop="20260216203300" channel="cctv5">
+    <programme start="20260216194500" stop="20260216211900" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台决赛</title>
-    </programme>
-    <programme start="20260216203300" stop="20260216204000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
-    </programme>
-    <programme start="20260216204000" stop="20260216211200" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑9-12</title>
-    </programme>
-    <programme start="20260216211200" stop="20260216211900" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
     </programme>
     <programme start="20260216211900" stop="20260216220000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑12-16</title>
