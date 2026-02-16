@@ -3777,20 +3777,32 @@
     <programme start="20260216133000" stop="20260216155900" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-3</title>
     </programme>
-    <programme start="20260216173000" stop="20260216183000" channel="cctv13">
+    <programme start="20260216173000" stop="20260216180000" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-1</title>
     </programme>
-    <programme start="20260216183000" stop="20260216193000" channel="cctv13">
+    <programme start="20260216180000" stop="20260216183000" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-2</title>
     </programme>
-    <programme start="20260216193000" stop="20260216200000" channel="cctv13">
+    <programme start="20260216183000" stop="20260216190000" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-3</title>
     </programme>
-    <programme start="20260216200000" stop="20260216210000" channel="cctv13">
+    <programme start="20260216190000" stop="20260216193000" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-4</title>
     </programme>
-    <programme start="20260216210000" stop="20260216220000" channel="cctv13">
+    <programme start="20260216193000" stop="20260216200000" channel="cctv13">
         <title lang="zh">2026一年又一年(晚间时段)-5</title>
+    </programme>
+    <programme start="20260216200000" stop="20260216203000" channel="cctv13">
+        <title lang="zh">2026一年又一年(晚间时段)-6</title>
+    </programme>
+    <programme start="20260216203000" stop="20260216210000" channel="cctv13">
+        <title lang="zh">2026一年又一年(晚间时段)-7</title>
+    </programme>
+    <programme start="20260216210000" stop="20260216213000" channel="cctv13">
+        <title lang="zh">2026一年又一年(晚间时段)-8</title>
+    </programme>
+    <programme start="20260216213000" stop="20260216220000" channel="cctv13">
+        <title lang="zh">2026一年又一年(晚间时段)-9</title>
     </programme>
     <programme start="20260216220000" stop="20260217010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
