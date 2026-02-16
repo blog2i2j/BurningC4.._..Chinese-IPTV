@@ -948,22 +948,22 @@
     <programme start="20260216172400" stop="20260216221000" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-直播</title>
     </programme>
-    <programme start="20260216221000" stop="20260216222000" channel="cctv3">
-        <title lang="zh">2026年中央军委慰问驻京部队老干部迎新春文艺演出-完整版</title>
+    <programme start="20260216221000" stop="20260216230100" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-47</title>
     </programme>
-    <programme start="20260216222000" stop="20260217000800" channel="cctv3">
-        <title lang="zh">中央广播电视总台2026网络春晚-1</title>
+    <programme start="20260216230100" stop="20260217000900" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-43</title>
     </programme>
-    <programme start="20260217000800" stop="20260217003700" channel="cctv3">
+    <programme start="20260217000900" stop="20260217003900" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦1/4</title>
     </programme>
-    <programme start="20260217003700" stop="20260217010700" channel="cctv3">
+    <programme start="20260217003900" stop="20260217010800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦2/4</title>
     </programme>
-    <programme start="20260217010700" stop="20260217013600" channel="cctv3">
+    <programme start="20260217010800" stop="20260217013800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
     </programme>
-    <programme start="20260217013600" stop="20260217021800" channel="cctv3">
+    <programme start="20260217013800" stop="20260217021800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
     </programme>
     <programme start="20260217021800" stop="20260217040000" channel="cctv3">
@@ -1107,14 +1107,11 @@
     <programme start="20260218151400" stop="20260218153900" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦4/4</title>
     </programme>
-    <programme start="20260218153900" stop="20260218153900" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-1/8</title>
-    </programme>
     <programme start="20260218153900" stop="20260218154000" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-2/8</title>
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦1/4</title>
     </programme>
     <programme start="20260218154000" stop="20260218154000" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-3/8</title>
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦2/4</title>
     </programme>
     <programme start="20260218154000" stop="20260218155900" channel="cctv3">
         <title lang="zh">2026年“团圆年· 家乡味” ——中国人的年夜饭春节特别节目-备播版</title>
@@ -1557,29 +1554,23 @@
     <programme start="20260216161500" stop="20260216171500" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人短节目</title>
     </programme>
-    <programme start="20260216171500" stop="20260216183000" channel="cctv5">
+    <programme start="20260216171500" stop="20260216190000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会短道速滑</title>
-    </programme>
-    <programme start="20260216183000" stop="20260216185300" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台决赛1</title>
-    </programme>
-    <programme start="20260216185300" stop="20260216190000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台决赛2</title>
     </programme>
     <programme start="20260216190000" stop="20260216190700" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
     </programme>
-    <programme start="20260216190700" stop="20260216191700" channel="cctv5">
+    <programme start="20260216190700" stop="20260216193900" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑1-4</title>
-    </programme>
-    <programme start="20260216191700" stop="20260216193900" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台决赛3及颁奖仪式</title>
     </programme>
     <programme start="20260216193900" stop="20260216194600" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
     </programme>
-    <programme start="20260216194600" stop="20260216203300" channel="cctv5">
+    <programme start="20260216194600" stop="20260216200000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑5-8</title>
+    </programme>
+    <programme start="20260216200000" stop="20260216203300" channel="cctv5">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会自由式滑雪女子大跳台决赛</title>
     </programme>
     <programme start="20260216203300" stop="20260216204000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会花样滑冰 双人自由滑热身</title>
