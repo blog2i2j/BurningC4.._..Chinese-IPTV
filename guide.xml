@@ -1123,10 +1123,10 @@
         <title lang="zh">2026年春节联欢晚会-语言节目集锦4/4</title>
     </programme>
     <programme start="20260218153900" stop="20260218154000" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦1/4</title>
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
     </programme>
     <programme start="20260218154000" stop="20260218154000" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦2/4</title>
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4(4K)</title>
     </programme>
     <programme start="20260218154000" stop="20260218155900" channel="cctv3">
         <title lang="zh">2026年“团圆年· 家乡味” ——中国人的年夜饭春节特别节目-备播版</title>
@@ -1260,10 +1260,13 @@
     <programme start="20260217024500" stop="20260217032800" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-4/8</title>
     </programme>
-    <programme start="20260217032800" stop="20260217051100" channel="cctv4">
+    <programme start="20260217032800" stop="20260217040000" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme start="20260217051100" stop="20260217054500" channel="cctv4">
+    <programme start="20260217040000" stop="20260217050000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
+    </programme>
+    <programme start="20260217050000" stop="20260217054500" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
     <programme start="20260217054500" stop="20260217061900" channel="cctv4">
@@ -2280,10 +2283,31 @@
     <programme start="20260217124300" stop="20260217135600" channel="cctv7">
         <title lang="zh">2026年新春走基层 军营过大年-1</title>
     </programme>
-    <programme start="20260217135600" stop="20260217155900" channel="cctv7">
-        <title lang="zh">2026年春节联欢晚会-重播（媒资）</title>
+    <programme start="20260217135600" stop="20260217142900" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260217183700" stop="20260217191700" channel="cctv7">
+    <programme start="20260217142900" stop="20260217150300" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-2/8</title>
+    </programme>
+    <programme start="20260217150300" stop="20260217154200" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-3/8</title>
+    </programme>
+    <programme start="20260217154200" stop="20260217155900" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    </programme>
+    <programme start="20260217162500" stop="20260217170700" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    </programme>
+    <programme start="20260217170700" stop="20260217174100" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-6/8</title>
+    </programme>
+    <programme start="20260217174100" stop="20260217181400" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-7/8</title>
+    </programme>
+    <programme start="20260217181400" stop="20260217184200" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    </programme>
+    <programme start="20260217184200" stop="20260217191700" channel="cctv7">
         <title lang="zh">军事纪实-2026-34</title>
     </programme>
     <programme start="20260217191700" stop="20260217195500" channel="cctv7">
@@ -4854,22 +4878,22 @@
     <programme start="20260217142900" stop="20260217145900" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
     </programme>
-    <programme start="20260217145900" stop="20260217152400" channel="cctv17">
+    <programme start="20260217145900" stop="20260217152600" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
     </programme>
-    <programme start="20260217152400" stop="20260217155100" channel="cctv17">
+    <programme start="20260217152600" stop="20260217155300" channel="cctv17">
         <title lang="zh">办年货 赶大集——CMG新春消费季活动-1</title>
     </programme>
-    <programme start="20260217155100" stop="20260217155900" channel="cctv17">
+    <programme start="20260217155300" stop="20260217155900" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-麻辣酸甜咸-22/52</title>
     </programme>
-    <programme start="20260217161400" stop="20260217163700" channel="cctv17">
+    <programme start="20260217161600" stop="20260217163900" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-麻辣酸甜咸-23/52</title>
     </programme>
-    <programme start="20260217163700" stop="20260217170800" channel="cctv17">
+    <programme start="20260217163900" stop="20260217171100" channel="cctv17">
         <title lang="zh">乡村剧场（栏目剧）-麻辣酸甜咸-24/52</title>
     </programme>
-    <programme start="20260217170800" stop="20260217215600" channel="cctv17">
+    <programme start="20260217171100" stop="20260217215600" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260217215600" stop="20260217220000" channel="cctv17">
