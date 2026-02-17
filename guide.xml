@@ -484,19 +484,19 @@
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme start="20260218062300" stop="20260218070600" channel="cctv1">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260218070600" stop="20260218075000" channel="cctv1">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218070600" stop="20260218074900" channel="cctv1">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260218075000" stop="20260218082400" channel="cctv1">
+    <programme start="20260218074900" stop="20260218082300" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260218082400" stop="20260218085700" channel="cctv1">
+    <programme start="20260218082300" stop="20260218085700" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
     <programme start="20260218085700" stop="20260218093000" channel="cctv1">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+        <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
     <programme start="20260218093000" stop="20260218110000" channel="cctv1">
         <title lang="zh">CMG第四届中国电视剧年度盛典-CCTV-1重播</title>
@@ -522,19 +522,19 @@
     <programme start="20260218153400" stop="20260218155900" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
     </programme>
-    <programme start="20260218160300" stop="20260218162700" channel="cctv1">
-        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
+    <programme start="20260218160300" stop="20260218162900" channel="cctv1">
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
     </programme>
-    <programme start="20260218162700" stop="20260218180300" channel="cctv1">
+    <programme start="20260218162900" stop="20260218180100" channel="cctv1">
         <title lang="zh">马到成功·中国年-精编90分钟-1</title>
     </programme>
-    <programme start="20260218180300" stop="20260218181400" channel="cctv1">
+    <programme start="20260218180100" stop="20260218181300" channel="cctv1">
         <title lang="zh">非遗里的中国（第四季）-精编1</title>
     </programme>
-    <programme start="20260218181400" stop="20260218184400" channel="cctv1">
+    <programme start="20260218181300" stop="20260218184300" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260218184400" stop="20260218185000" channel="cctv1">
+    <programme start="20260218184300" stop="20260218185000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260218185000" stop="20260218202000" channel="cctv1">
@@ -579,19 +579,19 @@
     <programme start="20260219045100" stop="20260219052500" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260219052500" stop="20260219055500" channel="cctv1">
+    <programme start="20260219052500" stop="20260219055600" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
-    <programme start="20260219055500" stop="20260219064700" channel="cctv1">
+    <programme start="20260219055600" stop="20260219064800" channel="cctv1">
         <title lang="zh">生命树1/40</title>
     </programme>
-    <programme start="20260219064700" stop="20260219073500" channel="cctv1">
+    <programme start="20260219064800" stop="20260219073600" channel="cctv1">
         <title lang="zh">生命树2/40</title>
     </programme>
-    <programme start="20260219073500" stop="20260219082200" channel="cctv1">
+    <programme start="20260219073600" stop="20260219082600" channel="cctv1">
         <title lang="zh">生命树3/40</title>
     </programme>
-    <programme start="20260219082200" stop="20260219100400" channel="cctv1">
+    <programme start="20260219082600" stop="20260219100400" channel="cctv1">
         <title lang="zh">星光大道-2026-4</title>
     </programme>
     <programme start="20260219100400" stop="20260219104800" channel="cctv1">
@@ -816,41 +816,38 @@
     <programme start="20260218110000" stop="20260218113100" channel="cctv2">
         <title lang="zh">生财有道-2026-2-18</title>
     </programme>
-    <programme start="20260218113100" stop="20260218120100" channel="cctv2">
+    <programme start="20260218113100" stop="20260218120500" channel="cctv2">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260218120100" stop="20260218123100" channel="cctv2">
+    <programme start="20260218120500" stop="20260218123900" channel="cctv2">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260218123100" stop="20260218130100" channel="cctv2">
+    <programme start="20260218123900" stop="20260218131900" channel="cctv2">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme start="20260218130100" stop="20260218133100" channel="cctv2">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    <programme start="20260218131900" stop="20260218140200" channel="cctv2">
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260218133100" stop="20260218140100" channel="cctv2">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218140200" stop="20260218144500" channel="cctv2">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260218140100" stop="20260218143100" channel="cctv2">
+    <programme start="20260218144500" stop="20260218151900" channel="cctv2">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260218143100" stop="20260218150100" channel="cctv2">
+    <programme start="20260218151900" stop="20260218155300" channel="cctv2">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260218150100" stop="20260218155900" channel="cctv2">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260218155300" stop="20260218155900" channel="cctv2">
+        <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
-    <programme start="20260218162700" stop="20260218163400" channel="cctv2">
-        <title lang="zh">周末特供2025-雨林之子1-7分版</title>
+    <programme start="20260218162100" stop="20260218163700" channel="cctv2">
+        <title lang="zh">周末特供2026-4</title>
     </programme>
-    <programme start="20260218163400" stop="20260218173700" channel="cctv2">
+    <programme start="20260218163700" stop="20260218174000" channel="cctv2">
         <title lang="zh">职场健康课-2026-7</title>
     </programme>
-    <programme start="20260218173700" stop="20260218180100" channel="cctv2">
+    <programme start="20260218174000" stop="20260218180400" channel="cctv2">
         <title lang="zh">2026精品财经纪录-中国民居第三季-2</title>
-    </programme>
-    <programme start="20260218180100" stop="20260218180400" channel="cctv2">
-        <title lang="zh">周末特供2023-青海我们的国家公园1-2分版</title>
     </programme>
     <programme start="20260218180400" stop="20260218181900" channel="cctv2">
         <title lang="zh">周末特供2024-大河之洲1-15分版</title>
@@ -1102,7 +1099,7 @@
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
     </programme>
     <programme start="20260218103500" stop="20260218112000" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-39  马上开心年-1</title>
+        <title lang="zh">综艺喜乐汇-2026-39 马上开心年-1</title>
     </programme>
     <programme start="20260218112000" stop="20260218113000" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-歌曲-奔腾的海骝马（4K）</title>
@@ -1254,13 +1251,10 @@
     <programme start="20260217024500" stop="20260217032800" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-4/8</title>
     </programme>
-    <programme start="20260217032800" stop="20260217040000" channel="cctv4">
+    <programme start="20260217032800" stop="20260217051100" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme start="20260217040000" stop="20260217050000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260217050000" stop="20260217054500" channel="cctv4">
+    <programme start="20260217051100" stop="20260217054500" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
     <programme start="20260217054500" stop="20260217061900" channel="cctv4">
@@ -1878,11 +1872,14 @@
     <programme start="20260217081000" stop="20260217084000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪女子大回转（4K）</title>
     </programme>
-    <programme start="20260217084000" stop="20260217094000" channel="cctv5plus">
+    <programme start="20260217084000" stop="20260217094900" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1（4K）</title>
     </programme>
-    <programme start="20260217094000" stop="20260217110000" channel="cctv5plus">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子空中技巧资格赛</title>
+    <programme start="20260217094900" stop="20260217103100" channel="cctv5plus">
+        <title lang="zh">冬奥典藏</title>
+    </programme>
+    <programme start="20260217103100" stop="20260217110000" channel="cctv5plus">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  速度滑冰</title>
     </programme>
     <programme start="20260217110000" stop="20260217120000" channel="cctv5plus">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会  自由式滑雪女子大跳台</title>
@@ -2328,17 +2325,26 @@
     <programme start="20260217233000" stop="20260217235800" channel="cctv7">
         <title lang="zh">国防军事早报</title>
     </programme>
-    <programme start="20260217235800" stop="20260218002600" channel="cctv7">
+    <programme start="20260217235800" stop="20260218003100" channel="cctv7">
         <title lang="zh">军营的味道-2025-49</title>
     </programme>
-    <programme start="20260218002600" stop="20260218005800" channel="cctv7">
+    <programme start="20260218003100" stop="20260218010800" channel="cctv7">
         <title lang="zh">防务新观察-2026-48</title>
     </programme>
-    <programme start="20260218005800" stop="20260218023000" channel="cctv7">
+    <programme start="20260218010800" stop="20260218024000" channel="cctv7">
         <title lang="zh">五星剧场-神秘的旅伴（长影展播）</title>
     </programme>
-    <programme start="20260218023000" stop="20260218040000" channel="cctv7">
-        <title lang="zh">2026年春节联欢晚会-语言节目集锦（媒资）</title>
+    <programme start="20260218024000" stop="20260218024700" channel="cctv7">
+        <title lang="zh">国防微视频-军歌嘹亮-大海处处水兵的家（2026海军）</title>
+    </programme>
+    <programme start="20260218024700" stop="20260218031800" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-语言节目集锦1/3</title>
+    </programme>
+    <programme start="20260218031800" stop="20260218034700" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-语言节目集锦2/3</title>
+    </programme>
+    <programme start="20260218034700" stop="20260218040000" channel="cctv7">
+        <title lang="zh">2026年春节联欢晚会-语言节目集锦3/3</title>
     </programme>
     <programme start="20260218040000" stop="20260218043600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -3495,73 +3501,70 @@
     <programme start="20260217182300" stop="20260217220600" channel="cctv11">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20260217220600" stop="20260217231700" channel="cctv11">
+    <programme start="20260217220600" stop="20260217232100" channel="cctv11">
         <title lang="zh">名家书场-春节特别节目2026-2</title>
     </programme>
-    <programme start="20260217231700" stop="20260218003800" channel="cctv11">
+    <programme start="20260217232100" stop="20260218004200" channel="cctv11">
         <title lang="zh">雏凤新声——中央广播电视总台 首届少儿戏曲大会-4</title>
     </programme>
-    <programme start="20260218003800" stop="20260218013500" channel="cctv11">
+    <programme start="20260218004200" stop="20260218014900" channel="cctv11">
         <title lang="zh">典藏-2026-12</title>
     </programme>
-    <programme start="20260218013500" stop="20260218015100" channel="cctv11">
-        <title lang="zh">四时花开-牡丹篇</title>
-    </programme>
-    <programme start="20260218015100" stop="20260218033100" channel="cctv11">
+    <programme start="20260218014900" stop="20260218032900" channel="cctv11">
         <title lang="zh">国风超有戏·寻风季-4重播版</title>
     </programme>
-    <programme start="20260218033100" stop="20260218042100" channel="cctv11">
+    <programme start="20260218032900" stop="20260218042000" channel="cctv11">
         <title lang="zh">驻站第26集</title>
     </programme>
-    <programme start="20260218042100" stop="20260218052200" channel="cctv11">
+    <programme start="20260218042000" stop="20260218052000" channel="cctv11">
         <title lang="zh">驻站第27集</title>
     </programme>
-    <programme start="20260218052200" stop="20260218062800" channel="cctv11">
+    <programme start="20260218052000" stop="20260218062600" channel="cctv11">
         <title lang="zh">角儿来了-2026年春戏晚进行时（一）</title>
     </programme>
-    <programme start="20260218062800" stop="20260218073400" channel="cctv11">
+    <programme start="20260218062600" stop="20260218073200" channel="cctv11">
         <title lang="zh">角儿来了-2026年春戏晚进行时（二）</title>
     </programme>
-    <programme start="20260218073400" stop="20260218085400" channel="cctv11">
+    <programme start="20260218073200" stop="20260218085200" channel="cctv11">
         <title lang="zh">角儿来了-2026年春戏晚进行时（三）</title>
     </programme>
-    <programme start="20260218085400" stop="20260218094400" channel="cctv11">
+    <programme start="20260218085200" stop="20260218094300" channel="cctv11">
         <title lang="zh">清明上河图密码第7集</title>
     </programme>
-    <programme start="20260218094400" stop="20260218104100" channel="cctv11">
+    <programme start="20260218094300" stop="20260218103900" channel="cctv11">
         <title lang="zh">清明上河图密码第8集</title>
     </programme>
-    <programme start="20260218104100" stop="20260218110100" channel="cctv11">
+    <programme start="20260218103900" stop="20260218105900" channel="cctv11">
         <title lang="zh">桂在有戏-1</title>
     </programme>
-    <programme start="20260218110100" stop="20260218120600" channel="cctv11">
+    <programme start="20260218105900" stop="20260218120400" channel="cctv11">
         <title lang="zh">角儿来了-2026年春戏晚进行时（四）</title>
     </programme>
-    <programme start="20260218120600" stop="20260218134600" channel="cctv11">
+    <programme start="20260218120400" stop="20260218134500" channel="cctv11">
         <title lang="zh">2026年春节戏曲晚会-综合频道</title>
     </programme>
-    <programme start="20260218134600" stop="20260218155900" channel="cctv11">
+    <programme start="20260218134500" stop="20260218155900" channel="cctv11">
         <title lang="zh">2026年春节戏曲晚会-戏曲频道</title>
     </programme>
-    <programme start="20260218171500" stop="20260218180500" channel="cctv11">
+    <programme start="20260218171300" stop="20260218180400" channel="cctv11">
         <title lang="zh">承欢记第24集</title>
     </programme>
-    <programme start="20260218180500" stop="20260218185600" channel="cctv11">
+    <programme start="20260218180400" stop="20260218185400" channel="cctv11">
         <title lang="zh">承欢记第25集</title>
     </programme>
-    <programme start="20260218185600" stop="20260218195200" channel="cctv11">
+    <programme start="20260218185400" stop="20260218195100" channel="cctv11">
         <title lang="zh">承欢记第26集</title>
     </programme>
-    <programme start="20260218195200" stop="20260218195300" channel="cctv11">
+    <programme start="20260218195100" stop="20260218195200" channel="cctv11">
         <title lang="zh">梨园周刊-2022-56-绝活绸子功-1分钟（精编）</title>
     </programme>
-    <programme start="20260218195300" stop="20260218195400" channel="cctv11">
+    <programme start="20260218195200" stop="20260218195300" channel="cctv11">
         <title lang="zh">梨园周刊-2022-59-绝活水袖功-1分钟（精编）</title>
     </programme>
-    <programme start="20260218195400" stop="20260218195700" channel="cctv11">
+    <programme start="20260218195300" stop="20260218195600" channel="cctv11">
         <title lang="zh">梨园周刊-2022-67-绝活跷功-3分钟（精编）</title>
     </programme>
-    <programme start="20260218195700" stop="20260218220600" channel="cctv11">
+    <programme start="20260218195600" stop="20260218220600" channel="cctv11">
         <title lang="zh">梨园周刊-2022-75-绝活滚灯-5分钟（精编）</title>
     </programme>
     <programme start="20260218220600" stop="20260218231700" channel="cctv11">
@@ -4518,23 +4521,29 @@
     <programme start="20260218184100" stop="20260218220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20260218220000" stop="20260218230200" channel="cctv15">
+    <programme start="20260218220000" stop="20260218230400" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-49</title>
     </programme>
-    <programme start="20260218230200" stop="20260218230900" channel="cctv15">
-        <title lang="zh">2026年春节联欢晚会-无障碍转播(视听版)宣传片（长）重播版</title>
+    <programme start="20260218230400" stop="20260219000400" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播2</title>
     </programme>
-    <programme start="20260218230900" stop="20260219035000" channel="cctv15">
-        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播1</title>
+    <programme start="20260219000400" stop="20260219010400" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播3</title>
     </programme>
-    <programme start="20260219035000" stop="20260219055800" channel="cctv15">
+    <programme start="20260219010400" stop="20260219020400" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播4</title>
+    </programme>
+    <programme start="20260219020400" stop="20260219030400" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播5</title>
+    </programme>
+    <programme start="20260219030400" stop="20260219035300" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-无障碍转播（视听版）重播6</title>
+    </programme>
+    <programme start="20260219035300" stop="20260219060100" channel="cctv15">
         <title lang="zh">启航2026——中央广播电视总台跨年晚会-纯享版 下</title>
     </programme>
-    <programme start="20260219055800" stop="20260219064400" channel="cctv15">
+    <programme start="20260219060100" stop="20260219065200" channel="cctv15">
         <title lang="zh">合唱先锋-2026-新春和鸣-2</title>
-    </programme>
-    <programme start="20260219064400" stop="20260219065200" channel="cctv15">
-        <title lang="zh">2026年春节联欢晚会-无障碍转播(视听版)宣传片（长）重播版</title>
     </programme>
     <programme start="20260219065200" stop="20260219080700" channel="cctv15">
         <title lang="zh">神采正飞扬-中国郎之夜-3（纯享版）</title>
@@ -4548,25 +4557,25 @@
     <programme start="20260219103500" stop="20260219113000" channel="cctv15">
         <title lang="zh">全球中文音乐榜上榜-2026-围炉话新春3</title>
     </programme>
-    <programme start="20260219113000" stop="20260219115500" channel="cctv15">
+    <programme start="20260219113000" stop="20260219115900" channel="cctv15">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦1/4</title>
     </programme>
-    <programme start="20260219115500" stop="20260219122300" channel="cctv15">
+    <programme start="20260219115900" stop="20260219122900" channel="cctv15">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦2/4</title>
     </programme>
-    <programme start="20260219122300" stop="20260219125100" channel="cctv15">
+    <programme start="20260219122900" stop="20260219130100" channel="cctv15">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦3/4</title>
     </programme>
-    <programme start="20260219125100" stop="20260219132500" channel="cctv15">
-        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4/4</title>
+    <programme start="20260219130100" stop="20260219133500" channel="cctv15">
+        <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
     </programme>
-    <programme start="20260219132500" stop="20260219143000" channel="cctv15">
+    <programme start="20260219133500" stop="20260219143900" channel="cctv15">
         <title lang="zh">音乐公开课-2026-6</title>
     </programme>
-    <programme start="20260219143000" stop="20260219154500" channel="cctv15">
+    <programme start="20260219143900" stop="20260219155500" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-50</title>
     </programme>
-    <programme start="20260219154500" stop="20260219155900" channel="cctv15">
+    <programme start="20260219155500" stop="20260219155900" channel="cctv15">
         <title lang="zh">合唱先锋-2026-新春和鸣-2</title>
     </programme>
     <programme start="20260216163000" stop="20260216170000" channel="cctv16">
@@ -4902,29 +4911,32 @@
     <programme start="20260217225700" stop="20260217230600" channel="cctv17">
         <title lang="zh">2026田园特供-乡村达人秀20-神鞭绝活表演（春节版）</title>
     </programme>
-    <programme start="20260217230600" stop="20260217234200" channel="cctv17">
+    <programme start="20260217230600" stop="20260217234000" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260217234200" stop="20260218001700" channel="cctv17">
+    <programme start="20260217234000" stop="20260218001400" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260218001700" stop="20260218005300" channel="cctv17">
+    <programme start="20260218001400" stop="20260218005400" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme start="20260218005300" stop="20260218012800" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    <programme start="20260218005400" stop="20260218013700" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260218012800" stop="20260218020400" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218013700" stop="20260218022000" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260218020400" stop="20260218023900" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218022000" stop="20260218025400" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260218023900" stop="20260218031600" channel="cctv17">
+    <programme start="20260218025400" stop="20260218032800" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260218031600" stop="20260218040000" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260218032800" stop="20260218035600" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-8</title>
+    </programme>
+    <programme start="20260218035600" stop="20260218040000" channel="cctv17">
+        <title lang="zh">2026田园特供-乡村达人秀2-铁砂掌表演</title>
     </programme>
     <programme start="20260218040000" stop="20260218043100" channel="cctv17">
         <title lang="zh">中国三农报道</title>
@@ -4968,31 +4980,31 @@
     <programme start="20260218122400" stop="20260218132100" channel="cctv17">
         <title lang="zh">田野欢歌-2026-3-乡土能人庆新春2</title>
     </programme>
-    <programme start="20260218132100" stop="20260218135700" channel="cctv17">
+    <programme start="20260218132100" stop="20260218135500" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260218135700" stop="20260218143200" channel="cctv17">
+    <programme start="20260218135500" stop="20260218142900" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260218143200" stop="20260218150800" channel="cctv17">
+    <programme start="20260218142900" stop="20260218150900" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme start="20260218150800" stop="20260218154300" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    <programme start="20260218150900" stop="20260218155200" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260218154300" stop="20260218155900" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218155200" stop="20260218155900" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260218161900" stop="20260218165400" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260218163500" stop="20260218170900" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260218165400" stop="20260218173100" channel="cctv17">
+    <programme start="20260218170900" stop="20260218174300" channel="cctv17">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260218173100" stop="20260218182100" channel="cctv17">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260218174300" stop="20260218181900" channel="cctv17">
+        <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
-    <programme start="20260218182100" stop="20260218215600" channel="cctv17">
+    <programme start="20260218181900" stop="20260218215600" channel="cctv17">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260218215600" stop="20260218220000" channel="cctv17">
