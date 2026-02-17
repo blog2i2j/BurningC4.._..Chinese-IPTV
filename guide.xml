@@ -348,13 +348,10 @@
     <programme start="20260217030400" stop="20260217034700" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme start="20260217034700" stop="20260217040000" channel="cctv1">
+    <programme start="20260217034700" stop="20260217045100" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260217040000" stop="20260217043000" channel="cctv1">
-        <title lang="zh">新闻30分</title>
-    </programme>
-    <programme start="20260217043000" stop="20260217052500" channel="cctv1">
+    <programme start="20260217045100" stop="20260217052500" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
     <programme start="20260217052500" stop="20260217055500" channel="cctv1">
@@ -453,22 +450,22 @@
     <programme start="20260217212700" stop="20260217220000" channel="cctv1">
         <title lang="zh">文脉春秋-2024-30</title>
     </programme>
-    <programme start="20260217220000" stop="20260218003600" channel="cctv1">
+    <programme start="20260217220000" stop="20260218003400" channel="cctv1">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20260218003600" stop="20260218010700" channel="cctv1">
+    <programme start="20260218003400" stop="20260218010500" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦1/3</title>
     </programme>
-    <programme start="20260218010700" stop="20260218013600" channel="cctv1">
+    <programme start="20260218010500" stop="20260218013400" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦2/3</title>
     </programme>
-    <programme start="20260218013600" stop="20260218014800" channel="cctv1">
+    <programme start="20260218013400" stop="20260218014500" channel="cctv1">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦3/3</title>
     </programme>
-    <programme start="20260218014800" stop="20260218022000" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260218014500" stop="20260218022100" channel="cctv1">
+        <title lang="zh">寻味山海-霍山</title>
     </programme>
-    <programme start="20260218022000" stop="20260218040000" channel="cctv1">
+    <programme start="20260218022100" stop="20260218040000" channel="cctv1">
         <title lang="zh">马到成功·中国年-精编90分钟-1</title>
     </programme>
     <programme start="20260218040000" stop="20260218043500" channel="cctv1">
