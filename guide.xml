@@ -4479,13 +4479,22 @@
     <programme start="20260218125800" stop="20260218141300" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-49</title>
     </programme>
-    <programme start="20260218141300" stop="20260218155900" channel="cctv15">
-        <title lang="zh">2026欢欢喜喜过大年-1</title>
+    <programme start="20260218141300" stop="20260218151700" channel="cctv15">
+        <title lang="zh">2026欢欢喜喜过大年-重播 1/4</title>
     </programme>
-    <programme start="20260218172900" stop="20260218182600" channel="cctv15">
+    <programme start="20260218151700" stop="20260218155900" channel="cctv15">
+        <title lang="zh">2026欢欢喜喜过大年-重播 2/4</title>
+    </programme>
+    <programme start="20260218161500" stop="20260218171600" channel="cctv15">
+        <title lang="zh">2026欢欢喜喜过大年-重播 3/4</title>
+    </programme>
+    <programme start="20260218171600" stop="20260218174300" channel="cctv15">
+        <title lang="zh">2026欢欢喜喜过大年-重播 4/4</title>
+    </programme>
+    <programme start="20260218174300" stop="20260218184100" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-58-新春音乐季（2）</title>
     </programme>
-    <programme start="20260218182600" stop="20260218220000" channel="cctv15">
+    <programme start="20260218184100" stop="20260218220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260218220000" stop="20260218230200" channel="cctv15">
