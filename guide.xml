@@ -1038,38 +1038,35 @@
     <programme start="20260218171700" stop="20260218183400" channel="cctv3">
         <title lang="zh">2026年开门迎春晚-1</title>
     </programme>
-    <programme start="20260218183400" stop="20260218201600" channel="cctv3">
+    <programme start="20260218183400" stop="20260218201700" channel="cctv3">
         <title lang="zh">笑有新生-1</title>
     </programme>
-    <programme start="20260218201600" stop="20260218204900" channel="cctv3">
+    <programme start="20260218201700" stop="20260218205100" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260218204900" stop="20260218212400" channel="cctv3">
+    <programme start="20260218205100" stop="20260218212600" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260218212400" stop="20260218220200" channel="cctv3">
+    <programme start="20260218212600" stop="20260218220500" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme start="20260218220200" stop="20260218224500" channel="cctv3">
+    <programme start="20260218220500" stop="20260218224800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260218224500" stop="20260218232700" channel="cctv3">
+    <programme start="20260218224800" stop="20260218233200" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260218232700" stop="20260219000100" channel="cctv3">
+    <programme start="20260218233200" stop="20260219000600" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260219000100" stop="20260219003400" channel="cctv3">
+    <programme start="20260219000600" stop="20260219004000" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260219003400" stop="20260219010300" channel="cctv3">
+    <programme start="20260219004000" stop="20260219010900" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
-    <programme start="20260219010300" stop="20260219020400" channel="cctv3">
+    <programme start="20260219010900" stop="20260219021600" channel="cctv3">
         <title lang="zh">星光大道-2026-16（星光贺岁）</title>
-    </programme>
-    <programme start="20260219020400" stop="20260219021600" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-歌曲-站位有我在（4K）</title>
     </programme>
     <programme start="20260219021600" stop="20260219033900" channel="cctv3">
         <title lang="zh">2026年开门迎春晚-2</title>
