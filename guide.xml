@@ -1612,13 +1612,13 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子大跳台决赛（4K）</title>
     </programme>
     <programme start="20260220010000" stop="20260220020000" channel="cctv5">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池资格赛</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 女子冰球决赛</title>
     </programme>
     <programme start="20260220020000" stop="20260220030000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子1500米</title>
     </programme>
     <programme start="20260220030000" stop="20260220040000" channel="cctv5">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池资格赛</title>
     </programme>
     <programme start="20260220040000" stop="20260220050500" channel="cctv5">
         <title lang="zh">体坛快讯-米兰最前沿</title>
@@ -1632,17 +1632,14 @@
     <programme start="20260220064000" stop="20260220080000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 女子冰球决赛</title>
     </programme>
-    <programme start="20260220080000" stop="20260220090000" channel="cctv5">
+    <programme start="20260220080000" stop="20260220083000" channel="cctv5">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子1500米</title>
+    </programme>
+    <programme start="20260220083000" stop="20260220093000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子U型池资格赛</title>
     </programme>
-    <programme start="20260220090000" stop="20260220100000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子障碍追逐资格赛</title>
-    </programme>
-    <programme start="20260220100000" stop="20260220101000" channel="cctv5">
-        <title lang="zh">《滚动新闻》</title>
-    </programme>
-    <programme start="20260220101000" stop="20260220110000" channel="cctv5">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰 男子1500米</title>
+    <programme start="20260220093000" stop="20260220110000" channel="cctv5">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧男子资格赛</title>
     </programme>
     <programme start="20260220110000" stop="20260220113500" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子障碍追逐1/8决赛</title>
@@ -1653,11 +1650,11 @@
     <programme start="20260220115400" stop="20260220121000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子障碍追逐半决赛</title>
     </programme>
-    <programme start="20260220121000" stop="20260220122000" channel="cctv5">
+    <programme start="20260220121000" stop="20260220123000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪女子障碍追逐铜牌赛、决赛</title>
     </programme>
-    <programme start="20260220122000" stop="20260220133000" channel="cctv5">
-        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
+    <programme start="20260220123000" stop="20260220133000" channel="cctv5">
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
     </programme>
     <programme start="20260220133000" stop="20260220143000" channel="cctv5">
         <title lang="zh">体育世界-全景米兰</title>
@@ -1678,7 +1675,7 @@
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 雪车女子双人第1轮</title>
     </programme>
     <programme start="20260220175400" stop="20260220191500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰壶女子半决赛</title>
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 冬季两项男子15公里集体出发</title>
     </programme>
     <programme start="20260220191500" stop="20260220200000" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 短道速滑女子1500米1/4决赛1-6</title>
