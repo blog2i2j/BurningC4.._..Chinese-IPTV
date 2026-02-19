@@ -1170,11 +1170,17 @@
     <programme start="20260221113000" stop="20260221132200" channel="cctv3">
         <title lang="zh">星光大道-2026-3</title>
     </programme>
-    <programme start="20260221132200" stop="20260221142600" channel="cctv3">
+    <programme start="20260221132200" stop="20260221135200" channel="cctv3">
+        <title lang="zh">2026我们的村节-1</title>
+    </programme>
+    <programme start="20260221135200" stop="20260221145200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-48</title>
     </programme>
-    <programme start="20260221142600" stop="20260221155900" channel="cctv3">
-        <title lang="zh">2026新春喜剧之夜-1</title>
+    <programme start="20260221145200" stop="20260221155400" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-1/2</title>
+    </programme>
+    <programme start="20260221155400" stop="20260221155900" channel="cctv3">
+        <title lang="zh">2026新春喜剧之夜-2/2</title>
     </programme>
     <programme start="20260218163200" stop="20260218170000" channel="cctv4">
         <title lang="zh">记住乡愁2026-19</title>
