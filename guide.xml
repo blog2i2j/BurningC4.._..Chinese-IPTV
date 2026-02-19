@@ -1651,25 +1651,25 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 自由式滑雪空中技巧女子决赛</title>
     </programme>
     <programme start="20260219084700" stop="20260219092700" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 冲刺赛预赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 短距离赛预赛</title>
     </programme>
     <programme start="20260219092700" stop="20260219095500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 冲刺赛预赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 短距离赛预赛</title>
     </programme>
     <programme start="20260219095500" stop="20260219115500" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子U型池资格赛1、2</title>
     </programme>
     <programme start="20260219115500" stop="20260219122500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛半决赛</title>
     </programme>
     <programme start="20260219122500" stop="20260219125200" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛半决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛半决赛</title>
     </programme>
     <programme start="20260219125200" stop="20260219131200" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛决赛</title>
     </programme>
     <programme start="20260219131200" stop="20260219132000" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子冲刺赛决赛</title>
+        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子短距离赛决赛</title>
     </programme>
     <programme start="20260219132000" stop="20260219143000" channel="cctv5">
         <title lang="zh">体育世界-全景米兰</title>
@@ -4284,29 +4284,32 @@
     <programme start="20260220112500" stop="20260220135000" channel="cctvchild">
         <title lang="zh">动画电影-哪吒之魔童闹海</title>
     </programme>
-    <programme start="20260220135000" stop="20260220142500" channel="cctvchild">
+    <programme start="20260220135000" stop="20260220142200" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260220142500" stop="20260220150000" channel="cctvchild">
+    <programme start="20260220142200" stop="20260220145700" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260220150000" stop="20260220153500" channel="cctvchild">
+    <programme start="20260220145700" stop="20260220153500" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
     <programme start="20260220153500" stop="20260220155900" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260220161000" stop="20260220164500" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-5/8</title>
+    <programme start="20260220161800" stop="20260220170000" channel="cctvchild">
+        <title lang="zh">2026年春节联欢晚会-5</title>
     </programme>
-    <programme start="20260220164500" stop="20260220172000" channel="cctvchild">
+    <programme start="20260220170000" stop="20260220173400" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260220172000" stop="20260220175500" channel="cctvchild">
+    <programme start="20260220173400" stop="20260220180700" channel="cctvchild">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260220175500" stop="20260220220000" channel="cctvchild">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260220180700" stop="20260220183200" channel="cctvchild">
+        <title lang="zh">2026年春节联欢晚会-8</title>
+    </programme>
+    <programme start="20260220183200" stop="20260220220000" channel="cctvchild">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260220220000" stop="20260220234500" channel="cctvchild">
         <title lang="zh">动画大放映（周末早间版）-2026-15</title>
