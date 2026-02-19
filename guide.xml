@@ -1653,11 +1653,11 @@
     <programme start="20260219084700" stop="20260219092700" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子3组 短距离赛预赛</title>
     </programme>
-    <programme start="20260219092700" stop="20260219095500" channel="cctv5">
+    <programme start="20260219092700" stop="20260219100300" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 男子3组 短距离赛预赛</title>
     </programme>
-    <programme start="20260219095500" stop="20260219115500" channel="cctv5">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 自由式滑雪男子U型池资格赛1、2</title>
+    <programme start="20260219100300" stop="20260219115500" channel="cctv5">
+        <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 北欧两项团体 跳台滑雪</title>
     </programme>
     <programme start="20260219115500" stop="20260219122500" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 滑雪登山 女子短距离赛半决赛</title>
@@ -2023,7 +2023,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男女团体短距离决赛（4K）</title>
     </programme>
     <programme start="20260221073000" stop="20260221080000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 滑雪登山女子、男子短距离（4K）</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛（4K）</title>
     </programme>
     <programme start="20260221080000" stop="20260221090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛（4K）</title>
@@ -4723,7 +4723,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬季两项女子10公里追逐</title>
     </programme>
     <programme start="20260221080000" stop="20260221090000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 越野滑雪男女团体短距离决赛</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1（4K）</title>
     </programme>
     <programme start="20260221090000" stop="20260221100000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
