@@ -1146,29 +1146,29 @@
     <programme start="20260222103600" stop="20260222113000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-39</title>
     </programme>
-    <programme start="20260222113000" stop="20260222120200" channel="cctv3">
+    <programme start="20260222113000" stop="20260222120400" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-1/8</title>
     </programme>
-    <programme start="20260222120200" stop="20260222123200" channel="cctv3">
+    <programme start="20260222120400" stop="20260222123800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-2/8</title>
     </programme>
-    <programme start="20260222123200" stop="20260222130400" channel="cctv3">
+    <programme start="20260222123800" stop="20260222131800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-3/8</title>
     </programme>
-    <programme start="20260222130400" stop="20260222133400" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-4/8</title>
+    <programme start="20260222131800" stop="20260222140100" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-4</title>
     </programme>
-    <programme start="20260222133400" stop="20260222140600" channel="cctv3">
+    <programme start="20260222140100" stop="20260222144400" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-5/8</title>
     </programme>
-    <programme start="20260222140600" stop="20260222143600" channel="cctv3">
+    <programme start="20260222144400" stop="20260222151800" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-6/8</title>
     </programme>
-    <programme start="20260222143600" stop="20260222150800" channel="cctv3">
+    <programme start="20260222151800" stop="20260222155200" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-7/8</title>
     </programme>
-    <programme start="20260222150800" stop="20260222155900" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-8/8</title>
+    <programme start="20260222155200" stop="20260222155900" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-8</title>
     </programme>
     <programme start="20260219162800" stop="20260219165300" channel="cctv4">
         <title lang="zh">2026年春节联欢晚会-歌舞节目集锦4</title>
