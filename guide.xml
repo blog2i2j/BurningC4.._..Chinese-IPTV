@@ -1638,8 +1638,11 @@
     <programme start="20260220060500" stop="20260220064000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 滑雪登山男子、女子冲刺赛</title>
     </programme>
-    <programme start="20260220064000" stop="20260220080000" channel="cctv5">
+    <programme start="20260220064000" stop="20260220070000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 女子冰球决赛</title>
+    </programme>
+    <programme start="20260220070000" stop="20260220080000" channel="cctv5">
+        <title lang="zh">2026年米兰科尔蒂纳冬奥会及冬残奥会转播报道-破冰吧！冠军</title>
     </programme>
     <programme start="20260220080000" stop="20260220083000" channel="cctv5">
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 速度滑冰男子1500米</title>
