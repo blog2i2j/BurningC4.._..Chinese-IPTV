@@ -3921,10 +3921,10 @@
     <programme start="20260220130000" stop="20260220133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260220133000" stop="20260220140500" channel="cctv13">
+    <programme start="20260220133000" stop="20260220140800" channel="cctv13">
         <title lang="zh">2026吾家吾国-3</title>
     </programme>
-    <programme start="20260220140500" stop="20260220143000" channel="cctv13">
+    <programme start="20260220140800" stop="20260220143000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20260220143000" stop="20260220150000" channel="cctv13">
@@ -3942,10 +3942,10 @@
     <programme start="20260220174400" stop="20260220180000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260220180000" stop="20260220182500" channel="cctv13">
+    <programme start="20260220180000" stop="20260220182200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260220182500" stop="20260220190000" channel="cctv13">
+    <programme start="20260220182200" stop="20260220190000" channel="cctv13">
         <title lang="zh">2026吾家吾国-3</title>
     </programme>
     <programme start="20260220190000" stop="20260220194400" channel="cctv13">
