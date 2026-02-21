@@ -1681,7 +1681,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛（4K）</title>
     </programme>
     <programme start="20260221220000" stop="20260221223000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 滑雪登山混合接力（4K）</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车（4K）</title>
     </programme>
     <programme start="20260221223000" stop="20260221230000" channel="cctv5">
         <title lang="zh">健身动起来</title>
@@ -1734,14 +1734,14 @@
     <programme start="20260222130000" stop="20260222155900" channel="cctv5">
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 冰球男子决赛</title>
     </programme>
-    <programme start="20260222161000" stop="20260222193000" channel="cctv5">
+    <programme start="20260222161000" stop="20260222192900" channel="cctv5">
         <title lang="zh">体育世界-全景米兰闭幕式特别节目</title>
     </programme>
-    <programme start="20260222193000" stop="20260222213000" channel="cctv5">
+    <programme start="20260222192900" stop="20260222214500" channel="cctv5">
         <title lang="zh">2026年米兰-科尔蒂纳冬奥会 闭幕式</title>
     </programme>
-    <programme start="20260222213000" stop="20260222220000" channel="cctv5">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子回转（4K）</title>
+    <programme start="20260222214500" stop="20260222220000" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏1（4K）</title>
     </programme>
     <programme start="20260222220000" stop="20260222223000" channel="cctv5">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 男子钢架雪车（4K）</title>
@@ -1885,7 +1885,7 @@
         <title lang="zh">2026年世乒联大满贯（新加坡站）-第1轮1</title>
     </programme>
     <programme start="20260222073500" stop="20260222080500" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 滑雪登山混合接力（4K）</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子大回转（4K）</title>
     </programme>
     <programme start="20260222080500" stop="20260222090000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子障碍追逐决赛（4K）</title>
@@ -1917,14 +1917,17 @@
     <programme start="20260222173000" stop="20260222183000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛1（4K）</title>
     </programme>
-    <programme start="20260222183000" stop="20260222193000" channel="cctv5plus">
+    <programme start="20260222183000" stop="20260222192900" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛3（4K）</title>
     </programme>
-    <programme start="20260222193000" stop="20260222213000" channel="cctv5plus">
+    <programme start="20260222192900" stop="20260222214500" channel="cctv5plus">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-  闭幕式</title>
     </programme>
-    <programme start="20260222213000" stop="20260222230000" channel="cctv5plus">
-        <title lang="zh">实况录像-2025年世界田联钻石联赛  拉巴特站</title>
+    <programme start="20260222214500" stop="20260222224500" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛（4K）</title>
+    </programme>
+    <programme start="20260222224500" stop="20260222230000" channel="cctv5plus">
+        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏2（4K）</title>
     </programme>
     <programme start="20260222230000" stop="20260223003000" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第21轮 上海久事—深圳马可波罗</title>
@@ -4543,7 +4546,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 短道速滑比赛2</title>
     </programme>
     <programme start="20260222133000" stop="20260222140000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 滑雪登山混合接力</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪混合团体障碍追逐（4K）</title>
     </programme>
     <programme start="20260222140000" stop="20260222150000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子U型场地技巧决赛</title>
@@ -4560,17 +4563,17 @@
     <programme start="20260222180000" stop="20260222183000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 钢架雪车混合团体</title>
     </programme>
-    <programme start="20260222183000" stop="20260222193000" channel="cctv16">
+    <programme start="20260222183000" stop="20260222192900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
     </programme>
-    <programme start="20260222193000" stop="20260222213500" channel="cctv16">
+    <programme start="20260222192900" stop="20260222214500" channel="cctv16">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会- 闭幕式</title>
     </programme>
-    <programme start="20260222213500" stop="20260222230000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第21轮 广东东阳光—长白山恩都里</title>
+    <programme start="20260222214500" stop="20260222230500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第21轮 广东东阳光—长白山恩都里4K</title>
     </programme>
-    <programme start="20260222230000" stop="20260222233000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 自由式小轮车男子决赛</title>
+    <programme start="20260222230500" stop="20260222233000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 自由式小轮车男子决赛（4K）</title>
     </programme>
     <programme start="20260222233000" stop="20260223003000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 游泳比赛1</title>
