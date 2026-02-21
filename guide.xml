@@ -483,10 +483,10 @@
     <programme start="20260222113900" stop="20260222120400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260222120400" stop="20260222135200" channel="cctv1">
+    <programme start="20260222120400" stop="20260222135100" channel="cctv1">
         <title lang="zh">2025中国诗词大会-5</title>
     </programme>
-    <programme start="20260222135200" stop="20260222140000" channel="cctv1">
+    <programme start="20260222135100" stop="20260222140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260222140000" stop="20260222143600" channel="cctv1">
