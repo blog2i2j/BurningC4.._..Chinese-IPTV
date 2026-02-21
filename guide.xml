@@ -507,10 +507,10 @@
     <programme start="20260222183400" stop="20260222192000" channel="cctv1">
         <title lang="zh">花开中国-福建·漳州篇</title>
     </programme>
-    <programme start="20260222192000" stop="20260222215700" channel="cctv1">
+    <programme start="20260222192000" stop="20260222215800" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260222215700" stop="20260222220000" channel="cctv1">
+    <programme start="20260222215800" stop="20260222220000" channel="cctv1">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20260222220000" stop="20260223003700" channel="cctv1">
@@ -540,20 +540,20 @@
     <programme start="20260223054100" stop="20260223062900" channel="cctv1">
         <title lang="zh">生命树12/40</title>
     </programme>
-    <programme start="20260223062900" stop="20260223072000" channel="cctv1">
+    <programme start="20260223062900" stop="20260223071800" channel="cctv1">
         <title lang="zh">生命树13/40</title>
     </programme>
-    <programme start="20260223072000" stop="20260223080900" channel="cctv1">
+    <programme start="20260223071800" stop="20260223080700" channel="cctv1">
         <title lang="zh">生命树14/40</title>
     </programme>
-    <programme start="20260223080900" stop="20260223085900" channel="cctv1">
+    <programme start="20260223080700" stop="20260223085600" channel="cctv1">
         <title lang="zh">生命树15/40</title>
     </programme>
-    <programme start="20260223085900" stop="20260223091700" channel="cctv1">
+    <programme start="20260223085600" stop="20260223091500" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-49</title>
     </programme>
-    <programme start="20260223091700" stop="20260223104800" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-5-辽宁</title>
+    <programme start="20260223091500" stop="20260223104800" channel="cctv1">
+        <title lang="zh">2026年非遗晚会-1</title>
     </programme>
     <programme start="20260223104800" stop="20260223110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-49</title>
