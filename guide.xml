@@ -3996,29 +3996,14 @@
     <programme start="20260222190000" stop="20260222192000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260222192000" stop="20260222200000" channel="cctv13">
+    <programme start="20260222192000" stop="20260222220000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260222200000" stop="20260222201500" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260222201500" stop="20260222210000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
-    </programme>
-    <programme start="20260222210000" stop="20260222211600" channel="cctv13">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260222211600" stop="20260222220000" channel="cctv13">
-        <title lang="zh">面对面</title>
     </programme>
     <programme start="20260222220000" stop="20260223010000" channel="cctv13">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme start="20260223010000" stop="20260223011200" channel="cctv13">
+    <programme start="20260223010000" stop="20260223020000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260223011200" stop="20260223020000" channel="cctv13">
-        <title lang="zh">世界周刊</title>
     </programme>
     <programme start="20260223020000" stop="20260223030000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -4026,20 +4011,17 @@
     <programme start="20260223030000" stop="20260223040000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260223040000" stop="20260223043300" channel="cctv13">
+    <programme start="20260223040000" stop="20260223043400" channel="cctv13">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260223043300" stop="20260223050000" channel="cctv13">
-        <title lang="zh">法治在线</title>
+    <programme start="20260223043400" stop="20260223050000" channel="cctv13">
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20260223050000" stop="20260223060000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260223060000" stop="20260223061600" channel="cctv13">
+    <programme start="20260223060000" stop="20260223070000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme start="20260223061600" stop="20260223070000" channel="cctv13">
-        <title lang="zh">面对面</title>
     </programme>
     <programme start="20260223070000" stop="20260223080000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
@@ -4053,8 +4035,11 @@
     <programme start="20260223100000" stop="20260223110000" channel="cctv13">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme start="20260223110000" stop="20260223114000" channel="cctv13">
+    <programme start="20260223110000" stop="20260223113200" channel="cctv13">
         <title lang="zh">新闻联播</title>
+    </programme>
+    <programme start="20260223113200" stop="20260223114000" channel="cctv13">
+        <title lang="zh">天气预报</title>
     </programme>
     <programme start="20260223114000" stop="20260223120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
@@ -4065,10 +4050,10 @@
     <programme start="20260223130000" stop="20260223133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260223133000" stop="20260223140000" channel="cctv13">
-        <title lang="zh">新闻1+1</title>
+    <programme start="20260223133000" stop="20260223140500" channel="cctv13">
+        <title lang="zh">2026吾家吾国-6</title>
     </programme>
-    <programme start="20260223140000" stop="20260223143000" channel="cctv13">
+    <programme start="20260223140500" stop="20260223143000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20260223143000" stop="20260223150000" channel="cctv13">
