@@ -3840,10 +3840,10 @@
     <programme start="20260221194400" stop="20260221200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260221200000" stop="20260221202500" channel="cctv13">
+    <programme start="20260221200000" stop="20260221202200" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260221202500" stop="20260221210000" channel="cctv13">
+    <programme start="20260221202200" stop="20260221210000" channel="cctv13">
         <title lang="zh">2026吾家吾国-4</title>
     </programme>
     <programme start="20260221210000" stop="20260221211200" channel="cctv13">
@@ -3906,10 +3906,13 @@
     <programme start="20260222133000" stop="20260222140500" channel="cctv13">
         <title lang="zh">2026吾家吾国-5</title>
     </programme>
-    <programme start="20260222140500" stop="20260222144000" channel="cctv13">
+    <programme start="20260222140500" stop="20260222145000" channel="cctv13">
+        <title lang="zh">面对面</title>
+    </programme>
+    <programme start="20260222145000" stop="20260222152000" channel="cctv13">
         <title lang="zh">2026时政专题片-(访谈特别节目—新春走基层)</title>
     </programme>
-    <programme start="20260222144000" stop="20260222155900" channel="cctv13">
+    <programme start="20260222152000" stop="20260222155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
     <programme start="20260222160000" stop="20260222162500" channel="cctv13">
@@ -3918,10 +3921,10 @@
     <programme start="20260222162500" stop="20260222170000" channel="cctv13">
         <title lang="zh">2026吾家吾国-5</title>
     </programme>
-    <programme start="20260222170000" stop="20260222172500" channel="cctv13">
+    <programme start="20260222170000" stop="20260222173000" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260222172500" stop="20260222180000" channel="cctv13">
+    <programme start="20260222173000" stop="20260222180000" channel="cctv13">
         <title lang="zh">2026时政专题片-（访谈特别节目—新春走基层）</title>
     </programme>
     <programme start="20260222180000" stop="20260222182500" channel="cctv13">
