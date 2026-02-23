@@ -1758,10 +1758,10 @@
     <programme start="20260222192900" stop="20260222214500" channel="cctv5plus">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会-  闭幕式</title>
     </programme>
-    <programme start="20260222214500" stop="20260222224500" channel="cctv5plus">
+    <programme start="20260222214500" stop="20260222220200" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛（4K）</title>
     </programme>
-    <programme start="20260222224500" stop="20260222230000" channel="cctv5plus">
+    <programme start="20260222220200" stop="20260222230000" channel="cctv5plus">
         <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏2（4K）</title>
     </programme>
     <programme start="20260222230000" stop="20260223003000" channel="cctv5plus">
@@ -4455,10 +4455,10 @@
     <programme start="20260222183000" stop="20260222192900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子空中技巧决赛</title>
     </programme>
-    <programme start="20260222192900" stop="20260222214500" channel="cctv16">
+    <programme start="20260222192900" stop="20260222220200" channel="cctv16">
         <title lang="zh">2026年米兰科尔蒂纳冬奥会- 闭幕式</title>
     </programme>
-    <programme start="20260222214500" stop="20260222230500" channel="cctv16">
+    <programme start="20260222220200" stop="20260222230500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第21轮 广东东阳光—长白山恩都里4K</title>
     </programme>
     <programme start="20260222230500" stop="20260222233000" channel="cctv16">
