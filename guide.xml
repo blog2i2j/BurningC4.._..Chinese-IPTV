@@ -552,20 +552,20 @@
     <programme start="20260226054100" stop="20260226062800" channel="cctv1">
         <title lang="zh">生命树24/40</title>
     </programme>
-    <programme start="20260226062800" stop="20260226071800" channel="cctv1">
+    <programme start="20260226062800" stop="20260226071700" channel="cctv1">
         <title lang="zh">生命树25/40</title>
     </programme>
-    <programme start="20260226071800" stop="20260226080700" channel="cctv1">
+    <programme start="20260226071700" stop="20260226080600" channel="cctv1">
         <title lang="zh">生命树26/40</title>
     </programme>
-    <programme start="20260226080700" stop="20260226085500" channel="cctv1">
+    <programme start="20260226080600" stop="20260226085400" channel="cctv1">
         <title lang="zh">生命树27/40</title>
     </programme>
-    <programme start="20260226085500" stop="20260226091300" channel="cctv1">
+    <programme start="20260226085400" stop="20260226091200" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-52</title>
     </programme>
-    <programme start="20260226091300" stop="20260226104900" channel="cctv1">
-        <title lang="zh">非遗里的中国（第四季）-4</title>
+    <programme start="20260226091200" stop="20260226104900" channel="cctv1">
+        <title lang="zh">非遗里的中国（第四季）-1（甘肃篇）</title>
     </programme>
     <programme start="20260226104900" stop="20260226110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-51</title>
