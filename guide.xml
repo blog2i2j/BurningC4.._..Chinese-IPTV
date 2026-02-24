@@ -1119,13 +1119,25 @@
     <programme start="20260226050000" stop="20260226052500" channel="cctv3">
         <title lang="zh">文化十分-2026-43</title>
     </programme>
-    <programme start="20260226052500" stop="20260226083900" channel="cctv3">
-        <title lang="zh">2026欢欢喜喜过大年-1</title>
+    <programme start="20260226052500" stop="20260226071200" channel="cctv3">
+        <title lang="zh">2026银龄新春联欢会-1</title>
     </programme>
-    <programme start="20260226083900" stop="20260226085600" channel="cctv3">
-        <title lang="zh">艺熠生辉-6</title>
+    <programme start="20260226071200" stop="20260226071700" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-吉量（4K）</title>
     </programme>
-    <programme start="20260226085600" stop="20260226100000" channel="cctv3">
+    <programme start="20260226071700" stop="20260226072200" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-奔腾的海骝马（4K）</title>
+    </programme>
+    <programme start="20260226072200" stop="20260226084000" channel="cctv3">
+        <title lang="zh">开门大吉-2026-3</title>
+    </programme>
+    <programme start="20260226084000" stop="20260226084300" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-驭风歌（4K）</title>
+    </programme>
+    <programme start="20260226084300" stop="20260226085300" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-你我经历的一刻（4K）</title>
+    </programme>
+    <programme start="20260226085300" stop="20260226100000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-52</title>
     </programme>
     <programme start="20260226100000" stop="20260226113000" channel="cctv3">
@@ -1134,17 +1146,14 @@
     <programme start="20260226113000" stop="20260226125300" channel="cctv3">
         <title lang="zh">星光大道-2026-9</title>
     </programme>
-    <programme start="20260226125300" stop="20260226134100" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-40</title>
+    <programme start="20260226125300" stop="20260226134500" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-41 马上开心年-3</title>
     </programme>
-    <programme start="20260226134100" stop="20260226141300" channel="cctv3">
+    <programme start="20260226134500" stop="20260226141700" channel="cctv3">
         <title lang="zh">慕名而来2026-3</title>
     </programme>
-    <programme start="20260226141300" stop="20260226155800" channel="cctv3">
+    <programme start="20260226141700" stop="20260226155900" channel="cctv3">
         <title lang="zh">笑有新生-9</title>
-    </programme>
-    <programme start="20260226155800" stop="20260226155900" channel="cctv3">
-        <title lang="zh">综艺喜乐汇-2026-126小夫妻 7/36</title>
     </programme>
     <programme start="20260223163400" stop="20260223170300" channel="cctv4">
         <title lang="zh">华人故事-2026-8</title>
@@ -2683,7 +2692,7 @@
         <title lang="zh">沉默的荣耀第16集</title>
     </programme>
     <programme start="20260225151100" stop="20260225155700" channel="cctv8">
-        <title lang="zh">沉默的荣耀17/39</title>
+        <title lang="zh">沉默的荣耀第17集</title>
     </programme>
     <programme start="20260225155700" stop="20260225155900" channel="cctv8">
         <title lang="zh">星推荐-2026年2月-25</title>
