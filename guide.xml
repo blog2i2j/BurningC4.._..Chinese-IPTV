@@ -474,19 +474,19 @@
     <programme start="20260226110000" stop="20260226114000" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260226114000" stop="20260226120000" channel="cctv1">
+    <programme start="20260226114000" stop="20260226120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260226120000" stop="20260226120500" channel="cctv1">
+    <programme start="20260226120100" stop="20260226120500" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第7集</title>
     </programme>
     <programme start="20260226120500" stop="20260226125600" channel="cctv1">
         <title lang="zh">好好的时光7/40</title>
     </programme>
-    <programme start="20260226125600" stop="20260226125900" channel="cctv1">
+    <programme start="20260226125600" stop="20260226130100" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第8集</title>
     </programme>
-    <programme start="20260226125900" stop="20260226140000" channel="cctv1">
+    <programme start="20260226130100" stop="20260226140000" channel="cctv1">
         <title lang="zh">好好的时光8/40</title>
     </programme>
     <programme start="20260226140000" stop="20260226143600" channel="cctv1">
