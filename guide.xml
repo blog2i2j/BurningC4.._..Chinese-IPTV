@@ -393,25 +393,25 @@
     <programme start="20260225140000" stop="20260225143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260225143600" stop="20260225151000" channel="cctv1">
+    <programme start="20260225143600" stop="20260225152400" channel="cctv1">
         <title lang="zh">三餐四季春节特别节目-4</title>
     </programme>
-    <programme start="20260225151000" stop="20260225155900" channel="cctv1">
+    <programme start="20260225152400" stop="20260225155900" channel="cctv1">
         <title lang="zh">宗师列传·大宋词人传-黄庭坚</title>
     </programme>
-    <programme start="20260225165000" stop="20260225173400" channel="cctv1">
+    <programme start="20260225170400" stop="20260225174800" channel="cctv1">
         <title lang="zh">生活早参考-特别节目（生活圈）2026-51</title>
     </programme>
-    <programme start="20260225173400" stop="20260225180400" channel="cctv1">
+    <programme start="20260225174800" stop="20260225181800" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260225180400" stop="20260225183400" channel="cctv1">
-        <title lang="zh">自然中国-地矿宝藏-高原找铜</title>
+    <programme start="20260225181800" stop="20260225183000" channel="cctv1">
+        <title lang="zh">非遗里的中国（第四季）-精编1</title>
     </programme>
-    <programme start="20260225183400" stop="20260225183800" channel="cctv1">
+    <programme start="20260225183000" stop="20260225183400" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme start="20260225183800" stop="20260225184400" channel="cctv1">
+    <programme start="20260225183400" stop="20260225184400" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260225184400" stop="20260225202000" channel="cctv1">
