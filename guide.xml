@@ -1764,11 +1764,11 @@
     <programme start="20260225023000" stop="20260225040000" channel="cctv5plus">
         <title lang="zh">2025/2026德国足球甲级联赛-第23轮（莱比锡-多特蒙德）</title>
     </programme>
-    <programme start="20260225040000" stop="20260225073500" channel="cctv5plus">
+    <programme start="20260225040000" stop="20260225080000" channel="cctv5plus">
         <title lang="zh">2026年WTT新加坡大满贯-单打第2轮  双打、混双1/4决赛1</title>
     </programme>
-    <programme start="20260225073500" stop="20260225083000" channel="cctv5plus">
-        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬季两项女子4X6公里接力决赛（4K）</title>
+    <programme start="20260225080000" stop="20260225083000" channel="cctv5plus">
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪 女子坡面障碍技巧决赛</title>
     </programme>
     <programme start="20260225083000" stop="20260225100000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冰球女子决赛（4K）</title>
@@ -1807,7 +1807,7 @@
         <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第23轮 长白山恩都里—浙江方兴渡</title>
     </programme>
     <programme start="20260226010000" stop="20260226023000" channel="cctv5plus">
-        <title lang="zh">国际足球赛场-25-26赛季英超联赛第27轮 桑德兰—富勒姆</title>
+        <title lang="zh">国际足球赛场-25-26赛季英超联赛第27轮 切尔西 - 伯恩利</title>
     </programme>
     <programme start="20260226023000" stop="20260226043000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年澳大利亚网球公开赛 男单决赛</title>
@@ -2022,55 +2022,52 @@
     <programme start="20260226181400" stop="20260226193900" channel="cctv6">
         <title lang="zh">狼牙关</title>
     </programme>
-    <programme start="20260226193900" stop="20260226201300" channel="cctv6">
+    <programme start="20260226193900" stop="20260226204800" channel="cctv6">
         <title lang="zh">布兰卡和弹吉他的人（上）</title>
     </programme>
-    <programme start="20260226201300" stop="20260226202100" channel="cctv6">
-        <title lang="zh">布兰卡和弹吉他的人（下）</title>
+    <programme start="20260226204800" stop="20260226221800" channel="cctv6">
+        <title lang="zh">施公案之东珠案</title>
     </programme>
-    <programme start="20260226202100" stop="20260226223000" channel="cctv6">
-        <title lang="zh">布兰卡和弹吉他的人（下）</title>
-    </programme>
-    <programme start="20260226223000" stop="20260227002900" channel="cctv6">
+    <programme start="20260226221800" stop="20260227001300" channel="cctv6">
         <title lang="zh">扫黑·决战</title>
     </programme>
-    <programme start="20260227002900" stop="20260227021500" channel="cctv6">
+    <programme start="20260227001300" stop="20260227015700" channel="cctv6">
         <title lang="zh">施公案之火铳案</title>
     </programme>
-    <programme start="20260227021500" stop="20260227041000" channel="cctv6">
+    <programme start="20260227015700" stop="20260227035800" channel="cctv6">
         <title lang="zh">八卦宗师</title>
     </programme>
-    <programme start="20260227041000" stop="20260227041600" channel="cctv6">
+    <programme start="20260227035800" stop="20260227040300" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260227041600" stop="20260227060400" channel="cctv6">
+    <programme start="20260227040300" stop="20260227055000" channel="cctv6">
         <title lang="zh">霍元甲血战津门</title>
     </programme>
-    <programme start="20260227060400" stop="20260227074400" channel="cctv6">
+    <programme start="20260227055000" stop="20260227074300" channel="cctv6">
         <title lang="zh">伞中情（法国）</title>
     </programme>
-    <programme start="20260227074400" stop="20260227092000" channel="cctv6">
+    <programme start="20260227074300" stop="20260227092300" channel="cctv6">
         <title lang="zh">警花火龙驹</title>
     </programme>
-    <programme start="20260227092000" stop="20260227094600" channel="cctv6">
+    <programme start="20260227092300" stop="20260227095100" channel="cctv6">
         <title lang="zh">《1905影视频》2026-009</title>
     </programme>
-    <programme start="20260227094600" stop="20260227095700" channel="cctv6">
+    <programme start="20260227095100" stop="20260227100100" channel="cctv6">
         <title lang="zh">今日影评2026-042</title>
     </programme>
-    <programme start="20260227095700" stop="20260227115200" channel="cctv6">
+    <programme start="20260227100100" stop="20260227115100" channel="cctv6">
         <title lang="zh">新龙门客栈</title>
     </programme>
-    <programme start="20260227115200" stop="20260227140000" channel="cctv6">
+    <programme start="20260227115100" stop="20260227140000" channel="cctv6">
         <title lang="zh">龙门飞甲</title>
     </programme>
     <programme start="20260227140000" stop="20260227141800" channel="cctv6">
         <title lang="zh">中国电影报道2026-058</title>
     </programme>
-    <programme start="20260227141800" stop="20260227142300" channel="cctv6">
+    <programme start="20260227141800" stop="20260227142400" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2026-02-27</title>
     </programme>
-    <programme start="20260227142300" stop="20260227150000" channel="cctv6">
+    <programme start="20260227142400" stop="20260227150000" channel="cctv6">
         <title lang="zh">速度与激情10（上）</title>
     </programme>
     <programme start="20260227150000" stop="20260227150100" channel="cctv6">
@@ -2629,13 +2626,13 @@
         <title lang="zh">蛮好的人生第28集</title>
     </programme>
     <programme start="20260226093100" stop="20260226102300" channel="cctv8">
-        <title lang="zh">岁月有情时13/30</title>
+        <title lang="zh">岁月有情时第13集</title>
     </programme>
     <programme start="20260226102300" stop="20260226103000" channel="cctv8">
         <title lang="zh">星推荐-2026年2月-25</title>
     </programme>
     <programme start="20260226103000" stop="20260226112000" channel="cctv8">
-        <title lang="zh">岁月有情时14/30</title>
+        <title lang="zh">岁月有情时第14集</title>
     </programme>
     <programme start="20260226112000" stop="20260226112600" channel="cctv8">
         <title lang="zh">星推荐-2026年2月-26</title>
@@ -2644,19 +2641,19 @@
         <title lang="zh">本集提要-纯真年代的爱情-第11集</title>
     </programme>
     <programme start="20260226113000" stop="20260226122500" channel="cctv8">
-        <title lang="zh">纯真年代的爱情11/29</title>
+        <title lang="zh">纯真年代的爱情第11集</title>
     </programme>
     <programme start="20260226122500" stop="20260226123000" channel="cctv8">
         <title lang="zh">本集提要-纯真年代的爱情-第12集</title>
     </programme>
     <programme start="20260226123000" stop="20260226132400" channel="cctv8">
-        <title lang="zh">纯真年代的爱情12/29</title>
+        <title lang="zh">纯真年代的爱情第12集</title>
     </programme>
     <programme start="20260226132400" stop="20260226132900" channel="cctv8">
         <title lang="zh">本集提要-唐宫奇案之青雾风鸣-第33集</title>
     </programme>
     <programme start="20260226132900" stop="20260226141900" channel="cctv8">
-        <title lang="zh">唐宫奇案之青雾风鸣33/34</title>
+        <title lang="zh">唐宫奇案之青雾风鸣第33集</title>
     </programme>
     <programme start="20260226141900" stop="20260226142100" channel="cctv8">
         <title lang="zh">本集提要-沉默的荣耀-第18集</title>
