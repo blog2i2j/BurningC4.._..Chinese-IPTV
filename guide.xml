@@ -1086,26 +1086,26 @@
     <programme start="20260226195300" stop="20260226213100" channel="cctv3">
         <title lang="zh">乐在旅途第三季-3</title>
     </programme>
-    <programme start="20260226213100" stop="20260226224900" channel="cctv3">
-        <title lang="zh">向幸福出发-2025-14</title>
+    <programme start="20260226213100" stop="20260226213400" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-小家年年（4K）</title>
     </programme>
-    <programme start="20260226224900" stop="20260226225400" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-歌曲-奔腾的海骝马（4K）</title>
+    <programme start="20260226213400" stop="20260226225100" channel="cctv3">
+        <title lang="zh">2026年开门迎春晚-9</title>
     </programme>
-    <programme start="20260226225400" stop="20260226231500" channel="cctv3">
+    <programme start="20260226225100" stop="20260226231200" channel="cctv3">
         <title lang="zh">文化十分-2026-43</title>
     </programme>
-    <programme start="20260226231500" stop="20260227003700" channel="cctv3">
-        <title lang="zh">星光大道-2026-6</title>
+    <programme start="20260226231200" stop="20260227003200" channel="cctv3">
+        <title lang="zh">星光大道-2026-7</title>
     </programme>
-    <programme start="20260227003700" stop="20260227015200" channel="cctv3">
+    <programme start="20260227003200" stop="20260227015000" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-120</title>
     </programme>
-    <programme start="20260227015200" stop="20260227032500" channel="cctv3">
+    <programme start="20260227015000" stop="20260227032300" channel="cctv3">
         <title lang="zh">越战越勇-2025-40</title>
     </programme>
-    <programme start="20260227032500" stop="20260227050000" channel="cctv3">
-        <title lang="zh">2026年开门迎春晚-12</title>
+    <programme start="20260227032300" stop="20260227050000" channel="cctv3">
+        <title lang="zh">开门大吉-2026-3</title>
     </programme>
     <programme start="20260227050000" stop="20260227052400" channel="cctv3">
         <title lang="zh">文化十分-2026-44</title>
