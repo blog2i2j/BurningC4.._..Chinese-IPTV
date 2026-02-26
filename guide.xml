@@ -484,13 +484,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260227120100" stop="20260227120600" channel="cctv1">
-        <title lang="zh">前情提要-好好的时光-9/40</title>
+        <title lang="zh">前情提要-好好的时光-第9集</title>
     </programme>
     <programme start="20260227120600" stop="20260227125700" channel="cctv1">
         <title lang="zh">好好的时光9/40</title>
     </programme>
     <programme start="20260227125700" stop="20260227130000" channel="cctv1">
-        <title lang="zh">前情提要-好好的时光-10/40</title>
+        <title lang="zh">前情提要-好好的时光-第10集</title>
     </programme>
     <programme start="20260227130000" stop="20260227140000" channel="cctv1">
         <title lang="zh">好好的时光10/40</title>
@@ -2001,64 +2001,58 @@
     <programme start="20260227165200" stop="20260227182300" channel="cctv6">
         <title lang="zh">血狼犬</title>
     </programme>
-    <programme start="20260227182300" stop="20260227200000" channel="cctv6">
+    <programme start="20260227182300" stop="20260227212900" channel="cctv6">
         <title lang="zh">十八勇士</title>
     </programme>
-    <programme start="20260227200000" stop="20260227200500" channel="cctv6">
-        <title lang="zh">李白之天火燎原</title>
+    <programme start="20260227212900" stop="20260227224000" channel="cctv6">
+        <title lang="zh">猫妖奇谭</title>
     </programme>
-    <programme start="20260227200500" stop="20260227231500" channel="cctv6">
-        <title lang="zh">李白之天火燎原</title>
-    </programme>
-    <programme start="20260227231500" stop="20260228012100" channel="cctv6">
+    <programme start="20260227224000" stop="20260228004500" channel="cctv6">
         <title lang="zh">龙门飞甲</title>
     </programme>
-    <programme start="20260228012100" stop="20260228030800" channel="cctv6">
+    <programme start="20260228004500" stop="20260228023500" channel="cctv6">
         <title lang="zh">猛虫过江</title>
     </programme>
-    <programme start="20260228030800" stop="20260228043500" channel="cctv6">
+    <programme start="20260228023500" stop="20260228040800" channel="cctv6">
         <title lang="zh">大坏狐狸的故事</title>
     </programme>
-    <programme start="20260228043500" stop="20260228044200" channel="cctv6">
+    <programme start="20260228040800" stop="20260228041300" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260228044200" stop="20260228062500" channel="cctv6">
+    <programme start="20260228041300" stop="20260228055700" channel="cctv6">
         <title lang="zh">功夫小子闯情关</title>
     </programme>
-    <programme start="20260228062500" stop="20260228064800" channel="cctv6">
+    <programme start="20260228055700" stop="20260228061800" channel="cctv6">
         <title lang="zh">《1905影视频》2026-009</title>
     </programme>
-    <programme start="20260228064800" stop="20260228082000" channel="cctv6">
+    <programme start="20260228061800" stop="20260228080700" channel="cctv6">
         <title lang="zh">憨豆特工</title>
     </programme>
-    <programme start="20260228082000" stop="20260228085700" channel="cctv6">
-        <title lang="zh">憨豆特工 3（上）</title>
+    <programme start="20260228080700" stop="20260228095900" channel="cctv6">
+        <title lang="zh">憨豆特工 3</title>
     </programme>
-    <programme start="20260228085700" stop="20260228100200" channel="cctv6">
-        <title lang="zh">憨豆特工 3（下）</title>
-    </programme>
-    <programme start="20260228100200" stop="20260228115200" channel="cctv6">
+    <programme start="20260228095900" stop="20260228114500" channel="cctv6">
         <title lang="zh">火线之上</title>
     </programme>
-    <programme start="20260228115200" stop="20260228140500" channel="cctv6">
+    <programme start="20260228114500" stop="20260228140000" channel="cctv6">
         <title lang="zh">龙马精神（2023版）</title>
     </programme>
-    <programme start="20260228140500" stop="20260228142300" channel="cctv6">
+    <programme start="20260228140000" stop="20260228141800" channel="cctv6">
         <title lang="zh">中国电影报道2026-059</title>
     </programme>
-    <programme start="20260228142300" stop="20260228142800" channel="cctv6">
+    <programme start="20260228141800" stop="20260228142400" channel="cctv6">
         <title lang="zh">中国福利彩票阳光开奖2026-02-28</title>
     </programme>
-    <programme start="20260228142800" stop="20260228143800" channel="cctv6">
+    <programme start="20260228142400" stop="20260228143300" channel="cctv6">
         <title lang="zh">佳片有约周六版2026-009</title>
     </programme>
-    <programme start="20260228143800" stop="20260228150500" channel="cctv6">
+    <programme start="20260228143300" stop="20260228150000" channel="cctv6">
         <title lang="zh">飓风营救2（上）</title>
     </programme>
-    <programme start="20260228150500" stop="20260228150700" channel="cctv6">
+    <programme start="20260228150000" stop="20260228150100" channel="cctv6">
         <title lang="zh">中国体育彩票阳光开奖2026-02-28</title>
     </programme>
-    <programme start="20260228150700" stop="20260228155900" channel="cctv6">
+    <programme start="20260228150100" stop="20260228155900" channel="cctv6">
         <title lang="zh">飓风营救2（下）</title>
     </programme>
     <programme start="20260225161000" stop="20260225164800" channel="cctv7">
@@ -3469,7 +3463,7 @@
         <title lang="zh">宝贝亮相吧-2025-46</title>
     </programme>
     <programme start="20260228003500" stop="20260228011700" channel="cctv11">
-        <title lang="zh">典藏-2025-143</title>
+        <title lang="zh">典藏-2026-38</title>
     </programme>
     <programme start="20260228011700" stop="20260228041900" channel="cctv11">
         <title lang="zh">中国戏曲像音像集萃-2024-5京剧《春草闯堂》</title>
@@ -3493,7 +3487,7 @@
         <title lang="zh">天龙八部2/50</title>
     </programme>
     <programme start="20260228110000" stop="20260228113000" channel="cctv11">
-        <title lang="zh">典藏-2025-144</title>
+        <title lang="zh">典藏-2025-143</title>
     </programme>
     <programme start="20260228113000" stop="20260228123200" channel="cctv11">
         <title lang="zh">戏暖崆峒-1</title>
