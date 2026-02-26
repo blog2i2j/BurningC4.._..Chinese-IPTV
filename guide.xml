@@ -1866,10 +1866,10 @@
     <programme start="20260228100000" stop="20260228110000" channel="cctv5plus">
         <title lang="zh">实况录像（奥林匹克）-米兰冬奥全记录6（4K）</title>
     </programme>
-    <programme start="20260228110000" stop="20260228131500" channel="cctv5plus">
-        <title lang="zh">2025/2026赛季中国女子冰球职业联赛-总决赛（齐齐哈尔兰迪-北京 ）</title>
+    <programme start="20260228110000" stop="20260228130000" channel="cctv5plus">
+        <title lang="zh">2025/2026赛季中国排球超级联赛- 女子季后赛（上海光明优倍—天津渤海银行）</title>
     </programme>
-    <programme start="20260228131500" stop="20260228155900" channel="cctv5plus">
+    <programme start="20260228130000" stop="20260228155900" channel="cctv5plus">
         <title lang="zh">2025/2026赛季斯诺克威尔士公开赛-半决赛1</title>
     </programme>
     <programme start="20260225162200" stop="20260225163500" channel="cctv6">
