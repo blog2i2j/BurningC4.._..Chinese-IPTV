@@ -495,10 +495,10 @@
     <programme start="20260228114000" stop="20260228120400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260228120400" stop="20260228135000" channel="cctv1">
+    <programme start="20260228120400" stop="20260228135100" channel="cctv1">
         <title lang="zh">城市风华录（第二季）-莆田篇</title>
     </programme>
-    <programme start="20260228135000" stop="20260228140000" channel="cctv1">
+    <programme start="20260228135100" stop="20260228140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260228140000" stop="20260228143600" channel="cctv1">
@@ -792,13 +792,13 @@
     <programme start="20260228055600" stop="20260228064800" channel="cctv2">
         <title lang="zh">乡村振兴中国行（第四季）-49</title>
     </programme>
-    <programme start="20260228064800" stop="20260228075200" channel="cctv2">
+    <programme start="20260228064800" stop="20260228075300" channel="cctv2">
         <title lang="zh">一槌定音-2026-7</title>
     </programme>
-    <programme start="20260228075200" stop="20260228081800" channel="cctv2">
+    <programme start="20260228075300" stop="20260228081900" channel="cctv2">
         <title lang="zh">2024精品财经纪录-人类记忆中国的世界遗产-5</title>
     </programme>
-    <programme start="20260228081800" stop="20260228084500" channel="cctv2">
+    <programme start="20260228081900" stop="20260228084500" channel="cctv2">
         <title lang="zh">2024精品财经纪录-人类记忆中国的世界遗产-6</title>
     </programme>
     <programme start="20260228084500" stop="20260228085500" channel="cctv2">
@@ -3667,10 +3667,10 @@
         <title lang="zh">夕阳红-2026-60</title>
     </programme>
     <programme start="20260301011000" stop="20260301020400" channel="cctv12">
-        <title lang="zh">方圆剧阵2025-161</title>
+        <title lang="zh">方圆剧阵2026-18</title>
     </programme>
     <programme start="20260301020400" stop="20260301025800" channel="cctv12">
-        <title lang="zh">方圆剧阵2025-162</title>
+        <title lang="zh">方圆剧阵2026-19</title>
     </programme>
     <programme start="20260301025800" stop="20260301033000" channel="cctv12">
         <title lang="zh">法律讲堂-2026-59</title>
