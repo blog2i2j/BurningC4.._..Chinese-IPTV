@@ -1593,10 +1593,10 @@
     <programme start="20260228003000" stop="20260228020000" channel="cctv5plus">
         <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第29轮 博洛尼亚—巴塞罗那</title>
     </programme>
-    <programme start="20260228020000" stop="20260228050000" channel="cctv5plus">
+    <programme start="20260228020000" stop="20260228040000" channel="cctv5plus">
         <title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛32（明尼苏达狂野-犹他猛犸象）</title>
     </programme>
-    <programme start="20260228050000" stop="20260228080500" channel="cctv5plus">
+    <programme start="20260228040000" stop="20260228080500" channel="cctv5plus">
         <title lang="zh">2026年WTT新加坡大满贯-单打1/4决赛   女双决赛</title>
     </programme>
     <programme start="20260228080500" stop="20260228090000" channel="cctv5plus">
@@ -2419,13 +2419,13 @@
         <title lang="zh">星推荐-2026年3月-1</title>
     </programme>
     <programme start="20260301112600" stop="20260301113000" channel="cctv8">
-        <title lang="zh">本集提要-纯真年代的爱情-17/29</title>
+        <title lang="zh">本集提要-纯真年代的爱情-第17集</title>
     </programme>
     <programme start="20260301113000" stop="20260301122500" channel="cctv8">
         <title lang="zh">纯真年代的爱情17/29</title>
     </programme>
     <programme start="20260301122500" stop="20260301123000" channel="cctv8">
-        <title lang="zh">本集提要-纯真年代的爱情-18/29</title>
+        <title lang="zh">本集提要-纯真年代的爱情-第18集</title>
     </programme>
     <programme start="20260301123000" stop="20260301132400" channel="cctv8">
         <title lang="zh">纯真年代的爱情18/29</title>
