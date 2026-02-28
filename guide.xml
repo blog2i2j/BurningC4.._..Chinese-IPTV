@@ -1035,8 +1035,11 @@
     <programme start="20260301021000" stop="20260301033800" channel="cctv3">
         <title lang="zh">开门大吉-2025-43</title>
     </programme>
-    <programme start="20260301033800" stop="20260301051300" channel="cctv3">
+    <programme start="20260301033800" stop="20260301050700" channel="cctv3">
         <title lang="zh">星光大道-2026-5</title>
+    </programme>
+    <programme start="20260301050700" stop="20260301051300" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-小家年年（4K）</title>
     </programme>
     <programme start="20260301051300" stop="20260301064000" channel="cctv3">
         <title lang="zh">2026年春节联欢晚会-语言节目集锦</title>
