@@ -489,10 +489,10 @@
     <programme start="20260301113800" stop="20260301120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260301120300" stop="20260301135300" channel="cctv1">
+    <programme start="20260301120300" stop="20260301135200" channel="cctv1">
         <title lang="zh">三餐四季（第三季）-3天津</title>
     </programme>
-    <programme start="20260301135300" stop="20260301140000" channel="cctv1">
+    <programme start="20260301135200" stop="20260301140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260301140000" stop="20260301143600" channel="cctv1">
