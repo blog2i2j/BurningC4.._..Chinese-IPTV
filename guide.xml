@@ -1224,11 +1224,8 @@
     <programme start="20260228130000" stop="20260228133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260228133000" stop="20260228140000" channel="cctv4">
+    <programme start="20260228133000" stop="20260228143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260228140000" stop="20260228143000" channel="cctv4">
-        <title lang="zh">中国缘-2026-52</title>
     </programme>
     <programme start="20260228143000" stop="20260228150300" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1393,10 +1390,10 @@
         <title lang="zh">环球综艺秀-2026-9</title>
     </programme>
     <programme start="20260301220000" stop="20260301223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2026-60</title>
+        <title lang="zh">走遍中国-2025-175</title>
     </programme>
     <programme start="20260301223000" stop="20260301230000" channel="cctv4">
-        <title lang="zh">深度国际-2026年2月-4</title>
+        <title lang="zh">海峡两岸-2026-60</title>
     </programme>
     <programme start="20260301230000" stop="20260301233000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -2530,7 +2527,7 @@
         <title lang="zh">本集提要-纯真年代的爱情-第17集</title>
     </programme>
     <programme start="20260301113000" stop="20260301122500" channel="cctv8">
-        <title lang="zh">纯真年代的爱情17/29</title>
+        <title lang="zh">纯真年代的爱情第17集</title>
     </programme>
     <programme start="20260301122500" stop="20260301123000" channel="cctv8">
         <title lang="zh">本集提要-纯真年代的爱情-第18集</title>
