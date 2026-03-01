@@ -4782,25 +4782,19 @@
     <programme start="20260303040000" stop="20260303043000" channel="cctv17">
         <title lang="zh">中国三农报道</title>
     </programme>
-    <programme start="20260303043000" stop="20260303043700" channel="cctv17">
-        <title lang="zh">2026田园特供-乡村达人秀8-杂技表演</title>
+    <programme start="20260303043000" stop="20260303054000" channel="cctv17">
+        <title lang="zh">时光的礼物2026-1</title>
     </programme>
-    <programme start="20260303043700" stop="20260303053000" channel="cctv17">
-        <title lang="zh">田野欢歌-2026-2-乡土能人庆新春1</title>
-    </programme>
-    <programme start="20260303053000" stop="20260303053800" channel="cctv17">
-        <title lang="zh">2026田园特供-乡村达人秀25-高杆舞狮表演（春节版）</title>
-    </programme>
-    <programme start="20260303053800" stop="20260303062700" channel="cctv17">
+    <programme start="20260303054000" stop="20260303062800" channel="cctv17">
         <title lang="zh">妈妈在等你17/47</title>
     </programme>
-    <programme start="20260303062700" stop="20260303071800" channel="cctv17">
+    <programme start="20260303062800" stop="20260303071900" channel="cctv17">
         <title lang="zh">妈妈在等你18/47</title>
     </programme>
-    <programme start="20260303071800" stop="20260303080900" channel="cctv17">
+    <programme start="20260303071900" stop="20260303081000" channel="cctv17">
         <title lang="zh">妈妈在等你19/47</title>
     </programme>
-    <programme start="20260303080900" stop="20260303090000" channel="cctv17">
+    <programme start="20260303081000" stop="20260303090000" channel="cctv17">
         <title lang="zh">妈妈在等你20/47</title>
     </programme>
     <programme start="20260303090000" stop="20260303100000" channel="cctv17">
