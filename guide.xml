@@ -456,23 +456,23 @@
     <programme start="20260302043400" stop="20260302054000" channel="cctv1">
         <title lang="zh">花开中国-云南·德宏篇</title>
     </programme>
-    <programme start="20260302054000" stop="20260302063000" channel="cctv1">
+    <programme start="20260302054000" stop="20260302062800" channel="cctv1">
         <title lang="zh">生命树第40集</title>
     </programme>
-    <programme start="20260302063000" stop="20260302072000" channel="cctv1">
+    <programme start="20260302062800" stop="20260302071800" channel="cctv1">
         <title lang="zh">纯真年代的爱情第1集</title>
     </programme>
-    <programme start="20260302072000" stop="20260302080900" channel="cctv1">
+    <programme start="20260302071800" stop="20260302080700" channel="cctv1">
         <title lang="zh">纯真年代的爱情第2集</title>
     </programme>
-    <programme start="20260302080900" stop="20260302085900" channel="cctv1">
+    <programme start="20260302080700" stop="20260302085700" channel="cctv1">
         <title lang="zh">纯真年代的爱情第3集</title>
     </programme>
-    <programme start="20260302085900" stop="20260302091600" channel="cctv1">
+    <programme start="20260302085700" stop="20260302091400" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-56</title>
     </programme>
-    <programme start="20260302091600" stop="20260302104900" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-6-江西</title>
+    <programme start="20260302091400" stop="20260302104900" channel="cctv1">
+        <title lang="zh">2026年非遗晚会-2</title>
     </programme>
     <programme start="20260302104900" stop="20260302110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-58</title>
@@ -480,10 +480,10 @@
     <programme start="20260302110000" stop="20260302113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260302113800" stop="20260302120400" channel="cctv1">
+    <programme start="20260302113800" stop="20260302120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260302120400" stop="20260302135500" channel="cctv1">
+    <programme start="20260302120200" stop="20260302135500" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20260302135500" stop="20260302140000" channel="cctv1">
