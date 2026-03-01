@@ -2106,25 +2106,28 @@
     <programme start="20260301120300" stop="20260301120900" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-精武之歌（2026武警）</title>
     </programme>
-    <programme start="20260301120900" stop="20260301124400" channel="cctv7">
+    <programme start="20260301120900" stop="20260301124300" channel="cctv7">
         <title lang="zh">防务新观察-2026-60</title>
     </programme>
-    <programme start="20260301124400" stop="20260301131400" channel="cctv7">
+    <programme start="20260301124300" stop="20260301134600" channel="cctv7">
+        <title lang="zh">兵器面面观-环球兵器大事件-2026-9</title>
+    </programme>
+    <programme start="20260301134600" stop="20260301141600" channel="cctv7">
         <title lang="zh">时光军史馆-2026-9</title>
     </programme>
-    <programme start="20260301131400" stop="20260301135200" channel="cctv7">
-        <title lang="zh">兵器面面观-环球兵器大事件-2026-9</title>
+    <programme start="20260301141600" stop="20260301145100" channel="cctv7">
+        <title lang="zh">军武零距离-2026-4（4K）</title>
     </programme>
-    <programme start="20260301135200" stop="20260301144300" channel="cctv7">
+    <programme start="20260301145100" stop="20260301154100" channel="cctv7">
         <title lang="zh">掩不住的阳光17/38</title>
     </programme>
-    <programme start="20260301144300" stop="20260301153900" channel="cctv7">
+    <programme start="20260301154100" stop="20260301155900" channel="cctv7">
         <title lang="zh">掩不住的阳光18/38</title>
     </programme>
-    <programme start="20260301153900" stop="20260301155900" channel="cctv7">
-        <title lang="zh">兵器面面观-环球兵器大事件-2026-9</title>
+    <programme start="20260301163800" stop="20260301172100" channel="cctv7">
+        <title lang="zh">防务新观察-2026-60</title>
     </programme>
-    <programme start="20260301162200" stop="20260301220300" channel="cctv7">
+    <programme start="20260301172100" stop="20260301220300" channel="cctv7">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260301220300" stop="20260301223300" channel="cctv7">
