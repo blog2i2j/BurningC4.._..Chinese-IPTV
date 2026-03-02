@@ -1291,31 +1291,31 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260302203000" stop="20260302210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">记住乡愁2026-34</title>
     </programme>
     <programme start="20260302210000" stop="20260302213000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-34</title>
+        <title lang="zh">中国文艺-2026-43</title>
     </programme>
     <programme start="20260302213000" stop="20260302220000" channel="cctv4">
         <title lang="zh">走遍中国-2026-34</title>
     </programme>
     <programme start="20260302220000" stop="20260302223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2026-61</title>
+        <title lang="zh">国宝发现-2026-9</title>
     </programme>
     <programme start="20260302223000" stop="20260302230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+        <title lang="zh">记住乡愁2026-4</title>
     </programme>
     <programme start="20260302230000" stop="20260302233000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260302233000" stop="20260303000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">海峡两岸-2026-61</title>
     </programme>
     <programme start="20260303000000" stop="20260303010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
     <programme start="20260303010000" stop="20260303012800" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+        <title lang="zh">走遍中国-2025-208</title>
     </programme>
     <programme start="20260303012800" stop="20260303022600" channel="cctv4">
         <title lang="zh">健康中国-2026-9</title>
@@ -4425,14 +4425,14 @@
     <programme start="20260304113000" stop="20260304124400" channel="cctv15">
         <title lang="zh">锦绣弦歌-1</title>
     </programme>
-    <programme start="20260304124400" stop="20260304140200" channel="cctv15">
-        <title lang="zh">中国乡村音乐大会-健康跃动篇（无商务版）</title>
+    <programme start="20260304124400" stop="20260304143300" channel="cctv15">
+        <title lang="zh">综艺喜乐汇-2026-374 2026春节藏历新年联欢晚会 精编版</title>
     </programme>
-    <programme start="20260304140200" stop="20260304151700" channel="cctv15">
+    <programme start="20260304143300" stop="20260304154800" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-420</title>
     </programme>
-    <programme start="20260304151700" stop="20260304155900" channel="cctv15">
-        <title lang="zh">CCTV音乐厅-2026-25-名家名曲（25）</title>
+    <programme start="20260304154800" stop="20260304155900" channel="cctv15">
+        <title lang="zh">CCTV音乐厅-2026-57-新春音乐季（1）</title>
     </programme>
     <programme start="20260301160000" stop="20260301173000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 花样滑冰男子单人滑</title>
