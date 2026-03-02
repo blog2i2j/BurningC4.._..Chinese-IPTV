@@ -1027,7 +1027,7 @@
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-103</title>
     </programme>
     <programme start="20260303015700" stop="20260303032500" channel="cctv3">
-        <title lang="zh">越战越勇-2025-3</title>
+        <title lang="zh">越战越勇-2026-3</title>
     </programme>
     <programme start="20260303032500" stop="20260303050000" channel="cctv3">
         <title lang="zh">开门大吉-2026-9</title>
@@ -1245,11 +1245,8 @@
     <programme start="20260302110000" stop="20260302113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260302113000" stop="20260302120000" channel="cctv4">
+    <programme start="20260302113000" stop="20260302123000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260302120000" stop="20260302123000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-34</title>
     </programme>
     <programme start="20260302123000" stop="20260302130000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-61</title>
@@ -1257,11 +1254,8 @@
     <programme start="20260302130000" stop="20260302133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260302133000" stop="20260302140000" channel="cctv4">
+    <programme start="20260302133000" stop="20260302143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260302140000" stop="20260302143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-34</title>
     </programme>
     <programme start="20260302143000" stop="20260302150300" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -2224,7 +2218,7 @@
         <title lang="zh">时光军史馆-2026-9</title>
     </programme>
     <programme start="20260303002800" stop="20260303010300" channel="cctv7">
-        <title lang="zh">兵器面面观-环球兵器大事件-2026-9</title>
+        <title lang="zh">军武零距离-2026-4（4K）</title>
     </programme>
     <programme start="20260303010300" stop="20260303013500" channel="cctv7">
         <title lang="zh">防务新观察-2026-61</title>
@@ -2367,17 +2361,8 @@
     <programme start="20260304040000" stop="20260304043600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme start="20260304043600" stop="20260304050800" channel="cctv7">
-        <title lang="zh">防务新观察-2026-62</title>
-    </programme>
-    <programme start="20260304050800" stop="20260304054200" channel="cctv7">
-        <title lang="zh">军武零距离-2026-9（4K）</title>
-    </programme>
-    <programme start="20260304054200" stop="20260304060800" channel="cctv7">
-        <title lang="zh">兵器面面观-2026-44</title>
-    </programme>
-    <programme start="20260304060800" stop="20260304063500" channel="cctv7">
-        <title lang="zh">军事纪录-2026-39</title>
+    <programme start="20260304043600" stop="20260304063500" channel="cctv7">
+        <title lang="zh">2026年新春走基层 军营过大年-元宵特别节目</title>
     </programme>
     <programme start="20260304063500" stop="20260304072600" channel="cctv7">
         <title lang="zh">绝密使命7/32</title>
@@ -2641,13 +2626,13 @@
         <title lang="zh">蛮好的人生第33集</title>
     </programme>
     <programme start="20260303093100" stop="20260303102300" channel="cctv8">
-        <title lang="zh">岁月有情时23/30</title>
+        <title lang="zh">岁月有情时第23集</title>
     </programme>
     <programme start="20260303102300" stop="20260303103000" channel="cctv8">
         <title lang="zh">星推荐-2026年3月-2</title>
     </programme>
     <programme start="20260303103000" stop="20260303112000" channel="cctv8">
-        <title lang="zh">岁月有情时24/30</title>
+        <title lang="zh">岁月有情时第24集</title>
     </programme>
     <programme start="20260303112000" stop="20260303112600" channel="cctv8">
         <title lang="zh">星推荐-2026年3月-3</title>
@@ -2656,13 +2641,13 @@
         <title lang="zh">本集提要-纯真年代的爱情-第21集</title>
     </programme>
     <programme start="20260303113000" stop="20260303122500" channel="cctv8">
-        <title lang="zh">纯真年代的爱情21/29</title>
+        <title lang="zh">纯真年代的爱情第21集</title>
     </programme>
     <programme start="20260303122500" stop="20260303123000" channel="cctv8">
         <title lang="zh">本集提要-纯真年代的爱情-第22集</title>
     </programme>
     <programme start="20260303123000" stop="20260303132400" channel="cctv8">
-        <title lang="zh">纯真年代的爱情22/29</title>
+        <title lang="zh">纯真年代的爱情第22集</title>
     </programme>
     <programme start="20260303132400" stop="20260303132900" channel="cctv8">
         <title lang="zh">本集提要-沉默的荣耀-第29集</title>
@@ -3432,62 +3417,62 @@
     <programme start="20260302170300" stop="20260302220600" channel="cctv11">
         <title lang="zh">再见</title>
     </programme>
-    <programme start="20260302220600" stop="20260302231100" channel="cctv11">
-        <title lang="zh">CCTV空中剧院-2025-72地方戏版 好戏连连看 评剧《花为媒》选场二</title>
+    <programme start="20260302220600" stop="20260302225200" channel="cctv11">
+        <title lang="zh">CCTV空中剧院-2024-184地方戏版 汉剧折子戏《柜中缘》(精编)</title>
     </programme>
-    <programme start="20260302231100" stop="20260303001800" channel="cctv11">
+    <programme start="20260302225200" stop="20260302235900" channel="cctv11">
         <title lang="zh">角儿来了-2026-6新春戏曲专场（二）</title>
     </programme>
-    <programme start="20260303001800" stop="20260303010000" channel="cctv11">
+    <programme start="20260302235900" stop="20260303004100" channel="cctv11">
         <title lang="zh">典藏-2025-116</title>
     </programme>
-    <programme start="20260303010000" stop="20260303042900" channel="cctv11">
+    <programme start="20260303004100" stop="20260303041100" channel="cctv11">
         <title lang="zh">2026年春节戏曲晚会-戏曲频道</title>
     </programme>
-    <programme start="20260303042900" stop="20260303052000" channel="cctv11">
+    <programme start="20260303041100" stop="20260303050100" channel="cctv11">
         <title lang="zh">我的后半生第19集</title>
     </programme>
-    <programme start="20260303052000" stop="20260303061000" channel="cctv11">
+    <programme start="20260303050100" stop="20260303055200" channel="cctv11">
         <title lang="zh">我的后半生第20集</title>
     </programme>
-    <programme start="20260303061000" stop="20260303072900" channel="cctv11">
+    <programme start="20260303055200" stop="20260303071100" channel="cctv11">
         <title lang="zh">梨园闯关我挂帅-2025-50</title>
     </programme>
-    <programme start="20260303072900" stop="20260303091900" channel="cctv11">
+    <programme start="20260303071100" stop="20260303090000" channel="cctv11">
         <title lang="zh">中国戏曲像音像集萃-2025-17京剧《牛皋招亲》</title>
     </programme>
-    <programme start="20260303091900" stop="20260303100900" channel="cctv11">
+    <programme start="20260303090000" stop="20260303095100" channel="cctv11">
         <title lang="zh">天龙八部第7集</title>
     </programme>
-    <programme start="20260303100900" stop="20260303110000" channel="cctv11">
+    <programme start="20260303095100" stop="20260303104100" channel="cctv11">
         <title lang="zh">天龙八部第8集</title>
     </programme>
-    <programme start="20260303110000" stop="20260303113000" channel="cctv11">
+    <programme start="20260303104100" stop="20260303111100" channel="cctv11">
         <title lang="zh">典藏-2026-32</title>
     </programme>
-    <programme start="20260303113000" stop="20260303121800" channel="cctv11">
+    <programme start="20260303111100" stop="20260303120000" channel="cctv11">
         <title lang="zh">桂在有戏-元宵特别节目-1</title>
     </programme>
-    <programme start="20260303121800" stop="20260303140200" channel="cctv11">
+    <programme start="20260303120000" stop="20260303134400" channel="cctv11">
         <title lang="zh">越剧电影 追鱼（修复版）</title>
     </programme>
-    <programme start="20260303140200" stop="20260303145300" channel="cctv11">
+    <programme start="20260303134400" stop="20260303143500" channel="cctv11">
         <title lang="zh">我和我的三个姐姐第26集</title>
     </programme>
-    <programme start="20260303145300" stop="20260303154300" channel="cctv11">
+    <programme start="20260303143500" stop="20260303152500" channel="cctv11">
         <title lang="zh">我和我的三个姐姐第27集</title>
     </programme>
-    <programme start="20260303154300" stop="20260303155900" channel="cctv11">
+    <programme start="20260303152500" stop="20260303155900" channel="cctv11">
         <title lang="zh">我和我的三个姐姐第28集</title>
     </programme>
-    <programme start="20260303163400" stop="20260303170500" channel="cctv11">
+    <programme start="20260303161600" stop="20260303164700" channel="cctv11">
         <title lang="zh">典藏-2026-32</title>
     </programme>
-    <programme start="20260303170500" stop="20260303220600" channel="cctv11">
+    <programme start="20260303164700" stop="20260303220600" channel="cctv11">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260303220600" stop="20260303231100" channel="cctv11">
-        <title lang="zh">CCTV空中剧院-2024-141地方戏版 好戏连连看 汉剧折子戏《打花鼓》《柜中缘》（精编）</title>
+        <title lang="zh">CCTV空中剧院-2025-72地方戏版 好戏连连看 评剧《花为媒》选场二</title>
     </programme>
     <programme start="20260303231100" stop="20260304002600" channel="cctv11">
         <title lang="zh">宝贝亮相吧-2025-44</title>
@@ -3495,16 +3480,16 @@
     <programme start="20260304002600" stop="20260304010800" channel="cctv11">
         <title lang="zh">典藏-2026-32</title>
     </programme>
-    <programme start="20260304010800" stop="20260304034700" channel="cctv11">
+    <programme start="20260304010800" stop="20260304034600" channel="cctv11">
         <title lang="zh">中国戏曲像音像集萃-2025-11越剧《九斤姑娘》</title>
     </programme>
-    <programme start="20260304034700" stop="20260304043700" channel="cctv11">
+    <programme start="20260304034600" stop="20260304043700" channel="cctv11">
         <title lang="zh">我的后半生-（高清版）-21/36</title>
     </programme>
-    <programme start="20260304043700" stop="20260304052800" channel="cctv11">
+    <programme start="20260304043700" stop="20260304052700" channel="cctv11">
         <title lang="zh">我的后半生-（高清版）-22/36</title>
     </programme>
-    <programme start="20260304052800" stop="20260304063200" channel="cctv11">
+    <programme start="20260304052700" stop="20260304063200" channel="cctv11">
         <title lang="zh">桂在有戏-元宵特别节目-1</title>
     </programme>
     <programme start="20260304063200" stop="20260304091300" channel="cctv11">
