@@ -492,22 +492,22 @@
     <programme start="20260320110000" stop="20260320113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260320113800" stop="20260320115800" channel="cctv1">
+    <programme start="20260320113800" stop="20260320115700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260320115800" stop="20260320120300" channel="cctv1">
+    <programme start="20260320115700" stop="20260320120000" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第35集</title>
     </programme>
-    <programme start="20260320120300" stop="20260320125500" channel="cctv1">
+    <programme start="20260320120000" stop="20260320125200" channel="cctv1">
         <title lang="zh">好好的时光35/40</title>
     </programme>
-    <programme start="20260320125500" stop="20260320125700" channel="cctv1">
+    <programme start="20260320125200" stop="20260320125700" channel="cctv1">
         <title lang="zh">前情提要-好好的时光-第36集</title>
     </programme>
-    <programme start="20260320125700" stop="20260320135000" channel="cctv1">
+    <programme start="20260320125700" stop="20260320135100" channel="cctv1">
         <title lang="zh">好好的时光36/40</title>
     </programme>
-    <programme start="20260320135000" stop="20260320140000" channel="cctv1">
+    <programme start="20260320135100" stop="20260320140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260320140000" stop="20260320143600" channel="cctv1">
