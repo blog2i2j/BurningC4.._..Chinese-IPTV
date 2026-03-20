@@ -486,13 +486,13 @@
     <programme start="20260321110000" stop="20260321113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260321113800" stop="20260321120300" channel="cctv1">
+    <programme start="20260321113800" stop="20260321120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260321120300" stop="20260321134600" channel="cctv1">
+    <programme start="20260321120100" stop="20260321134300" channel="cctv1">
         <title lang="zh">城市风华录（第二季）-郴州篇</title>
     </programme>
-    <programme start="20260321134600" stop="20260321140000" channel="cctv1">
+    <programme start="20260321134300" stop="20260321140000" channel="cctv1">
         <title lang="zh">中华古树-建阳闽楠古树群（4K）</title>
     </programme>
     <programme start="20260321140000" stop="20260321143500" channel="cctv1">
