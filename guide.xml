@@ -1390,40 +1390,40 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260321203000" stop="20260321210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">走遍中国-2026-42</title>
     </programme>
     <programme start="20260321210000" stop="20260321220000" channel="cctv4">
         <title lang="zh">中国文艺-致敬经典2026-12</title>
     </programme>
     <programme start="20260321220000" stop="20260321223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2026-80</title>
-    </programme>
-    <programme start="20260321223000" stop="20260321230000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260321230000" stop="20260321233000" channel="cctv4">
-        <title lang="zh">中国新闻</title>
+    <programme start="20260321223000" stop="20260321230000" channel="cctv4">
+        <title lang="zh">海峡两岸-2026-80</title>
     </programme>
-    <programme start="20260321233000" stop="20260322000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+    <programme start="20260321230000" stop="20260322000000" channel="cctv4">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260322000000" stop="20260322010000" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20260322010000" stop="20260322012800" channel="cctv4">
+    <programme start="20260322010000" stop="20260322012600" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260322012800" stop="20260322015800" channel="cctv4">
-        <title lang="zh">记住乡愁2026-35</title>
+    <programme start="20260322012600" stop="20260322015300" channel="cctv4">
+        <title lang="zh">国家记忆-2024-182</title>
     </programme>
-    <programme start="20260322015800" stop="20260322022600" channel="cctv4">
-        <title lang="zh">记住乡愁2026-37</title>
+    <programme start="20260322015300" stop="20260322022000" channel="cctv4">
+        <title lang="zh">国家记忆-2024-183</title>
     </programme>
-    <programme start="20260322022600" stop="20260322025600" channel="cctv4">
-        <title lang="zh">记住乡愁2026-43</title>
+    <programme start="20260322022000" stop="20260322025000" channel="cctv4">
+        <title lang="zh">国家记忆-2024-184</title>
     </programme>
-    <programme start="20260322025600" stop="20260322033000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-44</title>
+    <programme start="20260322025000" stop="20260322031800" channel="cctv4">
+        <title lang="zh">鲁健访谈-2026-12</title>
+    </programme>
+    <programme start="20260322031800" stop="20260322033000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-13</title>
     </programme>
     <programme start="20260322033000" stop="20260322040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-80</title>
@@ -1450,7 +1450,7 @@
         <title lang="zh">健康中国-2026-12</title>
     </programme>
     <programme start="20260322100000" stop="20260322110000" channel="cctv4">
-        <title lang="zh">环球综艺秀-2026-12</title>
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260322110000" stop="20260322113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1468,13 +1468,13 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260322140000" stop="20260322143000" channel="cctv4">
-        <title lang="zh">中国缘-2026-12</title>
+        <title lang="zh">深度国际-2026年3月-3</title>
     </programme>
     <programme start="20260322143000" stop="20260322150200" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme start="20260322150200" stop="20260322152900" channel="cctv4">
-        <title lang="zh">国宝发现-2026-12</title>
+        <title lang="zh">海峡两岸-2026-81</title>
     </programme>
     <programme start="20260322152900" stop="20260322155900" channel="cctv4">
         <title lang="zh">依依向北风34/38</title>
@@ -2521,25 +2521,25 @@
         <title lang="zh">本集提要-我的山与海-第29集</title>
     </programme>
     <programme start="20260321113000" stop="20260321122500" channel="cctv8">
-        <title lang="zh">我的山与海29/30</title>
+        <title lang="zh">我的山与海第29集</title>
     </programme>
     <programme start="20260321122500" stop="20260321123000" channel="cctv8">
         <title lang="zh">本集提要-我的山与海-第30集</title>
     </programme>
     <programme start="20260321123000" stop="20260321132400" channel="cctv8">
-        <title lang="zh">我的山与海30/30</title>
+        <title lang="zh">我的山与海第30集</title>
     </programme>
     <programme start="20260321132400" stop="20260321132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第7集</title>
     </programme>
     <programme start="20260321132900" stop="20260321141900" channel="cctv8">
-        <title lang="zh">隐身的名字7/31</title>
+        <title lang="zh">隐身的名字第7集</title>
     </programme>
     <programme start="20260321141900" stop="20260321142100" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第8集</title>
     </programme>
     <programme start="20260321142100" stop="20260321151100" channel="cctv8">
-        <title lang="zh">隐身的名字8/31</title>
+        <title lang="zh">隐身的名字第8集</title>
     </programme>
     <programme start="20260321151100" stop="20260321155700" channel="cctv8">
         <title lang="zh">驻站第27集</title>
