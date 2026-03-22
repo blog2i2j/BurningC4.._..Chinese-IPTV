@@ -1044,14 +1044,11 @@
     <programme start="20260323033300" stop="20260323050000" channel="cctv3">
         <title lang="zh">越战越勇-2026-11</title>
     </programme>
-    <programme start="20260323050000" stop="20260323052300" channel="cctv3">
+    <programme start="20260323050000" stop="20260323052600" channel="cctv3">
         <title lang="zh">文化十分-2026-60</title>
     </programme>
-    <programme start="20260323052300" stop="20260323070100" channel="cctv3">
+    <programme start="20260323052600" stop="20260323070700" channel="cctv3">
         <title lang="zh">敢梦敢为—追觅之夜-1</title>
-    </programme>
-    <programme start="20260323070100" stop="20260323070700" channel="cctv3">
-        <title lang="zh">2026年春节联欢晚会-歌曲-每道光（4K）</title>
     </programme>
     <programme start="20260323070700" stop="20260323073600" channel="cctv3">
         <title lang="zh">典藏-2025-116</title>
@@ -1089,10 +1086,16 @@
     <programme start="20260323193700" stop="20260323212400" channel="cctv3">
         <title lang="zh">中央广播电视总台主持人大赛新闻主播季-11</title>
     </programme>
-    <programme start="20260323212400" stop="20260323222500" channel="cctv3">
-        <title lang="zh">综艺盛典-2025-20选对健康20</title>
+    <programme start="20260323212400" stop="20260323212800" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-山海寻梦（4K）</title>
     </programme>
-    <programme start="20260323222500" stop="20260323224600" channel="cctv3">
+    <programme start="20260323212800" stop="20260323213200" channel="cctv3">
+        <title lang="zh">2026年春节联欢晚会-歌曲-你我经历的一刻（4K）</title>
+    </programme>
+    <programme start="20260323213200" stop="20260323222300" channel="cctv3">
+        <title lang="zh">我的艺术清单-2025-9</title>
+    </programme>
+    <programme start="20260323222300" stop="20260323224600" channel="cctv3">
         <title lang="zh">文化十分-2026-60</title>
     </programme>
     <programme start="20260323224600" stop="20260324001800" channel="cctv3">
