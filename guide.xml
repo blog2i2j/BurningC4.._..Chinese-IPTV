@@ -1293,11 +1293,8 @@
     <programme start="20260323110000" stop="20260323113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260323113000" stop="20260323120000" channel="cctv4">
+    <programme start="20260323113000" stop="20260323123000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260323120000" stop="20260323123000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-34</title>
     </programme>
     <programme start="20260323123000" stop="20260323130000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-82</title>
@@ -1305,32 +1302,29 @@
     <programme start="20260323130000" stop="20260323133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260323133000" stop="20260323140000" channel="cctv4">
+    <programme start="20260323133000" stop="20260323143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260323140000" stop="20260323143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-46</title>
     </programme>
     <programme start="20260323143000" stop="20260323150400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260323150400" stop="20260323155000" channel="cctv4">
+    <programme start="20260323150400" stop="20260323153000" channel="cctv4">
+        <title lang="zh">海峡两岸-2026-81</title>
+    </programme>
+    <programme start="20260323153000" stop="20260323155900" channel="cctv4">
         <title lang="zh">依依向北风第37集</title>
     </programme>
-    <programme start="20260323155000" stop="20260323155900" channel="cctv4">
+    <programme start="20260323161600" stop="20260323170200" channel="cctv4">
         <title lang="zh">依依向北风第38集</title>
     </programme>
-    <programme start="20260323163600" stop="20260323172100" channel="cctv4">
+    <programme start="20260323170200" stop="20260323174800" channel="cctv4">
         <title lang="zh">青山是故乡-(四套)-1/29</title>
     </programme>
-    <programme start="20260323172100" stop="20260323174900" channel="cctv4">
-        <title lang="zh">中国文艺-2026-58</title>
-    </programme>
-    <programme start="20260323174900" stop="20260323175200" channel="cctv4">
+    <programme start="20260323174800" stop="20260323175100" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-22</title>
     </programme>
-    <programme start="20260323175200" stop="20260323180000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-21</title>
+    <programme start="20260323175100" stop="20260323180000" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2024-32</title>
     </programme>
     <programme start="20260323180000" stop="20260323183000" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1351,25 +1345,22 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260323203000" stop="20260323210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260323210000" stop="20260323213000" channel="cctv4">
         <title lang="zh">记住乡愁2026-34</title>
     </programme>
-    <programme start="20260323213000" stop="20260323220000" channel="cctv4">
+    <programme start="20260323210000" stop="20260323213200" channel="cctv4">
+        <title lang="zh">中国文艺-2026-58</title>
+    </programme>
+    <programme start="20260323213200" stop="20260323220200" channel="cctv4">
+        <title lang="zh">国家记忆-2024-96</title>
+    </programme>
+    <programme start="20260323220200" stop="20260323223000" channel="cctv4">
         <title lang="zh">走遍中国-2026-46</title>
     </programme>
-    <programme start="20260323220000" stop="20260323223000" channel="cctv4">
+    <programme start="20260323223000" stop="20260323230000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-82</title>
     </programme>
-    <programme start="20260323223000" stop="20260323230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260323230000" stop="20260323233000" channel="cctv4">
+    <programme start="20260323230000" stop="20260324000000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260323233000" stop="20260324000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260324000000" stop="20260324010000" channel="cctv4">
         <title lang="zh">今日环球</title>
