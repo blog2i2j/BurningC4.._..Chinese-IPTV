@@ -501,19 +501,19 @@
     <programme start="20260325113800" stop="20260325120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260325120100" stop="20260325120500" channel="cctv1">
+    <programme start="20260325120100" stop="20260325120400" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20260325120500" stop="20260325125500" channel="cctv1">
+    <programme start="20260325120400" stop="20260325125400" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
-    <programme start="20260325125500" stop="20260325125700" channel="cctv1">
+    <programme start="20260325125400" stop="20260325125700" channel="cctv1">
         <title lang="zh">前情提要-电视剧（高清文件）</title>
     </programme>
-    <programme start="20260325125700" stop="20260325135300" channel="cctv1">
+    <programme start="20260325125700" stop="20260325135200" channel="cctv1">
         <title lang="zh">电视剧-（高清文件）</title>
     </programme>
-    <programme start="20260325135300" stop="20260325140000" channel="cctv1">
+    <programme start="20260325135200" stop="20260325140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260325140000" stop="20260325143500" channel="cctv1">
