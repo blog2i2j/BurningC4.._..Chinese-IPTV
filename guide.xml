@@ -1114,7 +1114,7 @@
         <title lang="zh">综艺喜乐汇-2026-21</title>
     </programme>
     <programme start="20260326100600" stop="20260326113000" channel="cctv3">
-        <title lang="zh">开门大吉-2026-11</title>
+        <title lang="zh">开门大吉-2026-7</title>
     </programme>
     <programme start="20260326113000" stop="20260326125400" channel="cctv3">
         <title lang="zh">星光大道-2026-12</title>
@@ -1302,11 +1302,8 @@
     <programme start="20260325110000" stop="20260325113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260325113000" stop="20260325120000" channel="cctv4">
+    <programme start="20260325113000" stop="20260325123000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260325120000" stop="20260325123000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-37</title>
     </programme>
     <programme start="20260325123000" stop="20260325130000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-84</title>
@@ -1314,29 +1311,26 @@
     <programme start="20260325130000" stop="20260325133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260325133000" stop="20260325140000" channel="cctv4">
+    <programme start="20260325133000" stop="20260325143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260325140000" stop="20260325143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-48</title>
     </programme>
     <programme start="20260325143000" stop="20260325150400" channel="cctv4">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260325150400" stop="20260325154900" channel="cctv4">
+    <programme start="20260325150400" stop="20260325153000" channel="cctv4">
+        <title lang="zh">海峡两岸-2026-84</title>
+    </programme>
+    <programme start="20260325153000" stop="20260325155900" channel="cctv4">
         <title lang="zh">青山是故乡-(四套)-5/29</title>
     </programme>
-    <programme start="20260325154900" stop="20260325155900" channel="cctv4">
+    <programme start="20260325161500" stop="20260325170000" channel="cctv4">
         <title lang="zh">青山是故乡-(四套)-6/29</title>
     </programme>
-    <programme start="20260325163400" stop="20260325171900" channel="cctv4">
+    <programme start="20260325170000" stop="20260325174600" channel="cctv4">
         <title lang="zh">青山是故乡-(四套)-7/29</title>
     </programme>
-    <programme start="20260325171900" stop="20260325174700" channel="cctv4">
-        <title lang="zh">中国文艺-2026-60</title>
-    </programme>
-    <programme start="20260325174700" stop="20260325175100" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-34</title>
+    <programme start="20260325174600" stop="20260325175100" channel="cctv4">
+        <title lang="zh">记住乡愁-片段展播-2025-27</title>
     </programme>
     <programme start="20260325175100" stop="20260325180000" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2024-35</title>
@@ -1858,7 +1852,7 @@
         <title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 3</title>
     </programme>
     <programme start="20260325113000" stop="20260325133000" channel="cctv5plus">
-        <title lang="zh">2026西安国际青年足球锦标赛-（中国U23—泰国U23）</title>
+        <title lang="zh">2026西安国际青年足球锦标赛-（中国U23-泰国U23）</title>
     </programme>
     <programme start="20260325133000" stop="20260325153000" channel="cctv5plus">
         <title lang="zh">2026年世界花样滑冰锦标赛-女单短节目</title>
@@ -2593,13 +2587,13 @@
         <title lang="zh">本集提要-冬去春来-第7集</title>
     </programme>
     <programme start="20260325113000" stop="20260325122500" channel="cctv8">
-        <title lang="zh">冬去春来7/32</title>
+        <title lang="zh">冬去春来第7集</title>
     </programme>
     <programme start="20260325122500" stop="20260325123000" channel="cctv8">
         <title lang="zh">本集提要-冬去春来-第8集</title>
     </programme>
     <programme start="20260325123000" stop="20260325132400" channel="cctv8">
-        <title lang="zh">冬去春来8/32</title>
+        <title lang="zh">冬去春来第8集</title>
     </programme>
     <programme start="20260325132400" stop="20260325132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第15集</title>
@@ -2716,13 +2710,13 @@
         <title lang="zh">星推荐-2026年3月-26</title>
     </programme>
     <programme start="20260326112600" stop="20260326113000" channel="cctv8">
-        <title lang="zh">本集提要-冬去春来-9/32</title>
+        <title lang="zh">本集提要-冬去春来-第9集</title>
     </programme>
     <programme start="20260326113000" stop="20260326122500" channel="cctv8">
         <title lang="zh">冬去春来9/32</title>
     </programme>
     <programme start="20260326122500" stop="20260326123000" channel="cctv8">
-        <title lang="zh">本集提要-冬去春来-10/32</title>
+        <title lang="zh">本集提要-冬去春来-第10集</title>
     </programme>
     <programme start="20260326123000" stop="20260326132400" channel="cctv8">
         <title lang="zh">冬去春来10/32</title>
