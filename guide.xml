@@ -501,22 +501,22 @@
     <programme start="20260326110000" stop="20260326113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260326113800" stop="20260326120000" channel="cctv1">
+    <programme start="20260326113800" stop="20260326115800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260326120000" stop="20260326120400" channel="cctv1">
+    <programme start="20260326115800" stop="20260326120100" channel="cctv1">
         <title lang="zh">前集提要-家事法庭-3/26</title>
     </programme>
-    <programme start="20260326120400" stop="20260326125300" channel="cctv1">
+    <programme start="20260326120100" stop="20260326125300" channel="cctv1">
         <title lang="zh">家事法庭3/26</title>
     </programme>
-    <programme start="20260326125300" stop="20260326125500" channel="cctv1">
+    <programme start="20260326125300" stop="20260326125700" channel="cctv1">
         <title lang="zh">前集提要-家事法庭-4/26</title>
     </programme>
-    <programme start="20260326125500" stop="20260326135000" channel="cctv1">
+    <programme start="20260326125700" stop="20260326135200" channel="cctv1">
         <title lang="zh">家事法庭4/26</title>
     </programme>
-    <programme start="20260326135000" stop="20260326140000" channel="cctv1">
+    <programme start="20260326135200" stop="20260326140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260326140000" stop="20260326143500" channel="cctv1">
@@ -615,13 +615,13 @@
     <programme start="20260327110000" stop="20260327113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260327113800" stop="20260327120100" channel="cctv1">
+    <programme start="20260327113800" stop="20260327115900" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260327120100" stop="20260327120500" channel="cctv1">
+    <programme start="20260327115900" stop="20260327120400" channel="cctv1">
         <title lang="zh">前集提要-家事法庭-5/26</title>
     </programme>
-    <programme start="20260327120500" stop="20260327125400" channel="cctv1">
+    <programme start="20260327120400" stop="20260327125400" channel="cctv1">
         <title lang="zh">家事法庭5/26</title>
     </programme>
     <programme start="20260327125400" stop="20260327125700" channel="cctv1">
@@ -1741,7 +1741,10 @@
         <title lang="zh">2026年世界花样滑冰锦标赛-男单短节目</title>
     </programme>
     <programme start="20260326153500" stop="20260326155900" channel="cctv5">
-        <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第32轮 巴伦西亚—巴塞罗那</title>
+        <title lang="zh">实况录像-2026年女篮世界杯资格赛 中国队—巴西队</title>
+    </programme>
+    <programme start="20260326164900" stop="20260326170500" channel="cctv5">
+        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏5（4K）</title>
     </programme>
     <programme start="20260326170500" stop="20260326183600" channel="cctv5">
         <title lang="zh">实况录像-2025年世界田联钻石联赛  巴黎站</title>
