@@ -501,22 +501,22 @@
     <programme start="20260326110000" stop="20260326113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260326113800" stop="20260326115800" channel="cctv1">
+    <programme start="20260326113800" stop="20260326115700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260326115800" stop="20260326120100" channel="cctv1">
+    <programme start="20260326115700" stop="20260326120000" channel="cctv1">
         <title lang="zh">前集提要-家事法庭-3/26</title>
     </programme>
-    <programme start="20260326120100" stop="20260326125300" channel="cctv1">
+    <programme start="20260326120000" stop="20260326125200" channel="cctv1">
         <title lang="zh">家事法庭3/26</title>
     </programme>
-    <programme start="20260326125300" stop="20260326125700" channel="cctv1">
+    <programme start="20260326125200" stop="20260326125600" channel="cctv1">
         <title lang="zh">前集提要-家事法庭-4/26</title>
     </programme>
-    <programme start="20260326125700" stop="20260326135200" channel="cctv1">
+    <programme start="20260326125600" stop="20260326135100" channel="cctv1">
         <title lang="zh">家事法庭4/26</title>
     </programme>
-    <programme start="20260326135200" stop="20260326140000" channel="cctv1">
+    <programme start="20260326135100" stop="20260326140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260326140000" stop="20260326143500" channel="cctv1">
