@@ -387,22 +387,22 @@
     <programme start="20260325110000" stop="20260325113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260325113800" stop="20260325120100" channel="cctv1">
+    <programme start="20260325113800" stop="20260325115800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260325120100" stop="20260325120400" channel="cctv1">
+    <programme start="20260325115800" stop="20260325120200" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第1集</title>
     </programme>
-    <programme start="20260325120400" stop="20260325125400" channel="cctv1">
+    <programme start="20260325120200" stop="20260325125300" channel="cctv1">
         <title lang="zh">家事法庭第1集</title>
     </programme>
-    <programme start="20260325125400" stop="20260325125700" channel="cctv1">
+    <programme start="20260325125300" stop="20260325125600" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第2集</title>
     </programme>
-    <programme start="20260325125700" stop="20260325135200" channel="cctv1">
+    <programme start="20260325125600" stop="20260325135100" channel="cctv1">
         <title lang="zh">家事法庭第2集</title>
     </programme>
-    <programme start="20260325135200" stop="20260325140000" channel="cctv1">
+    <programme start="20260325135100" stop="20260325140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260325140000" stop="20260325143500" channel="cctv1">
