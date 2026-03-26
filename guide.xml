@@ -391,13 +391,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260326115700" stop="20260326120000" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-3/26</title>
+        <title lang="zh">前情提要-家事法庭-第3集</title>
     </programme>
     <programme start="20260326120000" stop="20260326125200" channel="cctv1">
         <title lang="zh">家事法庭第3集</title>
     </programme>
     <programme start="20260326125200" stop="20260326125600" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-4/26</title>
+        <title lang="zh">前情提要-家事法庭-第4集</title>
     </programme>
     <programme start="20260326125600" stop="20260326135100" channel="cctv1">
         <title lang="zh">家事法庭第4集</title>
@@ -582,23 +582,20 @@
     <programme start="20260328040000" stop="20260328043300" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260328043300" stop="20260328060900" channel="cctv1">
-        <title lang="zh">城市风华录-7</title>
+    <programme start="20260328043300" stop="20260328061500" channel="cctv1">
+        <title lang="zh">宗师列传·大宋词人传-黄庭坚</title>
     </programme>
-    <programme start="20260328060900" stop="20260328065500" channel="cctv1">
+    <programme start="20260328061500" stop="20260328070100" channel="cctv1">
         <title lang="zh">北上27/38</title>
     </programme>
-    <programme start="20260328065500" stop="20260328074500" channel="cctv1">
+    <programme start="20260328070100" stop="20260328074900" channel="cctv1">
         <title lang="zh">北上28/38</title>
     </programme>
-    <programme start="20260328074500" stop="20260328083500" channel="cctv1">
+    <programme start="20260328074900" stop="20260328083900" channel="cctv1">
         <title lang="zh">北上29/38</title>
     </programme>
-    <programme start="20260328083500" stop="20260328092800" channel="cctv1">
+    <programme start="20260328083900" stop="20260328093300" channel="cctv1">
         <title lang="zh">北上30/38</title>
-    </programme>
-    <programme start="20260328092800" stop="20260328093300" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260328093300" stop="20260328105100" channel="cctv1">
         <title lang="zh">星光大道-2026-13</title>
@@ -1339,25 +1336,22 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260326203000" stop="20260326210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
+        <title lang="zh">记住乡愁2026-15</title>
     </programme>
-    <programme start="20260326210000" stop="20260326213000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-39</title>
+    <programme start="20260326210000" stop="20260326213200" channel="cctv4">
+        <title lang="zh">中国文艺-2026-61</title>
     </programme>
-    <programme start="20260326213000" stop="20260326220000" channel="cctv4">
+    <programme start="20260326213200" stop="20260326220200" channel="cctv4">
+        <title lang="zh">国家记忆-2024-99</title>
+    </programme>
+    <programme start="20260326220200" stop="20260326223000" channel="cctv4">
         <title lang="zh">走遍中国-2026-49</title>
     </programme>
-    <programme start="20260326220000" stop="20260326223000" channel="cctv4">
+    <programme start="20260326223000" stop="20260326230000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-85</title>
     </programme>
-    <programme start="20260326223000" stop="20260326230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260326230000" stop="20260326233000" channel="cctv4">
+    <programme start="20260326230000" stop="20260327000000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260326233000" stop="20260327000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260327000000" stop="20260327010000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1492,19 +1486,19 @@
         <title lang="zh">今日环球</title>
     </programme>
     <programme start="20260328010000" stop="20260328012700" channel="cctv4">
-        <title lang="zh">国家记忆-2024-149</title>
+        <title lang="zh">国家记忆-2024-96</title>
     </programme>
     <programme start="20260328012700" stop="20260328015700" channel="cctv4">
-        <title lang="zh">国家记忆-2024-150</title>
+        <title lang="zh">国家记忆-2024-97</title>
     </programme>
     <programme start="20260328015700" stop="20260328022400" channel="cctv4">
-        <title lang="zh">国家记忆-2024-163</title>
+        <title lang="zh">国家记忆-2024-98</title>
     </programme>
     <programme start="20260328022400" stop="20260328025100" channel="cctv4">
-        <title lang="zh">国家记忆-2024-164</title>
+        <title lang="zh">国家记忆-2024-99</title>
     </programme>
     <programme start="20260328025100" stop="20260328032100" channel="cctv4">
-        <title lang="zh">国家记忆-2024-165</title>
+        <title lang="zh">国家记忆-2024-100</title>
     </programme>
     <programme start="20260328032100" stop="20260328033000" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2025-28</title>
@@ -4665,11 +4659,14 @@
     <programme start="20260328111000" stop="20260328113000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2026-19</title>
     </programme>
-    <programme start="20260328113000" stop="20260328135000" channel="cctv16">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-第31轮 广州朗肽海本-辽宁本钢</title>
+    <programme start="20260328113000" stop="20260328133500" channel="cctv16">
+        <title lang="zh">2026西安国际青年足球锦标赛-中国U23-朝鲜U23</title>
+    </programme>
+    <programme start="20260328133500" stop="20260328135000" channel="cctv16">
+        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏1（4K）</title>
     </programme>
     <programme start="20260328135000" stop="20260328142000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年世界室内田径锦标赛 25分钟版</title>
+        <title lang="zh">实况录像（奥林匹克）-2026年世界室内田径锦标赛 25分钟版（4K）</title>
     </programme>
     <programme start="20260328142000" stop="20260328152000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子大跳台决赛</title>
