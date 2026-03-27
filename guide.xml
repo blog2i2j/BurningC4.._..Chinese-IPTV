@@ -492,13 +492,13 @@
     <programme start="20260328110000" stop="20260328113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260328113800" stop="20260328120200" channel="cctv1">
+    <programme start="20260328113800" stop="20260328120000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260328120200" stop="20260328135300" channel="cctv1">
+    <programme start="20260328120000" stop="20260328135200" channel="cctv1">
         <title lang="zh">三餐四季（第三季）-5广东</title>
     </programme>
-    <programme start="20260328135300" stop="20260328140000" channel="cctv1">
+    <programme start="20260328135200" stop="20260328140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260328140000" stop="20260328143500" channel="cctv1">
