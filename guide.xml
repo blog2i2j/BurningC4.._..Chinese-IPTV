@@ -394,13 +394,13 @@
         <title lang="zh">前情提要-家事法庭-第5集</title>
     </programme>
     <programme start="20260327120200" stop="20260327125000" channel="cctv1">
-        <title lang="zh">家事法庭5/26</title>
+        <title lang="zh">家事法庭第5集</title>
     </programme>
     <programme start="20260327125000" stop="20260327125500" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第6集</title>
     </programme>
     <programme start="20260327125500" stop="20260327135100" channel="cctv1">
-        <title lang="zh">家事法庭6/26</title>
+        <title lang="zh">家事法庭第6集</title>
     </programme>
     <programme start="20260327135100" stop="20260327140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -495,10 +495,10 @@
     <programme start="20260328113800" stop="20260328120400" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260328120400" stop="20260328134800" channel="cctv1">
-        <title lang="zh">三餐四季（第三季）-5</title>
+    <programme start="20260328120400" stop="20260328135300" channel="cctv1">
+        <title lang="zh">三餐四季（第三季）-5广东</title>
     </programme>
-    <programme start="20260328134800" stop="20260328140000" channel="cctv1">
+    <programme start="20260328135300" stop="20260328140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260328140000" stop="20260328143500" channel="cctv1">
@@ -558,23 +558,20 @@
     <programme start="20260329040000" stop="20260329043300" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260329043300" stop="20260329061100" channel="cctv1">
-        <title lang="zh">三餐四季（第三季）-5</title>
+    <programme start="20260329043300" stop="20260329061500" channel="cctv1">
+        <title lang="zh">三餐四季（第三季）-5广东</title>
     </programme>
-    <programme start="20260329061100" stop="20260329065800" channel="cctv1">
+    <programme start="20260329061500" stop="20260329070200" channel="cctv1">
         <title lang="zh">北上31/38</title>
     </programme>
-    <programme start="20260329065800" stop="20260329074800" channel="cctv1">
+    <programme start="20260329070200" stop="20260329075200" channel="cctv1">
         <title lang="zh">北上32/38</title>
     </programme>
-    <programme start="20260329074800" stop="20260329083500" channel="cctv1">
+    <programme start="20260329075200" stop="20260329083900" channel="cctv1">
         <title lang="zh">北上33/38</title>
     </programme>
-    <programme start="20260329083500" stop="20260329092800" channel="cctv1">
+    <programme start="20260329083900" stop="20260329093300" channel="cctv1">
         <title lang="zh">北上34/38</title>
-    </programme>
-    <programme start="20260329092800" stop="20260329093300" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260329093300" stop="20260329105100" channel="cctv1">
         <title lang="zh">星光大道-2026-14</title>
@@ -2443,25 +2440,25 @@
         <title lang="zh">本集提要-冬去春来-第11集</title>
     </programme>
     <programme start="20260327113000" stop="20260327122500" channel="cctv8">
-        <title lang="zh">冬去春来11/32</title>
+        <title lang="zh">冬去春来第11集</title>
     </programme>
     <programme start="20260327122500" stop="20260327123000" channel="cctv8">
         <title lang="zh">本集提要-冬去春来-第12集</title>
     </programme>
     <programme start="20260327123000" stop="20260327132400" channel="cctv8">
-        <title lang="zh">冬去春来12/32</title>
+        <title lang="zh">冬去春来第12集</title>
     </programme>
     <programme start="20260327132400" stop="20260327132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第19集</title>
     </programme>
     <programme start="20260327132900" stop="20260327141900" channel="cctv8">
-        <title lang="zh">隐身的名字19/31</title>
+        <title lang="zh">隐身的名字第19集</title>
     </programme>
     <programme start="20260327141900" stop="20260327142100" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第20集</title>
     </programme>
     <programme start="20260327142100" stop="20260327151100" channel="cctv8">
-        <title lang="zh">隐身的名字20/31</title>
+        <title lang="zh">隐身的名字第20集</title>
     </programme>
     <programme start="20260327151100" stop="20260327155700" channel="cctv8">
         <title lang="zh">驻站第33集</title>
@@ -2569,13 +2566,13 @@
         <title lang="zh">本集提要-冬去春来-第13集</title>
     </programme>
     <programme start="20260328113000" stop="20260328122500" channel="cctv8">
-        <title lang="zh">冬去春来13/32</title>
+        <title lang="zh">冬去春来第13集</title>
     </programme>
     <programme start="20260328122500" stop="20260328123000" channel="cctv8">
         <title lang="zh">本集提要-冬去春来-第14集</title>
     </programme>
     <programme start="20260328123000" stop="20260328132400" channel="cctv8">
-        <title lang="zh">冬去春来14/32</title>
+        <title lang="zh">冬去春来第14集</title>
     </programme>
     <programme start="20260328132400" stop="20260328132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第21集</title>
