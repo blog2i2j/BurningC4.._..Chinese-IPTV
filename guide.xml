@@ -3903,10 +3903,10 @@
     <programme start="20260328110000" stop="20260328113100" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260328113100" stop="20260328113700" channel="cctv13">
+    <programme start="20260328113100" stop="20260328113800" channel="cctv13">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme start="20260328113700" stop="20260328120000" channel="cctv13">
+    <programme start="20260328113800" stop="20260328120000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260328120000" stop="20260328130000" channel="cctv13">
