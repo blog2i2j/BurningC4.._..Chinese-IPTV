@@ -1351,7 +1351,7 @@
         <title lang="zh">华人故事-2026-14</title>
     </programme>
     <programme start="20260329082200" stop="20260329085300" channel="cctv4">
-        <title lang="zh">记住乡愁2026-34</title>
+        <title lang="zh">记住乡愁2026-3</title>
     </programme>
     <programme start="20260329085300" stop="20260329085600" channel="cctv4">
         <title lang="zh">记住乡愁-片段展播-2025-18</title>
@@ -1461,26 +1461,23 @@
     <programme start="20260330033000" stop="20260330040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-88</title>
     </programme>
-    <programme start="20260330040000" stop="20260330051800" channel="cctv4">
+    <programme start="20260330040000" stop="20260330060300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260330051800" stop="20260330060400" channel="cctv4">
+    <programme start="20260330060300" stop="20260330064900" channel="cctv4">
         <title lang="zh">浴血十四年1/40</title>
     </programme>
-    <programme start="20260330060400" stop="20260330065000" channel="cctv4">
+    <programme start="20260330064900" stop="20260330073500" channel="cctv4">
         <title lang="zh">浴血十四年2/40</title>
     </programme>
-    <programme start="20260330065000" stop="20260330073900" channel="cctv4">
+    <programme start="20260330073500" stop="20260330082400" channel="cctv4">
         <title lang="zh">浴血十四年3/40</title>
     </programme>
-    <programme start="20260330073900" stop="20260330082500" channel="cctv4">
+    <programme start="20260330082400" stop="20260330091000" channel="cctv4">
         <title lang="zh">浴血十四年4/40</title>
     </programme>
-    <programme start="20260330082500" stop="20260330091500" channel="cctv4">
+    <programme start="20260330091000" stop="20260330100000" channel="cctv4">
         <title lang="zh">浴血十四年5/40</title>
-    </programme>
-    <programme start="20260330091500" stop="20260330100000" channel="cctv4">
-        <title lang="zh">远方的家2026-68</title>
     </programme>
     <programme start="20260330100000" stop="20260330110000" channel="cctv4">
         <title lang="zh">中国新闻</title>
