@@ -504,22 +504,22 @@
     <programme start="20260331113800" stop="20260331115800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260331115800" stop="20260331120200" channel="cctv1">
+    <programme start="20260331115800" stop="20260331120100" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第9集</title>
     </programme>
-    <programme start="20260331120200" stop="20260331125300" channel="cctv1">
+    <programme start="20260331120100" stop="20260331125100" channel="cctv1">
         <title lang="zh">家事法庭9/26</title>
     </programme>
-    <programme start="20260331125300" stop="20260331125500" channel="cctv1">
+    <programme start="20260331125100" stop="20260331125500" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第10集</title>
     </programme>
-    <programme start="20260331125500" stop="20260331134700" channel="cctv1">
+    <programme start="20260331125500" stop="20260331134800" channel="cctv1">
         <title lang="zh">家事法庭10/26</title>
     </programme>
-    <programme start="20260331134700" stop="20260331135100" channel="cctv1">
+    <programme start="20260331134800" stop="20260331135200" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260331135100" stop="20260331140000" channel="cctv1">
+    <programme start="20260331135200" stop="20260331140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260331140000" stop="20260331143600" channel="cctv1">
@@ -1101,17 +1101,17 @@
     <programme start="20260331032900" stop="20260331050000" channel="cctv3">
         <title lang="zh">开门大吉-2026-13</title>
     </programme>
-    <programme start="20260331050000" stop="20260331052400" channel="cctv3">
+    <programme start="20260331050000" stop="20260331052700" channel="cctv3">
         <title lang="zh">文化十分-2026-66</title>
     </programme>
-    <programme start="20260331052400" stop="20260331065200" channel="cctv3">
+    <programme start="20260331052700" stop="20260331065500" channel="cctv3">
         <title lang="zh">爱上这座城-2</title>
     </programme>
-    <programme start="20260331065200" stop="20260331072800" channel="cctv3">
+    <programme start="20260331065500" stop="20260331073100" channel="cctv3">
         <title lang="zh">衣锦天下丝路季-2</title>
     </programme>
-    <programme start="20260331072800" stop="20260331090200" channel="cctv3">
-        <title lang="zh">动物园里有什么-8精编</title>
+    <programme start="20260331073100" stop="20260331090200" channel="cctv3">
+        <title lang="zh">劲舞开跳吧！-1</title>
     </programme>
     <programme start="20260331090200" stop="20260331100500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-33</title>
