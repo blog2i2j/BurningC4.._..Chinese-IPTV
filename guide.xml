@@ -2557,25 +2557,25 @@
         <title lang="zh">本集提要-冬去春来-第19集</title>
     </programme>
     <programme start="20260331113000" stop="20260331122500" channel="cctv8">
-        <title lang="zh">冬去春来19/32</title>
+        <title lang="zh">冬去春来第19集</title>
     </programme>
     <programme start="20260331122500" stop="20260331123000" channel="cctv8">
         <title lang="zh">本集提要-冬去春来-第20集</title>
     </programme>
     <programme start="20260331123000" stop="20260331132400" channel="cctv8">
-        <title lang="zh">冬去春来20/32</title>
+        <title lang="zh">冬去春来第20集</title>
     </programme>
     <programme start="20260331132400" stop="20260331132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第27集</title>
     </programme>
     <programme start="20260331132900" stop="20260331141900" channel="cctv8">
-        <title lang="zh">隐身的名字27/31</title>
+        <title lang="zh">隐身的名字第27集</title>
     </programme>
     <programme start="20260331141900" stop="20260331142100" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第28集</title>
     </programme>
     <programme start="20260331142100" stop="20260331151100" channel="cctv8">
-        <title lang="zh">隐身的名字28/31</title>
+        <title lang="zh">隐身的名字第28集</title>
     </programme>
     <programme start="20260331151100" stop="20260331155700" channel="cctv8">
         <title lang="zh">以法之名第34集</title>
@@ -3790,10 +3790,10 @@
         <title lang="zh">夕阳红-2026-92</title>
     </programme>
     <programme start="20260402011000" stop="20260402020400" channel="cctv12">
-        <title lang="zh">方圆剧阵2026-46</title>
+        <title lang="zh">方圆剧阵2026-65</title>
     </programme>
     <programme start="20260402020400" stop="20260402025800" channel="cctv12">
-        <title lang="zh">方圆剧阵2026-47</title>
+        <title lang="zh">方圆剧阵2026-66</title>
     </programme>
     <programme start="20260402025800" stop="20260402033000" channel="cctv12">
         <title lang="zh">法律讲堂-2026-91</title>
@@ -4665,17 +4665,20 @@
     <programme start="20260402042000" stop="20260402045000" channel="cctv16">
         <title lang="zh">体坛零距离-2026-8</title>
     </programme>
-    <programme start="20260402045000" stop="20260402052500" channel="cctv16">
-        <title lang="zh">运动一起赢-2026-233</title>
+    <programme start="20260402045000" stop="20260402050000" channel="cctv16">
+        <title lang="zh">赛事集锦（奥林匹克）-2026年米兰科尔蒂纳冬奥会 冬奥典藏1（4K）</title>
     </programme>
-    <programme start="20260402052500" stop="20260402065500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2027年国际篮联世界杯亚洲区预选赛 日本队—中国队</title>
+    <programme start="20260402050000" stop="20260402064000" channel="cctv16">
+        <title lang="zh">2025/2026中国手球超级联赛 男子联赛 广东清远站-安徽-北京</title>
     </programme>
-    <programme start="20260402065500" stop="20260402071000" channel="cctv16">
+    <programme start="20260402064000" stop="20260402070500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 钢架雪车混合团体（4K）</title>
+    </programme>
+    <programme start="20260402070500" stop="20260402071500" channel="cctv16">
         <title lang="zh">场•面-2026-11</title>
     </programme>
-    <programme start="20260402071000" stop="20260402073000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2026-12</title>
+    <programme start="20260402071500" stop="20260402073000" channel="cctv16">
+        <title lang="zh">艺术里的奥林匹克2026-12(4K)</title>
     </programme>
     <programme start="20260402073000" stop="20260402085500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年CMG群众足球邀请赛(山东泰安) 小组赛A组第3轮 录播</title>
@@ -4686,11 +4689,14 @@
     <programme start="20260402103500" stop="20260402110000" channel="cctv16">
         <title lang="zh">2025/2026英格兰足球超级联赛-第31轮集锦（4K）</title>
     </programme>
-    <programme start="20260402110000" stop="20260402134000" channel="cctv16">
+    <programme start="20260402110000" stop="20260402130500" channel="cctv16">
         <title lang="zh">2025/2026赛季中国排球超级联赛-男子决赛 第二场  保定沃隶-天津食品集团</title>
     </programme>
+    <programme start="20260402130500" stop="20260402134000" channel="cctv16">
+        <title lang="zh">运动一起赢-2026-234（4K）</title>
+    </programme>
     <programme start="20260402134000" stop="20260402150500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第33轮 广东东阳光—江苏肯帝亚</title>
+        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛第33轮 广东东阳光—江苏肯帝亚4K</title>
     </programme>
     <programme start="20260402150500" stop="20260402155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛3</title>
