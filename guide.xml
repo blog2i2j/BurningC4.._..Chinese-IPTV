@@ -508,13 +508,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260402115800" stop="20260402120300" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-13/26</title>
+        <title lang="zh">前情提要-家事法庭-第13集</title>
     </programme>
     <programme start="20260402120300" stop="20260402125300" channel="cctv1">
         <title lang="zh">家事法庭13/26</title>
     </programme>
     <programme start="20260402125300" stop="20260402125600" channel="cctv1">
-        <title lang="zh">前情提要-家事法庭-14/26</title>
+        <title lang="zh">前情提要-家事法庭-第14集</title>
     </programme>
     <programme start="20260402125600" stop="20260402134700" channel="cctv1">
         <title lang="zh">家事法庭14/26</title>
@@ -1317,11 +1317,8 @@
     <programme start="20260401130000" stop="20260401133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260401133000" stop="20260401140000" channel="cctv4">
+    <programme start="20260401133000" stop="20260401143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260401140000" stop="20260401143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-52</title>
     </programme>
     <programme start="20260401143000" stop="20260401150200" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -1363,12 +1360,12 @@
         <title lang="zh">中国新闻</title>
     </programme>
     <programme start="20260401203000" stop="20260401210000" channel="cctv4">
-        <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260401210000" stop="20260401213000" channel="cctv4">
         <title lang="zh">国家记忆-2026-3</title>
     </programme>
-    <programme start="20260401213000" stop="20260401220000" channel="cctv4">
+    <programme start="20260401210000" stop="20260401213200" channel="cctv4">
+        <title lang="zh">中国文艺-2026-65</title>
+    </programme>
+    <programme start="20260401213200" stop="20260401220000" channel="cctv4">
         <title lang="zh">走遍中国-2026-52</title>
     </programme>
     <programme start="20260401220000" stop="20260401223000" channel="cctv4">
@@ -1377,11 +1374,8 @@
     <programme start="20260401223000" stop="20260401230000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme start="20260401230000" stop="20260401233000" channel="cctv4">
+    <programme start="20260401230000" stop="20260402000000" channel="cctv4">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme start="20260401233000" stop="20260402000000" channel="cctv4">
-        <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260402000000" stop="20260402010000" channel="cctv4">
         <title lang="zh">今日环球</title>
@@ -1410,29 +1404,23 @@
     <programme start="20260402033000" stop="20260402040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-91</title>
     </programme>
-    <programme start="20260402040000" stop="20260402050300" channel="cctv4">
+    <programme start="20260402040000" stop="20260402060300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260402050300" stop="20260402054900" channel="cctv4">
+    <programme start="20260402060300" stop="20260402064900" channel="cctv4">
         <title lang="zh">浴血十四年第16集</title>
     </programme>
-    <programme start="20260402054900" stop="20260402063800" channel="cctv4">
+    <programme start="20260402064900" stop="20260402073800" channel="cctv4">
         <title lang="zh">浴血十四年第17集</title>
     </programme>
-    <programme start="20260402063800" stop="20260402072400" channel="cctv4">
+    <programme start="20260402073800" stop="20260402082400" channel="cctv4">
         <title lang="zh">浴血十四年第18集</title>
     </programme>
-    <programme start="20260402072400" stop="20260402081000" channel="cctv4">
+    <programme start="20260402082400" stop="20260402091000" channel="cctv4">
         <title lang="zh">浴血十四年第19集</title>
     </programme>
-    <programme start="20260402081000" stop="20260402085800" channel="cctv4">
-        <title lang="zh">浴血十四年第20集</title>
-    </programme>
-    <programme start="20260402085800" stop="20260402091500" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-94</title>
-    </programme>
-    <programme start="20260402091500" stop="20260402100000" channel="cctv4">
-        <title lang="zh">远方的家2026-71</title>
+    <programme start="20260402091000" stop="20260402100000" channel="cctv4">
+        <title lang="zh">浴血十四年20/40</title>
     </programme>
     <programme start="20260402100000" stop="20260402110000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -2713,13 +2701,13 @@
         <title lang="zh">本集提要-冬去春来-第23集</title>
     </programme>
     <programme start="20260402113000" stop="20260402122500" channel="cctv8">
-        <title lang="zh">冬去春来23/32</title>
+        <title lang="zh">冬去春来第23集</title>
     </programme>
     <programme start="20260402122500" stop="20260402123000" channel="cctv8">
-        <title lang="zh">本集提要-冬去春来-24/32</title>
+        <title lang="zh">本集提要-冬去春来-第24集</title>
     </programme>
     <programme start="20260402123000" stop="20260402132400" channel="cctv8">
-        <title lang="zh">冬去春来24/32</title>
+        <title lang="zh">冬去春来第24集</title>
     </programme>
     <programme start="20260402132400" stop="20260402132900" channel="cctv8">
         <title lang="zh">本集提要-隐身的名字-第31集</title>
