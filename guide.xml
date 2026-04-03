@@ -483,17 +483,14 @@
     <programme start="20260404074300" stop="20260404083000" channel="cctv1">
         <title lang="zh">好好的时光第24集</title>
     </programme>
-    <programme start="20260404083000" stop="20260404091900" channel="cctv1">
+    <programme start="20260404083000" stop="20260404091700" channel="cctv1">
         <title lang="zh">好好的时光第25集</title>
     </programme>
-    <programme start="20260404091900" stop="20260404100800" channel="cctv1">
+    <programme start="20260404091700" stop="20260404100600" channel="cctv1">
         <title lang="zh">好好的时光第26集</title>
     </programme>
-    <programme start="20260404100800" stop="20260404101200" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
-    </programme>
-    <programme start="20260404101200" stop="20260404102000" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
+    <programme start="20260404100600" stop="20260404102000" channel="cctv1">
+        <title lang="zh">中华古树-九华山凤凰松（4K）</title>
     </programme>
     <programme start="20260404102000" stop="20260404105100" channel="cctv1">
         <title lang="zh">国家荣光-2025-28</title>
@@ -588,20 +585,17 @@
     <programme start="20260405065200" stop="20260405074100" channel="cctv1">
         <title lang="zh">好好的时光28/40</title>
     </programme>
-    <programme start="20260405074100" stop="20260405083000" channel="cctv1">
+    <programme start="20260405074100" stop="20260405082800" channel="cctv1">
         <title lang="zh">好好的时光29/40</title>
     </programme>
-    <programme start="20260405083000" stop="20260405091900" channel="cctv1">
+    <programme start="20260405082800" stop="20260405091700" channel="cctv1">
         <title lang="zh">好好的时光30/40</title>
     </programme>
-    <programme start="20260405091900" stop="20260405100800" channel="cctv1">
+    <programme start="20260405091700" stop="20260405100600" channel="cctv1">
         <title lang="zh">好好的时光31/40</title>
     </programme>
-    <programme start="20260405100800" stop="20260405101200" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
-    </programme>
-    <programme start="20260405101200" stop="20260405102000" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
+    <programme start="20260405100600" stop="20260405102000" channel="cctv1">
+        <title lang="zh">中华古树-天目山古柳杉群（4K）</title>
     </programme>
     <programme start="20260405102000" stop="20260405105100" channel="cctv1">
         <title lang="zh">国家荣光-2025-29</title>
