@@ -504,10 +504,10 @@
     <programme start="20260404113800" stop="20260404120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260404120100" stop="20260404134700" channel="cctv1">
+    <programme start="20260404120100" stop="20260404134500" channel="cctv1">
         <title lang="zh">中华考工记-10</title>
     </programme>
-    <programme start="20260404134700" stop="20260404140000" channel="cctv1">
+    <programme start="20260404134500" stop="20260404140000" channel="cctv1">
         <title lang="zh">中华古树-天师银杏（4K）</title>
     </programme>
     <programme start="20260404140000" stop="20260404143600" channel="cctv1">
