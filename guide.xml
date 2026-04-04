@@ -1779,10 +1779,10 @@
     <programme start="20260404013000" stop="20260404020000" channel="cctv5plus">
         <title lang="zh">2026年体操世界杯-安塔利亚站精彩</title>
     </programme>
-    <programme start="20260404020000" stop="20260404050000" channel="cctv5plus">
+    <programme start="20260404020000" stop="20260404030000" channel="cctv5plus">
         <title lang="zh">2025/2026赛季北美冰球职业联赛-常规赛41（圣路易斯蓝调—阿纳海姆小鸭）</title>
     </programme>
-    <programme start="20260404050000" stop="20260404070500" channel="cctv5plus">
+    <programme start="20260404030000" stop="20260404070500" channel="cctv5plus">
         <title lang="zh">2026年国际乒联单打世界杯-1/4决赛</title>
     </programme>
     <programme start="20260404070500" stop="20260404080000" channel="cctv5plus">
