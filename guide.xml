@@ -1389,29 +1389,23 @@
     <programme start="20260407033000" stop="20260407040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-96</title>
     </programme>
-    <programme start="20260407040000" stop="20260407050300" channel="cctv4">
+    <programme start="20260407040000" stop="20260407060300" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260407050300" stop="20260407054900" channel="cctv4">
+    <programme start="20260407060300" stop="20260407064900" channel="cctv4">
         <title lang="zh">誓盟第1集</title>
     </programme>
-    <programme start="20260407054900" stop="20260407063800" channel="cctv4">
+    <programme start="20260407064900" stop="20260407073800" channel="cctv4">
         <title lang="zh">誓盟第2集</title>
     </programme>
-    <programme start="20260407063800" stop="20260407072400" channel="cctv4">
+    <programme start="20260407073800" stop="20260407082400" channel="cctv4">
         <title lang="zh">誓盟第3集</title>
     </programme>
-    <programme start="20260407072400" stop="20260407081000" channel="cctv4">
+    <programme start="20260407082400" stop="20260407091000" channel="cctv4">
         <title lang="zh">誓盟第4集</title>
     </programme>
-    <programme start="20260407081000" stop="20260407085800" channel="cctv4">
+    <programme start="20260407091000" stop="20260407100000" channel="cctv4">
         <title lang="zh">誓盟第5集</title>
-    </programme>
-    <programme start="20260407085800" stop="20260407091500" channel="cctv4">
-        <title lang="zh">平凡匠心-2025-85</title>
-    </programme>
-    <programme start="20260407091500" stop="20260407100000" channel="cctv4">
-        <title lang="zh">远方的家2026-74</title>
     </programme>
     <programme start="20260407100000" stop="20260407110000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -2662,13 +2656,13 @@
         <title lang="zh">本集提要-八千里路云和月-第1集</title>
     </programme>
     <programme start="20260407113000" stop="20260407122500" channel="cctv8">
-        <title lang="zh">八千里路云和月1/40</title>
+        <title lang="zh">八千里路云和月第1集</title>
     </programme>
     <programme start="20260407122500" stop="20260407123000" channel="cctv8">
         <title lang="zh">本集提要-八千里路云和月-第2集</title>
     </programme>
     <programme start="20260407123000" stop="20260407132400" channel="cctv8">
-        <title lang="zh">八千里路云和月2/40</title>
+        <title lang="zh">八千里路云和月第2集</title>
     </programme>
     <programme start="20260407132400" stop="20260407132900" channel="cctv8">
         <title lang="zh">本集提要-灼灼韶华-第15集</title>
