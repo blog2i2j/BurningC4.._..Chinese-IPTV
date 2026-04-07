@@ -1284,11 +1284,8 @@
     <programme start="20260407110000" stop="20260407113000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260407113000" stop="20260407120000" channel="cctv4">
+    <programme start="20260407113000" stop="20260407123000" channel="cctv4">
         <title lang="zh">今日亚洲</title>
-    </programme>
-    <programme start="20260407120000" stop="20260407123000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-41</title>
     </programme>
     <programme start="20260407123000" stop="20260407130000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-97</title>
@@ -1296,11 +1293,8 @@
     <programme start="20260407130000" stop="20260407133000" channel="cctv4">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme start="20260407133000" stop="20260407140000" channel="cctv4">
+    <programme start="20260407133000" stop="20260407143000" channel="cctv4">
         <title lang="zh">今日关注</title>
-    </programme>
-    <programme start="20260407140000" stop="20260407143000" channel="cctv4">
-        <title lang="zh">走遍中国-2026-55</title>
     </programme>
     <programme start="20260407143000" stop="20260407150200" channel="cctv4">
         <title lang="zh">新闻联播</title>
@@ -3505,7 +3499,7 @@
         <title lang="zh">青春戏苑-2026-7巳巳如意（下）</title>
     </programme>
     <programme start="20260408231700" stop="20260409003200" channel="cctv11">
-        <title lang="zh">梨园闯关我挂帅-2025-49</title>
+        <title lang="zh">梨园闯关我挂帅-2025-47</title>
     </programme>
     <programme start="20260409003200" stop="20260409012300" channel="cctv11">
         <title lang="zh">青春戏苑-2026-51</title>
