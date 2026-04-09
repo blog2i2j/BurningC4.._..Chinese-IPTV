@@ -510,22 +510,16 @@
     <programme start="20260410140000" stop="20260410143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260410143600" stop="20260410152300" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260410143600" stop="20260410155900" channel="cctv1">
+        <title lang="zh">首届CMG中国电影盛典-CCTV-1</title>
     </programme>
-    <programme start="20260410152300" stop="20260410155900" channel="cctv1">
+    <programme start="20260410161900" stop="20260410175500" channel="cctv1">
         <title lang="zh">中华考工记-9</title>
     </programme>
-    <programme start="20260410165700" stop="20260410172900" channel="cctv1">
-        <title lang="zh">人文名镇-重庆磁器口</title>
-    </programme>
-    <programme start="20260410172900" stop="20260410180100" channel="cctv1">
+    <programme start="20260410175500" stop="20260410182700" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260410180100" stop="20260410182900" channel="cctv1">
-        <title lang="zh">今日说法-2026-61</title>
-    </programme>
-    <programme start="20260410182900" stop="20260410183900" channel="cctv1">
+    <programme start="20260410182700" stop="20260410183900" channel="cctv1">
         <title lang="zh">中华古树-茅镬古树群（4K）</title>
     </programme>
     <programme start="20260410183900" stop="20260410184300" channel="cctv1">
@@ -2611,52 +2605,49 @@
         <title lang="zh">星推荐-2026年4月-10</title>
     </programme>
     <programme start="20260410112600" stop="20260410113000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-第7集</title>
+        <title lang="zh">插花-2015-3</title>
     </programme>
-    <programme start="20260410113000" stop="20260410122500" channel="cctv8">
-        <title lang="zh">八千里路云和月7/40</title>
+    <programme start="20260410113000" stop="20260410132200" channel="cctv8">
+        <title lang="zh">首届CMG中国电影盛典-1</title>
     </programme>
-    <programme start="20260410122500" stop="20260410123000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-第8集</title>
+    <programme start="20260410132200" stop="20260410132700" channel="cctv8">
+        <title lang="zh">插花-2015-3</title>
     </programme>
-    <programme start="20260410123000" stop="20260410132400" channel="cctv8">
-        <title lang="zh">八千里路云和月8/40</title>
-    </programme>
-    <programme start="20260410132400" stop="20260410132900" channel="cctv8">
+    <programme start="20260410132700" stop="20260410133200" channel="cctv8">
         <title lang="zh">本集提要-灼灼韶华-第20集</title>
     </programme>
-    <programme start="20260410132900" stop="20260410141900" channel="cctv8">
+    <programme start="20260410133200" stop="20260410142200" channel="cctv8">
         <title lang="zh">灼灼韶华第20集</title>
     </programme>
-    <programme start="20260410141900" stop="20260410142100" channel="cctv8">
+    <programme start="20260410142200" stop="20260410142400" channel="cctv8">
         <title lang="zh">本集提要-灼灼韶华-第21集</title>
     </programme>
-    <programme start="20260410142100" stop="20260410151100" channel="cctv8">
+    <programme start="20260410142400" stop="20260410151400" channel="cctv8">
         <title lang="zh">灼灼韶华第21集</title>
     </programme>
-    <programme start="20260410151100" stop="20260410155700" channel="cctv8">
+    <programme start="20260410151400" stop="20260410155900" channel="cctv8">
         <title lang="zh">灼灼韶华第22集</title>
     </programme>
-    <programme start="20260410155700" stop="20260410155900" channel="cctv8">
+    <programme start="20260410160000" stop="20260410160800" channel="cctv8">
         <title lang="zh">星推荐-2026年4月-10</title>
     </programme>
-    <programme start="20260410160400" stop="20260410165000" channel="cctv8">
+    <programme start="20260410160800" stop="20260410165400" channel="cctv8">
         <title lang="zh">我们的日子第27集</title>
     </programme>
-    <programme start="20260410165000" stop="20260410165500" channel="cctv8">
-        <title lang="zh">星推荐-2026年4月-10</title>
-    </programme>
-    <programme start="20260410165500" stop="20260410174100" channel="cctv8">
+    <programme start="20260410165400" stop="20260410174000" channel="cctv8">
         <title lang="zh">我们的日子第28集</title>
     </programme>
-    <programme start="20260410174100" stop="20260410182700" channel="cctv8">
+    <programme start="20260410174000" stop="20260410182600" channel="cctv8">
         <title lang="zh">我们的日子第29集</title>
     </programme>
-    <programme start="20260410182700" stop="20260410191300" channel="cctv8">
+    <programme start="20260410182600" stop="20260410191200" channel="cctv8">
         <title lang="zh">我们的日子第30集</title>
     </programme>
-    <programme start="20260410191300" stop="20260410195900" channel="cctv8">
+    <programme start="20260410191200" stop="20260410195800" channel="cctv8">
         <title lang="zh">我们的日子第31集</title>
+    </programme>
+    <programme start="20260410195800" stop="20260410195900" channel="cctv8">
+        <title lang="zh">插花-2022-4</title>
     </programme>
     <programme start="20260410195900" stop="20260410204500" channel="cctv8">
         <title lang="zh">我们的日子第32集</title>
@@ -2734,16 +2725,16 @@
         <title lang="zh">星推荐-2026年4月-11</title>
     </programme>
     <programme start="20260411112600" stop="20260411113000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-9/40</title>
+        <title lang="zh">本集提要-八千里路云和月-7/40</title>
     </programme>
     <programme start="20260411113000" stop="20260411122500" channel="cctv8">
-        <title lang="zh">八千里路云和月9/40</title>
+        <title lang="zh">八千里路云和月7/40</title>
     </programme>
     <programme start="20260411122500" stop="20260411123000" channel="cctv8">
-        <title lang="zh">本集提要-八千里路云和月-10/40</title>
+        <title lang="zh">本集提要-八千里路云和月-8/40</title>
     </programme>
     <programme start="20260411123000" stop="20260411132400" channel="cctv8">
-        <title lang="zh">八千里路云和月10/40</title>
+        <title lang="zh">八千里路云和月8/40</title>
     </programme>
     <programme start="20260411132400" stop="20260411132900" channel="cctv8">
         <title lang="zh">本集提要-灼灼韶华-23/38</title>
