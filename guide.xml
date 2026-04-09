@@ -501,14 +501,11 @@
     <programme start="20260410110000" stop="20260410113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260410113800" stop="20260410120300" channel="cctv1">
+    <programme start="20260410113800" stop="20260410120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260410120300" stop="20260410135200" channel="cctv1">
+    <programme start="20260410120200" stop="20260410140000" channel="cctv1">
         <title lang="zh">中华考工记-11</title>
-    </programme>
-    <programme start="20260410135200" stop="20260410140000" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260410140000" stop="20260410143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -573,23 +570,20 @@
     <programme start="20260411040000" stop="20260411043400" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260411043400" stop="20260411061000" channel="cctv1">
+    <programme start="20260411043400" stop="20260411061600" channel="cctv1">
         <title lang="zh">中华考工记-11</title>
     </programme>
-    <programme start="20260411061000" stop="20260411065800" channel="cctv1">
+    <programme start="20260411061600" stop="20260411070400" channel="cctv1">
         <title lang="zh">暗夜与黎明17/38</title>
     </programme>
-    <programme start="20260411065800" stop="20260411074800" channel="cctv1">
+    <programme start="20260411070400" stop="20260411075400" channel="cctv1">
         <title lang="zh">暗夜与黎明18/38</title>
     </programme>
-    <programme start="20260411074800" stop="20260411083700" channel="cctv1">
+    <programme start="20260411075400" stop="20260411084300" channel="cctv1">
         <title lang="zh">暗夜与黎明19/38</title>
     </programme>
-    <programme start="20260411083700" stop="20260411092800" channel="cctv1">
+    <programme start="20260411084300" stop="20260411093300" channel="cctv1">
         <title lang="zh">暗夜与黎明20/38</title>
-    </programme>
-    <programme start="20260411092800" stop="20260411093300" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260411093300" stop="20260411105100" channel="cctv1">
         <title lang="zh">星光大道-2026-21</title>
