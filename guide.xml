@@ -3810,22 +3810,22 @@
     <programme start="20260410130000" stop="20260410133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260410133000" stop="20260410140000" channel="cctv13">
+    <programme start="20260410133000" stop="20260410135700" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme start="20260410140000" stop="20260410143000" channel="cctv13">
+    <programme start="20260410135700" stop="20260410142700" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20260410143000" stop="20260410150000" channel="cctv13">
+    <programme start="20260410142700" stop="20260410150000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20260410150000" stop="20260410155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20260410160000" stop="20260410163000" channel="cctv13">
+    <programme start="20260410160000" stop="20260410163300" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20260410163000" stop="20260410170000" channel="cctv13">
+    <programme start="20260410163300" stop="20260410170000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
     <programme start="20260410170000" stop="20260410172100" channel="cctv13">
