@@ -394,13 +394,13 @@
         <title lang="zh">前情提要-家事法庭-第23集</title>
     </programme>
     <programme start="20260410120200" stop="20260410125200" channel="cctv1">
-        <title lang="zh">家事法庭23/26</title>
+        <title lang="zh">家事法庭第23集</title>
     </programme>
     <programme start="20260410125200" stop="20260410125600" channel="cctv1">
         <title lang="zh">前情提要-家事法庭-第24集</title>
     </programme>
     <programme start="20260410125600" stop="20260410134600" channel="cctv1">
-        <title lang="zh">家事法庭24/26</title>
+        <title lang="zh">家事法庭第24集</title>
     </programme>
     <programme start="20260410134600" stop="20260410140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -4491,11 +4491,14 @@
     <programme start="20260412074500" stop="20260412080000" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2026-22</title>
     </programme>
-    <programme start="20260412080000" stop="20260412092500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年世界男子冰壶锦标赛 2</title>
+    <programme start="20260412080000" stop="20260412090000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年国际乒联单打世界杯 女单比赛（4K）</title>
     </programme>
-    <programme start="20260412092500" stop="20260412105500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2025/2026西班牙足球甲级联赛第31轮 巴塞罗那—西班牙人 录播</title>
+    <programme start="20260412090000" stop="20260412102500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年世界男子冰壶锦标赛 2（4K）</title>
+    </programme>
+    <programme start="20260412102500" stop="20260412105500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年世界花样滑冰锦标赛 表演滑（4K）</title>
     </programme>
     <programme start="20260412105500" stop="20260412111000" channel="cctv16">
         <title lang="zh">奥秘无穷-2026-12</title>
@@ -4669,7 +4672,7 @@
         <title lang="zh">乐游新乡村-2026-13</title>
     </programme>
     <programme start="20260411053100" stop="20260411054100" channel="cctv17">
-        <title lang="zh">2026田园特供-乡村达人秀9-踩刀刃绝活表演</title>
+        <title lang="zh">2026田园特供-乡村达人秀45-顶技表演（改版）</title>
     </programme>
     <programme start="20260411054100" stop="20260411063200" channel="cctv17">
         <title lang="zh">亲爱的孩子们第4集</title>
