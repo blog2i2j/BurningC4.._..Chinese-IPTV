@@ -490,7 +490,7 @@
         <title lang="zh">第一动画乐园-2026-103</title>
     </programme>
     <programme start="20260415102000" stop="20260415105100" channel="cctv1">
-        <title lang="zh">自然中国-熊猫家园-奇花异木</title>
+        <title lang="zh">自然中国-熊猫家园-共生之地</title>
     </programme>
     <programme start="20260415105100" stop="20260415110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-98</title>
@@ -616,16 +616,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260416115900" stop="20260416120300" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-金关-5/22</title>
     </programme>
     <programme start="20260416120300" stop="20260416125400" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">金关5/22</title>
     </programme>
     <programme start="20260416125400" stop="20260416125600" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-金关-6/22</title>
     </programme>
     <programme start="20260416125600" stop="20260416135300" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">金关6/22</title>
     </programme>
     <programme start="20260416135300" stop="20260416140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -3310,7 +3310,7 @@
         <title lang="zh">创新进行时-2026-75</title>
     </programme>
     <programme start="20260415150200" stop="20260415151200" channel="cctv10">
-        <title lang="zh">读书-2026-157</title>
+        <title lang="zh">读书-2026-183</title>
     </programme>
     <programme start="20260415151200" stop="20260415152500" channel="cctv10">
         <title lang="zh">时尚科技秀-2026-105</title>
@@ -3837,10 +3837,10 @@
     <programme start="20260416074000" stop="20260416081300" channel="cctv12">
         <title lang="zh">剧懂人心-2026-9</title>
     </programme>
-    <programme start="20260416081300" stop="20260416085800" channel="cctv12">
-        <title lang="zh">一线-2025-219</title>
+    <programme start="20260416081300" stop="20260416090100" channel="cctv12">
+        <title lang="zh">剧懂法2025-86</title>
     </programme>
-    <programme start="20260416085800" stop="20260416093400" channel="cctv12">
+    <programme start="20260416090100" stop="20260416093400" channel="cctv12">
         <title lang="zh">天网-2026-75</title>
     </programme>
     <programme start="20260416093400" stop="20260416102500" channel="cctv12">
