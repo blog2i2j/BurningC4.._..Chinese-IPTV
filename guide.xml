@@ -2028,31 +2028,40 @@
     <programme start="20260414163700" stop="20260414182800" channel="cctv6">
         <title lang="zh">狼图腾</title>
     </programme>
-    <programme start="20260414182800" stop="20260415011300" channel="cctv6">
+    <programme start="20260414182800" stop="20260414214400" channel="cctv6">
         <title lang="zh">一百零八</title>
     </programme>
-    <programme start="20260415011300" stop="20260415031100" channel="cctv6">
+    <programme start="20260414214400" stop="20260414232000" channel="cctv6">
+        <title lang="zh">功夫联盟</title>
+    </programme>
+    <programme start="20260414232000" stop="20260415005200" channel="cctv6">
+        <title lang="zh">执剑人</title>
+    </programme>
+    <programme start="20260415005200" stop="20260415024800" channel="cctv6">
         <title lang="zh">逆光飞翔</title>
     </programme>
-    <programme start="20260415031100" stop="20260415044700" channel="cctv6">
+    <programme start="20260415024800" stop="20260415042800" channel="cctv6">
         <title lang="zh">金刀出鞘</title>
     </programme>
-    <programme start="20260415044700" stop="20260415045400" channel="cctv6">
+    <programme start="20260415042800" stop="20260415043300" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260415045400" stop="20260415064000" channel="cctv6">
+    <programme start="20260415043300" stop="20260415061500" channel="cctv6">
         <title lang="zh">毒影迷踪</title>
     </programme>
-    <programme start="20260415064000" stop="20260415082900" channel="cctv6">
+    <programme start="20260415061500" stop="20260415064800" channel="cctv6">
+        <title lang="zh">我和我的家乡：神笔马亮</title>
+    </programme>
+    <programme start="20260415064800" stop="20260415083600" channel="cctv6">
         <title lang="zh">神探马洛：血与光</title>
     </programme>
-    <programme start="20260415082900" stop="20260415102700" channel="cctv6">
+    <programme start="20260415083600" stop="20260415103500" channel="cctv6">
         <title lang="zh">大唐狄仁杰</title>
     </programme>
-    <programme start="20260415102700" stop="20260415121500" channel="cctv6">
+    <programme start="20260415103500" stop="20260415121600" channel="cctv6">
         <title lang="zh">广东十虎苏灿之龙战于野</title>
     </programme>
-    <programme start="20260415121500" stop="20260415140000" channel="cctv6">
+    <programme start="20260415121600" stop="20260415140000" channel="cctv6">
         <title lang="zh">绝战香炉寺</title>
     </programme>
     <programme start="20260415140000" stop="20260415141800" channel="cctv6">
@@ -2070,37 +2079,46 @@
     <programme start="20260415150100" stop="20260415155900" channel="cctv6">
         <title lang="zh">侏罗纪公园：失落的世界（下）</title>
     </programme>
-    <programme start="20260415163500" stop="20260415182100" channel="cctv6">
+    <programme start="20260415163100" stop="20260415181300" channel="cctv6">
         <title lang="zh">师父</title>
     </programme>
-    <programme start="20260415182100" stop="20260415195100" channel="cctv6">
+    <programme start="20260415181300" stop="20260415194300" channel="cctv6">
         <title lang="zh">铁马飞扬</title>
     </programme>
-    <programme start="20260415195100" stop="20260415235500" channel="cctv6">
+    <programme start="20260415194300" stop="20260415212800" channel="cctv6">
         <title lang="zh">南方车站的聚会</title>
     </programme>
-    <programme start="20260415235500" stop="20260416013800" channel="cctv6">
+    <programme start="20260415212800" stop="20260415231500" channel="cctv6">
+        <title lang="zh">西游记女儿国</title>
+    </programme>
+    <programme start="20260415231500" stop="20260416005600" channel="cctv6">
         <title lang="zh">绝战香炉寺</title>
     </programme>
-    <programme start="20260416013800" stop="20260416033400" channel="cctv6">
+    <programme start="20260416005600" stop="20260416025100" channel="cctv6">
         <title lang="zh">心迷宫</title>
     </programme>
-    <programme start="20260416033400" stop="20260416051700" channel="cctv6">
+    <programme start="20260416025100" stop="20260416043700" channel="cctv6">
         <title lang="zh">忠犬流浪记</title>
     </programme>
-    <programme start="20260416051700" stop="20260416052300" channel="cctv6">
+    <programme start="20260416043700" stop="20260416044200" channel="cctv6">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme start="20260416052300" stop="20260416070600" channel="cctv6">
+    <programme start="20260416044200" stop="20260416062100" channel="cctv6">
         <title lang="zh">宛城之战</title>
     </programme>
-    <programme start="20260416070600" stop="20260416084400" channel="cctv6">
+    <programme start="20260416062100" stop="20260416075600" channel="cctv6">
         <title lang="zh">浣花洗剑</title>
     </programme>
-    <programme start="20260416084400" stop="20260416102800" channel="cctv6">
+    <programme start="20260416075600" stop="20260416082100" channel="cctv6">
+        <title lang="zh">我和我的家乡:天上掉下个UFO</title>
+    </programme>
+    <programme start="20260416082100" stop="20260416084400" channel="cctv6">
+        <title lang="zh">我和我的家乡：回乡之路</title>
+    </programme>
+    <programme start="20260416084400" stop="20260416103100" channel="cctv6">
         <title lang="zh">十步追踪</title>
     </programme>
-    <programme start="20260416102800" stop="20260416121700" channel="cctv6">
+    <programme start="20260416103100" stop="20260416121700" channel="cctv6">
         <title lang="zh">广东十虎苏灿之潜龙出世</title>
     </programme>
     <programme start="20260416121700" stop="20260416140000" channel="cctv6">
