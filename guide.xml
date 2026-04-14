@@ -390,19 +390,19 @@
     <programme start="20260414113800" stop="20260414115600" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260414115600" stop="20260414120000" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+    <programme start="20260414115600" stop="20260414120100" channel="cctv1">
+        <title lang="zh">前情提要-金关-第1集</title>
     </programme>
-    <programme start="20260414120000" stop="20260414125100" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+    <programme start="20260414120100" stop="20260414125000" channel="cctv1">
+        <title lang="zh">金关第1集</title>
     </programme>
-    <programme start="20260414125100" stop="20260414125300" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+    <programme start="20260414125000" stop="20260414125300" channel="cctv1">
+        <title lang="zh">前情提要-金关-第2集</title>
     </programme>
-    <programme start="20260414125300" stop="20260414135100" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+    <programme start="20260414125300" stop="20260414135000" channel="cctv1">
+        <title lang="zh">金关第2集</title>
     </programme>
-    <programme start="20260414135100" stop="20260414140000" channel="cctv1">
+    <programme start="20260414135000" stop="20260414140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260414140000" stop="20260414143500" channel="cctv1">
@@ -502,16 +502,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260415115800" stop="20260415120200" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-金关-3/22</title>
     </programme>
     <programme start="20260415120200" stop="20260415125200" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">金关3/22</title>
     </programme>
     <programme start="20260415125200" stop="20260415125500" channel="cctv1">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-金关-4/22</title>
     </programme>
     <programme start="20260415125500" stop="20260415134900" channel="cctv1">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">金关4/22</title>
     </programme>
     <programme start="20260415134900" stop="20260415140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -1108,7 +1108,7 @@
         <title lang="zh">衣锦天下丝路季-4</title>
     </programme>
     <programme start="20260415073700" stop="20260415090600" channel="cctv3">
-        <title lang="zh">越战越勇-2026-9</title>
+        <title lang="zh">越战越勇-2025-34</title>
     </programme>
     <programme start="20260415090600" stop="20260415100600" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-402</title>
@@ -3424,7 +3424,7 @@
         <title lang="zh">时尚科技秀-2026-106</title>
     </programme>
     <programme start="20260416152500" stop="20260416155500" channel="cctv10">
-        <title lang="zh">实验现场-2026-15</title>
+        <title lang="zh">实验现场-2026-16</title>
     </programme>
     <programme start="20260416155500" stop="20260416155900" channel="cctv10">
         <title lang="zh">透视新科技-2026-31</title>
