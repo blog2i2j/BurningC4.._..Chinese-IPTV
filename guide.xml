@@ -501,10 +501,10 @@
     <programme start="20260417113700" stop="20260417115700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260417115700" stop="20260417120200" channel="cctv1">
+    <programme start="20260417115700" stop="20260417120100" channel="cctv1">
         <title lang="zh">前情提要-金关-7/22</title>
     </programme>
-    <programme start="20260417120200" stop="20260417125500" channel="cctv1">
+    <programme start="20260417120100" stop="20260417125500" channel="cctv1">
         <title lang="zh">金关7/22</title>
     </programme>
     <programme start="20260417125500" stop="20260417135100" channel="cctv1">
