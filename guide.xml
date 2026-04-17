@@ -456,26 +456,23 @@
     <programme start="20260418034600" stop="20260418040000" channel="cctv1">
         <title lang="zh">中华古树-稷山板枣古树群（4K）</title>
     </programme>
-    <programme start="20260418040000" stop="20260418043500" channel="cctv1">
+    <programme start="20260418040000" stop="20260418043400" channel="cctv1">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme start="20260418043500" stop="20260418053000" channel="cctv1">
-        <title lang="zh">周末一起看电影-1</title>
+    <programme start="20260418043400" stop="20260418061400" channel="cctv1">
+        <title lang="zh">城市风华录（第二季）-烟台篇</title>
     </programme>
-    <programme start="20260418053000" stop="20260418061700" channel="cctv1">
+    <programme start="20260418061400" stop="20260418070300" channel="cctv1">
         <title lang="zh">沉默的荣耀第13集</title>
     </programme>
-    <programme start="20260418061700" stop="20260418070700" channel="cctv1">
+    <programme start="20260418070300" stop="20260418075300" channel="cctv1">
         <title lang="zh">沉默的荣耀第14集</title>
     </programme>
-    <programme start="20260418070700" stop="20260418075300" channel="cctv1">
+    <programme start="20260418075300" stop="20260418084200" channel="cctv1">
         <title lang="zh">沉默的荣耀第15集</title>
     </programme>
-    <programme start="20260418075300" stop="20260418084200" channel="cctv1">
-        <title lang="zh">沉默的荣耀第16集</title>
-    </programme>
     <programme start="20260418084200" stop="20260418093400" channel="cctv1">
-        <title lang="zh">沉默的荣耀第17集</title>
+        <title lang="zh">沉默的荣耀第16集</title>
     </programme>
     <programme start="20260418093400" stop="20260418105200" channel="cctv1">
         <title lang="zh">星光大道-2026-22</title>
@@ -556,19 +553,19 @@
         <title lang="zh">中华考工记-11</title>
     </programme>
     <programme start="20260419061600" stop="20260419070400" channel="cctv1">
-        <title lang="zh">沉默的荣耀18/39</title>
+        <title lang="zh">沉默的荣耀17/39</title>
     </programme>
     <programme start="20260419070400" stop="20260419075200" channel="cctv1">
-        <title lang="zh">沉默的荣耀19/39</title>
+        <title lang="zh">沉默的荣耀18/39</title>
     </programme>
     <programme start="20260419075200" stop="20260419083900" channel="cctv1">
-        <title lang="zh">沉默的荣耀20/39</title>
+        <title lang="zh">沉默的荣耀19/39</title>
     </programme>
     <programme start="20260419083900" stop="20260419092500" channel="cctv1">
-        <title lang="zh">沉默的荣耀21/39</title>
+        <title lang="zh">沉默的荣耀20/39</title>
     </programme>
     <programme start="20260419092500" stop="20260419101600" channel="cctv1">
-        <title lang="zh">沉默的荣耀22/39</title>
+        <title lang="zh">沉默的荣耀21/39</title>
     </programme>
     <programme start="20260419101600" stop="20260419105100" channel="cctv1">
         <title lang="zh">寻味山海-长兴</title>
@@ -3798,22 +3795,22 @@
     <programme start="20260417130000" stop="20260417133000" channel="cctv13">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260417133000" stop="20260417140000" channel="cctv13">
+    <programme start="20260417133000" stop="20260417135200" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme start="20260417140000" stop="20260417143000" channel="cctv13">
+    <programme start="20260417135200" stop="20260417142200" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20260417143000" stop="20260417150000" channel="cctv13">
+    <programme start="20260417142200" stop="20260417150000" channel="cctv13">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme start="20260417150000" stop="20260417155900" channel="cctv13">
         <title lang="zh">24小时</title>
     </programme>
-    <programme start="20260417160000" stop="20260417163000" channel="cctv13">
+    <programme start="20260417160000" stop="20260417163800" channel="cctv13">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme start="20260417163000" stop="20260417170000" channel="cctv13">
+    <programme start="20260417163800" stop="20260417170000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
     <programme start="20260417170000" stop="20260417172100" channel="cctv13">
@@ -3831,10 +3828,10 @@
     <programme start="20260417183300" stop="20260417190000" channel="cctv13">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme start="20260417190000" stop="20260417193000" channel="cctv13">
+    <programme start="20260417190000" stop="20260417193800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260417193000" stop="20260417200000" channel="cctv13">
+    <programme start="20260417193800" stop="20260417200000" channel="cctv13">
         <title lang="zh">高端访谈</title>
     </programme>
     <programme start="20260417200000" stop="20260417203300" channel="cctv13">
