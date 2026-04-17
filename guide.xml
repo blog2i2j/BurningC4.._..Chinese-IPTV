@@ -489,10 +489,10 @@
     <programme start="20260418113800" stop="20260418120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260418120200" stop="20260418134700" channel="cctv1">
+    <programme start="20260418120200" stop="20260418134900" channel="cctv1">
         <title lang="zh">中华考工记-11</title>
     </programme>
-    <programme start="20260418134700" stop="20260418140000" channel="cctv1">
+    <programme start="20260418134900" stop="20260418140000" channel="cctv1">
         <title lang="zh">中华古树-天目山古柳杉群（4K）</title>
     </programme>
     <programme start="20260418140000" stop="20260418143500" channel="cctv1">
@@ -1300,16 +1300,16 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme start="20260417210000" stop="20260417213000" channel="cctv4">
-        <title lang="zh">记住乡愁2026-46</title>
+        <title lang="zh">记住乡愁2026-9</title>
     </programme>
     <programme start="20260417213000" stop="20260417220000" channel="cctv4">
-        <title lang="zh">鲁健访谈-2026-16</title>
+        <title lang="zh">中国文艺-2026-77</title>
     </programme>
     <programme start="20260417220000" stop="20260417223000" channel="cctv4">
-        <title lang="zh">海峡两岸-2026-107</title>
+        <title lang="zh">鲁健访谈-2026-16</title>
     </programme>
     <programme start="20260417223000" stop="20260417230000" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+        <title lang="zh">海峡两岸-2026-107</title>
     </programme>
     <programme start="20260417230000" stop="20260417233000" channel="cctv4">
         <title lang="zh">中国新闻</title>
@@ -1437,28 +1437,22 @@
     <programme start="20260418233000" stop="20260419000000" channel="cctv4">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme start="20260419000000" stop="20260419010000" channel="cctv4">
+    <programme start="20260419000000" stop="20260419005700" channel="cctv4">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme start="20260419010000" stop="20260419012600" channel="cctv4">
-        <title lang="zh">今日亚洲</title>
+    <programme start="20260419005700" stop="20260419012500" channel="cctv4">
+        <title lang="zh">记住乡愁2026-22</title>
     </programme>
-    <programme start="20260419012600" stop="20260419015400" channel="cctv4">
-        <title lang="zh">深度国际-2026年4月-3</title>
+    <programme start="20260419012500" stop="20260419023500" channel="cctv4">
+        <title lang="zh">丙午年（2026）黄帝故里拜祖大典-1</title>
     </programme>
-    <programme start="20260419015400" stop="20260419022200" channel="cctv4">
-        <title lang="zh">记住乡愁2026-46</title>
+    <programme start="20260419023500" stop="20260419030300" channel="cctv4">
+        <title lang="zh">记住乡愁2026-21</title>
     </programme>
-    <programme start="20260419022200" stop="20260419025200" channel="cctv4">
-        <title lang="zh">记住乡愁2026-47</title>
+    <programme start="20260419030300" stop="20260419033100" channel="cctv4">
+        <title lang="zh">记住乡愁2026-4</title>
     </programme>
-    <programme start="20260419025200" stop="20260419032200" channel="cctv4">
-        <title lang="zh">记住乡愁2026-48</title>
-    </programme>
-    <programme start="20260419032200" stop="20260419033000" channel="cctv4">
-        <title lang="zh">记住乡愁-片段展播-2024-8</title>
-    </programme>
-    <programme start="20260419033000" stop="20260419040000" channel="cctv4">
+    <programme start="20260419033100" stop="20260419040000" channel="cctv4">
         <title lang="zh">海峡两岸-2026-108</title>
     </programme>
     <programme start="20260419040000" stop="20260419050300" channel="cctv4">
@@ -2581,13 +2575,13 @@
         <title lang="zh">本集提要-风与潮-第3集</title>
     </programme>
     <programme start="20260418132900" stop="20260418141900" channel="cctv8">
-        <title lang="zh">风与潮3/31</title>
+        <title lang="zh">风与潮第3集</title>
     </programme>
     <programme start="20260418141900" stop="20260418142100" channel="cctv8">
         <title lang="zh">本集提要-风与潮-第4集</title>
     </programme>
     <programme start="20260418142100" stop="20260418151100" channel="cctv8">
-        <title lang="zh">风与潮4/31</title>
+        <title lang="zh">风与潮第4集</title>
     </programme>
     <programme start="20260418151100" stop="20260418155700" channel="cctv8">
         <title lang="zh">人世间第38集</title>
