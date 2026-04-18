@@ -3159,8 +3159,11 @@
     <programme start="20260419173500" stop="20260419182500" channel="cctv10">
         <title lang="zh">2026科教纪录片精选-6</title>
     </programme>
-    <programme start="20260419182500" stop="20260419220000" channel="cctv10">
+    <programme start="20260419182500" stop="20260419190500" channel="cctv10">
         <title lang="zh">百家讲坛-2026-109</title>
+    </programme>
+    <programme start="20260419190500" stop="20260419220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260419220000" stop="20260419221000" channel="cctv10">
         <title lang="zh">读书-2026-162</title>
