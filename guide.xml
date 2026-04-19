@@ -477,22 +477,22 @@
     <programme start="20260420110000" stop="20260420113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260420113800" stop="20260420115900" channel="cctv1">
+    <programme start="20260420113800" stop="20260420115800" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260420115900" stop="20260420120300" channel="cctv1">
+    <programme start="20260420115800" stop="20260420120200" channel="cctv1">
         <title lang="zh">前情提要-金关-第8集</title>
     </programme>
-    <programme start="20260420120300" stop="20260420125400" channel="cctv1">
+    <programme start="20260420120200" stop="20260420125300" channel="cctv1">
         <title lang="zh">金关第8集</title>
     </programme>
-    <programme start="20260420125400" stop="20260420125600" channel="cctv1">
+    <programme start="20260420125300" stop="20260420125700" channel="cctv1">
         <title lang="zh">前情提要-金关-9/22</title>
     </programme>
-    <programme start="20260420125600" stop="20260420135100" channel="cctv1">
+    <programme start="20260420125700" stop="20260420135200" channel="cctv1">
         <title lang="zh">金关9/22</title>
     </programme>
-    <programme start="20260420135100" stop="20260420140000" channel="cctv1">
+    <programme start="20260420135200" stop="20260420140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260420140000" stop="20260420143600" channel="cctv1">
