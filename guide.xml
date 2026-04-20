@@ -502,18 +502,18 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260421115800" stop="20260421120200" channel="cctv1">
-        <title lang="zh">前情提要-金关-10/22</title>
+        <title lang="zh">前情提要-金关-第10集</title>
     </programme>
-    <programme start="20260421120200" stop="20260421125300" channel="cctv1">
+    <programme start="20260421120200" stop="20260421125200" channel="cctv1">
         <title lang="zh">金关10/22</title>
     </programme>
-    <programme start="20260421125300" stop="20260421125500" channel="cctv1">
-        <title lang="zh">前情提要-金关-11/22</title>
+    <programme start="20260421125200" stop="20260421125700" channel="cctv1">
+        <title lang="zh">前情提要-金关-第11集</title>
     </programme>
-    <programme start="20260421125500" stop="20260421135000" channel="cctv1">
+    <programme start="20260421125700" stop="20260421135100" channel="cctv1">
         <title lang="zh">金关11/22</title>
     </programme>
-    <programme start="20260421135000" stop="20260421140000" channel="cctv1">
+    <programme start="20260421135100" stop="20260421140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260421140000" stop="20260421143600" channel="cctv1">
