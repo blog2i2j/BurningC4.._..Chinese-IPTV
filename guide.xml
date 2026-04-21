@@ -2343,26 +2343,20 @@
     <programme start="20260422002800" stop="20260422010300" channel="cctv7">
         <title lang="zh">第二战场-2026-16</title>
     </programme>
-    <programme start="20260422010300" stop="20260422013500" channel="cctv7">
+    <programme start="20260422010300" stop="20260422013700" channel="cctv7">
         <title lang="zh">防务新观察-2026-111</title>
     </programme>
-    <programme start="20260422013500" stop="20260422020500" channel="cctv7">
-        <title lang="zh">军事纪实-2026-79</title>
-    </programme>
-    <programme start="20260422020500" stop="20260422023300" channel="cctv7">
+    <programme start="20260422013700" stop="20260422020200" channel="cctv7">
         <title lang="zh">兵器面面观-2026-79</title>
     </programme>
-    <programme start="20260422023300" stop="20260422030000" channel="cctv7">
-        <title lang="zh">世界战史-2026-74</title>
-    </programme>
-    <programme start="20260422030000" stop="20260422032700" channel="cctv7">
-        <title lang="zh">国防故事-2026-38</title>
-    </programme>
-    <programme start="20260422032700" stop="20260422035200" channel="cctv7">
+    <programme start="20260422020200" stop="20260422022700" channel="cctv7">
         <title lang="zh">军事纪录-2026-74</title>
     </programme>
-    <programme start="20260422035200" stop="20260422040000" channel="cctv7">
+    <programme start="20260422022700" stop="20260422023000" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-壮志瞰山河</title>
+    </programme>
+    <programme start="20260422023000" stop="20260422040000" channel="cctv7">
+        <title lang="zh">第十三批在韩志愿军烈士遗骸回国特别报道-1</title>
     </programme>
     <programme start="20260422040000" stop="20260422043600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
@@ -2475,17 +2469,14 @@
     <programme start="20260423035300" stop="20260423040000" channel="cctv7">
         <title lang="zh">国防微视频-军歌嘹亮-我们的舰旗高高飘扬（海军版）</title>
     </programme>
-    <programme start="20260423040000" stop="20260423043600" channel="cctv7">
+    <programme start="20260423040000" stop="20260423050600" channel="cctv7">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme start="20260423043600" stop="20260423051000" channel="cctv7">
+    <programme start="20260423050600" stop="20260423053800" channel="cctv7">
         <title lang="zh">防务新观察-2026-112</title>
     </programme>
-    <programme start="20260423051000" stop="20260423053900" channel="cctv7">
+    <programme start="20260423053800" stop="20260423060600" channel="cctv7">
         <title lang="zh">军营的味道-2026-16</title>
-    </programme>
-    <programme start="20260423053900" stop="20260423060600" channel="cctv7">
-        <title lang="zh">兵器面面观-2026-80</title>
     </programme>
     <programme start="20260423060600" stop="20260423063400" channel="cctv7">
         <title lang="zh">军事纪录-2026-75</title>
