@@ -498,19 +498,19 @@
     <programme start="20260422110000" stop="20260422113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260422113800" stop="20260422115900" channel="cctv1">
+    <programme start="20260422113800" stop="20260422115700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260422115900" stop="20260422120300" channel="cctv1">
+    <programme start="20260422115700" stop="20260422120100" channel="cctv1">
         <title lang="zh">前情提要-金关-第12集</title>
     </programme>
-    <programme start="20260422120300" stop="20260422125400" channel="cctv1">
+    <programme start="20260422120100" stop="20260422125200" channel="cctv1">
         <title lang="zh">金关12/22</title>
     </programme>
-    <programme start="20260422125400" stop="20260422125700" channel="cctv1">
+    <programme start="20260422125200" stop="20260422125500" channel="cctv1">
         <title lang="zh">前情提要-金关-第13集</title>
     </programme>
-    <programme start="20260422125700" stop="20260422135100" channel="cctv1">
+    <programme start="20260422125500" stop="20260422135100" channel="cctv1">
         <title lang="zh">金关13/22</title>
     </programme>
     <programme start="20260422135100" stop="20260422140000" channel="cctv1">
