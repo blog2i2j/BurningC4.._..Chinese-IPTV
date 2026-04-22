@@ -507,13 +507,13 @@
     <programme start="20260423120200" stop="20260423125200" channel="cctv1">
         <title lang="zh">金关14/22</title>
     </programme>
-    <programme start="20260423125200" stop="20260423125400" channel="cctv1">
+    <programme start="20260423125200" stop="20260423125600" channel="cctv1">
         <title lang="zh">前情提要-金关-15/22</title>
     </programme>
-    <programme start="20260423125400" stop="20260423135000" channel="cctv1">
+    <programme start="20260423125600" stop="20260423135100" channel="cctv1">
         <title lang="zh">金关15/22</title>
     </programme>
-    <programme start="20260423135000" stop="20260423140000" channel="cctv1">
+    <programme start="20260423135100" stop="20260423140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260423140000" stop="20260423143400" channel="cctv1">
