@@ -391,13 +391,13 @@
         <title lang="zh">前情提要-金关-第12集</title>
     </programme>
     <programme start="20260422120100" stop="20260422125200" channel="cctv1">
-        <title lang="zh">金关12/22</title>
+        <title lang="zh">金关第12集</title>
     </programme>
     <programme start="20260422125200" stop="20260422125500" channel="cctv1">
         <title lang="zh">前情提要-金关-第13集</title>
     </programme>
     <programme start="20260422125500" stop="20260422135100" channel="cctv1">
-        <title lang="zh">金关13/22</title>
+        <title lang="zh">金关第13集</title>
     </programme>
     <programme start="20260422135100" stop="20260422140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
@@ -1095,8 +1095,11 @@
     <programme start="20260423004500" stop="20260423004800" channel="cctv3">
         <title lang="zh">2026年读书日特别节目-腰封-3</title>
     </programme>
-    <programme start="20260423004800" stop="20260423015500" channel="cctv3">
+    <programme start="20260423004800" stop="20260423015400" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-154</title>
+    </programme>
+    <programme start="20260423015400" stop="20260423015500" channel="cctv3">
+        <title lang="zh">2026年读书日特别节目-腰封-4</title>
     </programme>
     <programme start="20260423015500" stop="20260423015800" channel="cctv3">
         <title lang="zh">2026年读书日特别节目-腰封-3</title>
