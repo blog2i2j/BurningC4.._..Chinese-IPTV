@@ -516,28 +516,28 @@
     <programme start="20260423135000" stop="20260423140000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260423140000" stop="20260423143600" channel="cctv1">
+    <programme start="20260423140000" stop="20260423143400" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260423143600" stop="20260423154100" channel="cctv1">
+    <programme start="20260423143400" stop="20260423153900" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme start="20260423154100" stop="20260423155900" channel="cctv1">
+    <programme start="20260423153900" stop="20260423155900" channel="cctv1">
         <title lang="zh">山水间的家（第四季）-8</title>
     </programme>
-    <programme start="20260423171800" stop="20260423174800" channel="cctv1">
+    <programme start="20260423171600" stop="20260423174600" channel="cctv1">
         <title lang="zh">今日说法-2026-70</title>
     </programme>
-    <programme start="20260423174800" stop="20260423182000" channel="cctv1">
+    <programme start="20260423174600" stop="20260423181800" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260423182000" stop="20260423183000" channel="cctv1">
+    <programme start="20260423181800" stop="20260423182900" channel="cctv1">
         <title lang="zh">中华古树-明清石榴园古树群（4K）</title>
     </programme>
-    <programme start="20260423183000" stop="20260423184000" channel="cctv1">
+    <programme start="20260423182900" stop="20260423183900" channel="cctv1">
         <title lang="zh">中华古树-永嘉古柏（4K）</title>
     </programme>
-    <programme start="20260423184000" stop="20260423184700" channel="cctv1">
+    <programme start="20260423183900" stop="20260423184700" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260423184700" stop="20260423202000" channel="cctv1">
