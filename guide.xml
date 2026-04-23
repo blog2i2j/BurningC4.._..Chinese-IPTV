@@ -498,10 +498,10 @@
     <programme start="20260424110000" stop="20260424113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260424113800" stop="20260424120300" channel="cctv1">
+    <programme start="20260424113800" stop="20260424120000" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260424120300" stop="20260424130400" channel="cctv1">
+    <programme start="20260424120000" stop="20260424130400" channel="cctv1">
         <title lang="zh">专题节目-1</title>
     </programme>
     <programme start="20260424130400" stop="20260424130600" channel="cctv1">
@@ -513,25 +513,25 @@
     <programme start="20260424140000" stop="20260424143600" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260424143600" stop="20260424151600" channel="cctv1">
-        <title lang="zh">文化十分-2026-84</title>
+    <programme start="20260424143600" stop="20260424152600" channel="cctv1">
+        <title lang="zh">开讲啦-2026-9</title>
     </programme>
-    <programme start="20260424151600" stop="20260424155900" channel="cctv1">
+    <programme start="20260424152600" stop="20260424155900" channel="cctv1">
         <title lang="zh">星光大道-2026-22</title>
     </programme>
-    <programme start="20260424163700" stop="20260424172100" channel="cctv1">
+    <programme start="20260424164700" stop="20260424173100" channel="cctv1">
         <title lang="zh">生活早参考-特别节目（生活圈）2026-109</title>
     </programme>
-    <programme start="20260424172100" stop="20260424175300" channel="cctv1">
+    <programme start="20260424173100" stop="20260424180100" channel="cctv1">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme start="20260424175300" stop="20260424182100" channel="cctv1">
-        <title lang="zh">今日说法-2026-71</title>
+    <programme start="20260424180100" stop="20260424180500" channel="cctv1">
+        <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme start="20260424182100" stop="20260424185100" channel="cctv1">
-        <title lang="zh">文脉春秋-2025-5</title>
+    <programme start="20260424180500" stop="20260424185000" channel="cctv1">
+        <title lang="zh">开讲啦-2026-9</title>
     </programme>
-    <programme start="20260424185100" stop="20260424190300" channel="cctv1">
+    <programme start="20260424185000" stop="20260424190300" channel="cctv1">
         <title lang="zh">中华古树-茅镬古树群（4K）</title>
     </programme>
     <programme start="20260424190300" stop="20260424202000" channel="cctv1">
@@ -1714,7 +1714,7 @@
         <title lang="zh">体育世界</title>
     </programme>
     <programme start="20260423140000" stop="20260423150500" channel="cctv5">
-        <title lang="zh">2025/2026赛季世界斯诺克锦标赛：司佳辉VS侯赛因·瓦非</title>
+        <title lang="zh">2025/2026赛季世界斯诺克锦标赛1/8决赛</title>
     </programme>
     <programme start="20260423150500" stop="20260423153500" channel="cctv5">
         <title lang="zh">2025/2026英格兰足球超级联赛-第33轮集锦（4K）</title>
