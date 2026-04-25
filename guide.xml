@@ -465,13 +465,13 @@
     <programme start="20260426110000" stop="20260426113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260426113800" stop="20260426120300" channel="cctv1">
+    <programme start="20260426113800" stop="20260426120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260426120300" stop="20260426134600" channel="cctv1">
+    <programme start="20260426120200" stop="20260426134500" channel="cctv1">
         <title lang="zh">金石探文明-㝬簋</title>
     </programme>
-    <programme start="20260426134600" stop="20260426140000" channel="cctv1">
+    <programme start="20260426134500" stop="20260426140000" channel="cctv1">
         <title lang="zh">中华古树-贡山秃杉古树群（4K）</title>
     </programme>
     <programme start="20260426140000" stop="20260426143600" channel="cctv1">
