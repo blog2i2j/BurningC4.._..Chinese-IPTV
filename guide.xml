@@ -504,25 +504,25 @@
     <programme start="20260429110000" stop="20260429113700" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260429113700" stop="20260429115800" channel="cctv1">
+    <programme start="20260429113700" stop="20260429115700" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260429115800" stop="20260429120300" channel="cctv1">
+    <programme start="20260429115700" stop="20260429120100" channel="cctv1">
         <title lang="zh">前情提要-金关-第21集</title>
     </programme>
-    <programme start="20260429120300" stop="20260429125300" channel="cctv1">
-        <title lang="zh">金关21/22</title>
+    <programme start="20260429120100" stop="20260429125100" channel="cctv1">
+        <title lang="zh">金关第21集</title>
     </programme>
-    <programme start="20260429125300" stop="20260429125500" channel="cctv1">
+    <programme start="20260429125100" stop="20260429125500" channel="cctv1">
         <title lang="zh">前情提要-金关-第22集</title>
     </programme>
-    <programme start="20260429125500" stop="20260429134600" channel="cctv1">
-        <title lang="zh">金关22/22</title>
+    <programme start="20260429125500" stop="20260429134700" channel="cctv1">
+        <title lang="zh">金关第22集</title>
     </programme>
-    <programme start="20260429134600" stop="20260429135000" channel="cctv1">
+    <programme start="20260429134700" stop="20260429135100" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260429135000" stop="20260429140000" channel="cctv1">
+    <programme start="20260429135100" stop="20260429140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260429140000" stop="20260429143500" channel="cctv1">
@@ -624,11 +624,14 @@
     <programme start="20260430113800" stop="20260430120300" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260430120300" stop="20260430135400" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+    <programme start="20260430120300" stop="20260430133600" channel="cctv1">
+        <title lang="zh">中国中医药大会（第三季）-2</title>
     </programme>
-    <programme start="20260430135400" stop="20260430140000" channel="cctv1">
+    <programme start="20260430133600" stop="20260430134800" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme start="20260430134800" stop="20260430140000" channel="cctv1">
+        <title lang="zh">中华古树-绍兴古桂花群（4K）</title>
     </programme>
     <programme start="20260430140000" stop="20260430143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1119,38 +1122,41 @@
     <programme start="20260429113000" stop="20260429125400" channel="cctv3">
         <title lang="zh">越战越勇-2026-17</title>
     </programme>
-    <programme start="20260429125400" stop="20260429135000" channel="cctv3">
+    <programme start="20260429125400" stop="20260429140000" channel="cctv3">
         <title lang="zh">2026年读书日特别节目-2</title>
     </programme>
-    <programme start="20260429135000" stop="20260429145600" channel="cctv3">
+    <programme start="20260429140000" stop="20260429150600" channel="cctv3">
         <title lang="zh">音乐周刊-原声天籁中国民歌盛典3</title>
     </programme>
-    <programme start="20260429145600" stop="20260429154200" channel="cctv3">
+    <programme start="20260429150600" stop="20260429155200" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-312 驻站30/33</title>
     </programme>
-    <programme start="20260429154200" stop="20260429155900" channel="cctv3">
+    <programme start="20260429155200" stop="20260429155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-313 驻站31/33</title>
     </programme>
-    <programme start="20260429162800" stop="20260429171400" channel="cctv3">
+    <programme start="20260429163800" stop="20260429172400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-314 驻站32/33</title>
     </programme>
-    <programme start="20260429171400" stop="20260429184000" channel="cctv3">
+    <programme start="20260429172400" stop="20260429185000" channel="cctv3">
         <title lang="zh">影视留声机-2025-99-经典电影欣赏《大李小李和老李》</title>
     </programme>
-    <programme start="20260429184000" stop="20260429193000" channel="cctv3">
+    <programme start="20260429185000" stop="20260429194000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-1067</title>
     </programme>
-    <programme start="20260429193000" stop="20260429203000" channel="cctv3">
+    <programme start="20260429194000" stop="20260429204000" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-153</title>
     </programme>
-    <programme start="20260429203000" stop="20260429212100" channel="cctv3">
-        <title lang="zh">我的艺术清单-2025-10</title>
+    <programme start="20260429204000" stop="20260429213100" channel="cctv3">
+        <title lang="zh">2026年读书日特别节目-1</title>
     </programme>
-    <programme start="20260429212100" stop="20260429222300" channel="cctv3">
-        <title lang="zh">中国乡村音乐大会-健康跃动篇（无商务版）</title>
+    <programme start="20260429213100" stop="20260429222100" channel="cctv3">
+        <title lang="zh">音乐周刊-原声天籁中国民歌盛典4</title>
     </programme>
-    <programme start="20260429222300" stop="20260429224300" channel="cctv3">
+    <programme start="20260429222100" stop="20260429224100" channel="cctv3">
         <title lang="zh">文化十分-2026-87</title>
+    </programme>
+    <programme start="20260429224100" stop="20260429224300" channel="cctv3">
+        <title lang="zh">2026年读书日特别节目-腰封-1</title>
     </programme>
     <programme start="20260429224300" stop="20260430001500" channel="cctv3">
         <title lang="zh">国风超有戏·寻风季-3综艺频道</title>
