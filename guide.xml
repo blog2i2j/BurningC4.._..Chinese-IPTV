@@ -4483,7 +4483,7 @@
         <title lang="zh">艺术里的奥林匹克2026-27</title>
     </programme>
     <programme start="20260428113000" stop="20260428135000" channel="cctv16">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 第一场 广东东阳光-广州朗肽海本</title>
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 广东东阳光-广州朗肽海本 第一场</title>
     </programme>
     <programme start="20260428135000" stop="20260428145000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年全国举重锦标赛 男子比赛1</title>
@@ -4545,17 +4545,14 @@
     <programme start="20260429082000" stop="20260429094500" channel="cctv16">
         <title lang="zh">国际足球赛场-25-26赛季法甲联赛第31轮 昂热—巴黎圣日耳曼</title>
     </programme>
-    <programme start="20260429094500" stop="20260429104500" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年国际乒联单打世界杯 3</title>
+    <programme start="20260429094500" stop="20260429100500" channel="cctv16">
+        <title lang="zh">艺术里的奥林匹克2026-28(4K)</title>
     </programme>
-    <programme start="20260429104500" stop="20260429111200" channel="cctv16">
-        <title lang="zh">体坛零距离-2026-12</title>
-    </programme>
-    <programme start="20260429111200" stop="20260429113000" channel="cctv16">
-        <title lang="zh">艺术里的奥林匹克2026-28</title>
+    <programme start="20260429100500" stop="20260429113000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季欧洲篮球联赛季后赛 巴伦西亚—帕纳辛纳科斯 录播（4K）</title>
     </programme>
     <programme start="20260429113000" stop="20260429135000" channel="cctv16">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 第一场  2</title>
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛（浙江稠州金租-宁波町渥）第一场</title>
     </programme>
     <programme start="20260429135000" stop="20260429145000" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年全国举重锦标赛 女子比赛2</title>
@@ -4621,7 +4618,7 @@
         <title lang="zh">实况录像（奥林匹克）-2026年世界室内田径锦标赛2</title>
     </programme>
     <programme start="20260430085500" stop="20260430102500" channel="cctv16">
-        <title lang="zh">国际足球赛场-25-26赛季法甲联赛第31轮 洛里昂—斯特拉斯堡</title>
+        <title lang="zh">国际足球赛场-25-26赛季英超联赛第34轮 利物浦—水晶宫（4K）</title>
     </programme>
     <programme start="20260430102500" stop="20260430105500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-精品赛事记录-2026年世界泳联花样游泳世界杯法国站 中国队2金1银</title>
