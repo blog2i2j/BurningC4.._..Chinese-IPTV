@@ -457,13 +457,13 @@
         <title lang="zh">生活早参考-特别节目（生活圈）2026-114</title>
     </programme>
     <programme start="20260429012200" stop="20260429021000" channel="cctv1">
-        <title lang="zh">八千里路云和月16/40</title>
+        <title lang="zh">八千里路云和月第16集</title>
     </programme>
     <programme start="20260429021000" stop="20260429025900" channel="cctv1">
-        <title lang="zh">八千里路云和月17/40</title>
+        <title lang="zh">八千里路云和月第17集</title>
     </programme>
     <programme start="20260429025900" stop="20260429034700" channel="cctv1">
-        <title lang="zh">八千里路云和月18/40</title>
+        <title lang="zh">八千里路云和月第18集</title>
     </programme>
     <programme start="20260429034700" stop="20260429040000" channel="cctv1">
         <title lang="zh">中华古树-渑池周柏（4K）</title>
@@ -475,19 +475,19 @@
         <title lang="zh">今日说法-2026-74</title>
     </programme>
     <programme start="20260429050700" stop="20260429055400" channel="cctv1">
-        <title lang="zh">太平年28/48</title>
+        <title lang="zh">太平年第28集</title>
     </programme>
     <programme start="20260429055400" stop="20260429064200" channel="cctv1">
-        <title lang="zh">太平年29/48</title>
+        <title lang="zh">太平年第29集</title>
     </programme>
     <programme start="20260429064200" stop="20260429073100" channel="cctv1">
-        <title lang="zh">太平年30/48</title>
+        <title lang="zh">太平年第30集</title>
     </programme>
     <programme start="20260429073100" stop="20260429082000" channel="cctv1">
-        <title lang="zh">太平年31/48</title>
+        <title lang="zh">太平年第31集</title>
     </programme>
     <programme start="20260429082000" stop="20260429090900" channel="cctv1">
-        <title lang="zh">太平年32/48</title>
+        <title lang="zh">太平年第32集</title>
     </programme>
     <programme start="20260429090900" stop="20260429093800" channel="cctv1">
         <title lang="zh">第一动画乐园-2026-120</title>
@@ -508,21 +508,21 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme start="20260429115800" stop="20260429120300" channel="cctv1">
-        <title lang="zh">前情提要-金关-21/22</title>
+        <title lang="zh">前情提要-金关-第21集</title>
     </programme>
-    <programme start="20260429120300" stop="20260429125500" channel="cctv1">
+    <programme start="20260429120300" stop="20260429125300" channel="cctv1">
         <title lang="zh">金关21/22</title>
     </programme>
-    <programme start="20260429125500" stop="20260429125700" channel="cctv1">
-        <title lang="zh">前情提要-金关-22/22</title>
+    <programme start="20260429125300" stop="20260429125500" channel="cctv1">
+        <title lang="zh">前情提要-金关-第22集</title>
     </programme>
-    <programme start="20260429125700" stop="20260429134900" channel="cctv1">
+    <programme start="20260429125500" stop="20260429134600" channel="cctv1">
         <title lang="zh">金关22/22</title>
     </programme>
-    <programme start="20260429134900" stop="20260429135300" channel="cctv1">
+    <programme start="20260429134600" stop="20260429135000" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260429135300" stop="20260429140000" channel="cctv1">
+    <programme start="20260429135000" stop="20260429140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260429140000" stop="20260429143500" channel="cctv1">
@@ -3282,8 +3282,11 @@
     <programme start="20260429173500" stop="20260429182100" channel="cctv10">
         <title lang="zh">2026科教纪录片精选-与恐龙同行-6</title>
     </programme>
-    <programme start="20260429182100" stop="20260429220000" channel="cctv10">
+    <programme start="20260429182100" stop="20260429190100" channel="cctv10">
         <title lang="zh">百家讲坛-2026-119</title>
+    </programme>
+    <programme start="20260429190100" stop="20260429220000" channel="cctv10">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260429220000" stop="20260429221000" channel="cctv10">
         <title lang="zh">读书-2026-172</title>
@@ -4359,8 +4362,11 @@
     <programme start="20260429155000" stop="20260429155900" channel="cctv15">
         <title lang="zh">风华国乐-2026-121</title>
     </programme>
-    <programme start="20260429162800" stop="20260429220000" channel="cctv15">
+    <programme start="20260429162800" stop="20260429172300" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-99-经典回响·古典名作系列音乐会（2）</title>
+    </programme>
+    <programme start="20260429172300" stop="20260429220000" channel="cctv15">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260429220000" stop="20260429231200" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-219</title>
