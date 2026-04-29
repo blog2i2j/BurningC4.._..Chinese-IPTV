@@ -1632,13 +1632,10 @@
     <programme start="20260429075500" stop="20260429080000" channel="cctv5">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme start="20260429080000" stop="20260429110000" channel="cctv5">
+    <programme start="20260429080000" stop="20260429125000" channel="cctv5">
         <title lang="zh">2026年汤姆斯杯羽毛球赛-小组赛（中国-印度）</title>
     </programme>
-    <programme start="20260429110000" stop="20260429121000" channel="cctv5">
-        <title lang="zh">体育新闻</title>
-    </programme>
-    <programme start="20260429121000" stop="20260429133000" channel="cctv5">
+    <programme start="20260429125000" stop="20260429133000" channel="cctv5">
         <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 （青岛崂山啤酒-山西汾酒）第一场</title>
     </programme>
     <programme start="20260429133000" stop="20260429140000" channel="cctv5">
