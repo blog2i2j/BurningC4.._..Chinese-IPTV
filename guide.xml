@@ -384,14 +384,14 @@
     <programme start="20260501113900" stop="20260501120100" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260501120100" stop="20260501134600" channel="cctv1">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1</title>
+    <programme start="20260501120100" stop="20260501134400" channel="cctv1">
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-播出版</title>
     </programme>
-    <programme start="20260501134600" stop="20260501135200" channel="cctv1">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
+    <programme start="20260501134400" stop="20260501135200" channel="cctv1">
+        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260501135200" stop="20260501140000" channel="cctv1">
-        <title lang="zh">非遗里的中国-MV</title>
+        <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme start="20260501140000" stop="20260501143500" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -402,8 +402,11 @@
     <programme start="20260501154000" stop="20260501155900" channel="cctv1">
         <title lang="zh">非遗里的中国（第四季）-7</title>
     </programme>
-    <programme start="20260501171600" stop="20260501180000" channel="cctv1">
-        <title lang="zh">生活早参考-特别节目（生活圈）2026-116</title>
+    <programme start="20260501171600" stop="20260501174800" channel="cctv1">
+        <title lang="zh">自然中国-地矿宝藏-高山寻石</title>
+    </programme>
+    <programme start="20260501174800" stop="20260501180000" channel="cctv1">
+        <title lang="zh">中华古树-稷山板枣古树群（4K）</title>
     </programme>
     <programme start="20260501180000" stop="20260501183000" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -469,7 +472,7 @@
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260502091300" stop="20260502105100" channel="cctv1">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1</title>
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-播出版</title>
     </programme>
     <programme start="20260502105100" stop="20260502110000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-115</title>
@@ -477,13 +480,13 @@
     <programme start="20260502110000" stop="20260502113800" channel="cctv1">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme start="20260502113800" stop="20260502120300" channel="cctv1">
+    <programme start="20260502113800" stop="20260502120200" channel="cctv1">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260502120300" stop="20260502135300" channel="cctv1">
+    <programme start="20260502120200" stop="20260502135000" channel="cctv1">
         <title lang="zh">三餐四季（第三季）-8浙江</title>
     </programme>
-    <programme start="20260502135300" stop="20260502140000" channel="cctv1">
+    <programme start="20260502135000" stop="20260502140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260502140000" stop="20260502143500" channel="cctv1">
@@ -495,8 +498,11 @@
     <programme start="20260502161400" stop="20260502171800" channel="cctv1">
         <title lang="zh">花开中国-广西·南宁篇</title>
     </programme>
-    <programme start="20260502171800" stop="20260502180200" channel="cctv1">
-        <title lang="zh">生活早参考-特别节目（生活圈）2026-117</title>
+    <programme start="20260502171800" stop="20260502175000" channel="cctv1">
+        <title lang="zh">自然中国-地矿宝藏-秘林探锂</title>
+    </programme>
+    <programme start="20260502175000" stop="20260502180200" channel="cctv1">
+        <title lang="zh">中华古树-绍兴古桂花群（4K）</title>
     </programme>
     <programme start="20260502180200" stop="20260502183200" channel="cctv1">
         <title lang="zh">晚间新闻</title>
@@ -1722,8 +1728,11 @@
     <programme start="20260503000300" stop="20260503010000" channel="cctv5">
         <title lang="zh">实况录像-2026年体操世界杯 奥西耶克站 2</title>
     </programme>
-    <programme start="20260503010000" stop="20260503033000" channel="cctv5">
-        <title lang="zh">2025/2026赛季美国职业篮球联赛-季后赛5</title>
+    <programme start="20260503010000" stop="20260503023000" channel="cctv5">
+        <title lang="zh">2025/2026意大利足球甲级联赛-第34轮（米兰—尤文图斯）</title>
+    </programme>
+    <programme start="20260503023000" stop="20260503033000" channel="cctv5">
+        <title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛</title>
     </programme>
     <programme start="20260503033000" stop="20260503040500" channel="cctv5">
         <title lang="zh">体坛快讯</title>
@@ -1861,7 +1870,7 @@
         <title lang="zh">实况录像-精彩一刻-2026年体操世界杯奥西耶克站 中国队获2金</title>
     </programme>
     <programme start="20260502113000" stop="20260502133000" channel="cctv5plus">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛12进8 第二场2</title>
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-季后赛（宁波町渥-浙江稠州金租）第二场</title>
     </programme>
     <programme start="20260502133000" stop="20260502154000" channel="cctv5plus">
         <title lang="zh">2025/2026德国足球甲级联赛-第32轮（拜仁慕尼黑—海登海姆）</title>
@@ -4216,7 +4225,7 @@
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-221</title>
     </programme>
     <programme start="20260501120100" stop="20260501134600" channel="cctv15">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-1</title>
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-播出版</title>
     </programme>
     <programme start="20260501134600" stop="20260501150100" channel="cctv15">
         <title lang="zh">音乐公开课-2026-7</title>
