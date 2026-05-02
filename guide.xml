@@ -1056,61 +1056,76 @@
     <programme start="20260502215700" stop="20260502223200" channel="cctv3">
         <title lang="zh">动物园里有什么-3</title>
     </programme>
-    <programme start="20260502223200" stop="20260503000000" channel="cctv3">
-        <title lang="zh">敢梦敢为—追觅之夜-1</title>
+    <programme start="20260502223200" stop="20260502233300" channel="cctv3">
+        <title lang="zh">2026年读书日特别节目-2</title>
     </programme>
-    <programme start="20260503000000" stop="20260503004100" channel="cctv3">
+    <programme start="20260502233300" stop="20260502234000" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1031 锦鲤</title>
+    </programme>
+    <programme start="20260502234000" stop="20260503002100" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2025-28</title>
     </programme>
-    <programme start="20260503004100" stop="20260503015700" channel="cctv3">
+    <programme start="20260503002100" stop="20260503013400" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-159</title>
     </programme>
-    <programme start="20260503015700" stop="20260503033700" channel="cctv3">
-        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-3套</title>
+    <programme start="20260503013400" stop="20260503014000" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1034 快乐小马</title>
     </programme>
-    <programme start="20260503033700" stop="20260503050700" channel="cctv3">
+    <programme start="20260503014000" stop="20260503032000" channel="cctv3">
+        <title lang="zh">中国梦·劳动美—2026五一国际劳动节“心连心”特别节目-播出版</title>
+    </programme>
+    <programme start="20260503032000" stop="20260503045000" channel="cctv3">
         <title lang="zh">开门大吉-2026-15</title>
     </programme>
-    <programme start="20260503050700" stop="20260503064500" channel="cctv3">
+    <programme start="20260503045000" stop="20260503062400" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-437</title>
     </programme>
-    <programme start="20260503064500" stop="20260503072400" channel="cctv3">
+    <programme start="20260503062400" stop="20260503063200" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1038 闪耀动起来</title>
+    </programme>
+    <programme start="20260503063200" stop="20260503070700" channel="cctv3">
         <title lang="zh">非常6+1-2025-31多彩少年暑期集锦13</title>
     </programme>
-    <programme start="20260503072400" stop="20260503091000" channel="cctv3">
+    <programme start="20260503070700" stop="20260503071400" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1039 踏地为节</title>
+    </programme>
+    <programme start="20260503071400" stop="20260503090100" channel="cctv3">
         <title lang="zh">神采正飞扬-中国郎之夜-5</title>
     </programme>
-    <programme start="20260503091000" stop="20260503101300" channel="cctv3">
+    <programme start="20260503090100" stop="20260503100000" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-398</title>
     </programme>
-    <programme start="20260503101300" stop="20260503113700" channel="cctv3">
+    <programme start="20260503100000" stop="20260503100600" channel="cctv3">
+        <title lang="zh">综艺喜乐汇-2026-1035 幽兰</title>
+    </programme>
+    <programme start="20260503100600" stop="20260503113000" channel="cctv3">
         <title lang="zh">越战越勇-2026-16</title>
     </programme>
-    <programme start="20260503113700" stop="20260503125800" channel="cctv3">
+    <programme start="20260503113000" stop="20260503125100" channel="cctv3">
         <title lang="zh">开门大吉-2026-18</title>
     </programme>
-    <programme start="20260503125800" stop="20260503140000" channel="cctv3">
+    <programme start="20260503125100" stop="20260503135300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-524</title>
     </programme>
-    <programme start="20260503140000" stop="20260503145400" channel="cctv3">
+    <programme start="20260503135300" stop="20260503144700" channel="cctv3">
         <title lang="zh">星光大道-2026-33（星光欢唱季3）</title>
     </programme>
-    <programme start="20260503145400" stop="20260503154000" channel="cctv3">
+    <programme start="20260503144700" stop="20260503153300" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-324 人生之路 9/37</title>
     </programme>
-    <programme start="20260503154000" stop="20260503155900" channel="cctv3">
+    <programme start="20260503153300" stop="20260503155900" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-325 人生之路10/37</title>
     </programme>
-    <programme start="20260503162600" stop="20260503171200" channel="cctv3">
+    <programme start="20260503161900" stop="20260503170500" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-326 人生之路11/37</title>
     </programme>
-    <programme start="20260503171200" stop="20260503190400" channel="cctv3">
+    <programme start="20260503170500" stop="20260503185700" channel="cctv3">
         <title lang="zh">影视留声机-2025-61-经典音乐电影欣赏《刘三姐》</title>
     </programme>
-    <programme start="20260503190400" stop="20260503195400" channel="cctv3">
+    <programme start="20260503185700" stop="20260503194700" channel="cctv3">
         <title lang="zh">综艺喜乐汇-2026-463</title>
     </programme>
-    <programme start="20260503195400" stop="20260503204700" channel="cctv3">
+    <programme start="20260503194700" stop="20260503204700" channel="cctv3">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-123</title>
     </programme>
     <programme start="20260503204700" stop="20260503205100" channel="cctv3">
