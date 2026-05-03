@@ -436,10 +436,10 @@
         <title lang="zh">自然中国-地矿宝藏-追寻金脉</title>
     </programme>
     <programme start="20260504020000" stop="20260504030600" channel="cctv1">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">新闻直播间</title>
     </programme>
     <programme start="20260504030600" stop="20260504035400" channel="cctv1">
-        <title lang="zh">八千里路云和月25/40</title>
+        <title lang="zh">八千里路云和月第25集</title>
     </programme>
     <programme start="20260504035400" stop="20260504040000" channel="cctv1">
         <title lang="zh">秘境之眼-2026-103</title>
@@ -451,16 +451,16 @@
         <title lang="zh">山水间的家（第四季）-1</title>
     </programme>
     <programme start="20260504061000" stop="20260504065700" channel="cctv1">
-        <title lang="zh">冬去春来2/32</title>
+        <title lang="zh">冬去春来第2集</title>
     </programme>
     <programme start="20260504065700" stop="20260504074400" channel="cctv1">
-        <title lang="zh">冬去春来3/32</title>
+        <title lang="zh">冬去春来第3集</title>
     </programme>
     <programme start="20260504074400" stop="20260504083000" channel="cctv1">
-        <title lang="zh">冬去春来4/32</title>
+        <title lang="zh">冬去春来第4集</title>
     </programme>
     <programme start="20260504083000" stop="20260504091700" channel="cctv1">
-        <title lang="zh">冬去春来5/32</title>
+        <title lang="zh">冬去春来第5集</title>
     </programme>
     <programme start="20260504091700" stop="20260504105400" channel="cctv1">
         <title lang="zh">城市风华录（第二季）-烟台篇</title>
@@ -3400,10 +3400,10 @@
         <title lang="zh">CCTV空中剧院-2025-68地方戏版 越剧《青衫·红袍》</title>
     </programme>
     <programme start="20260504034000" stop="20260504043100" channel="cctv11">
-        <title lang="zh">南洋女儿情23/40</title>
+        <title lang="zh">南洋女儿情第23集</title>
     </programme>
     <programme start="20260504043100" stop="20260504052100" channel="cctv11">
-        <title lang="zh">南洋女儿情24/40</title>
+        <title lang="zh">南洋女儿情第24集</title>
     </programme>
     <programme start="20260504052100" stop="20260504064000" channel="cctv11">
         <title lang="zh">宝贝亮相吧-2026-3</title>
@@ -3412,10 +3412,10 @@
         <title lang="zh">京剧电影《杜鹃山》</title>
     </programme>
     <programme start="20260504091300" stop="20260504100300" channel="cctv11">
-        <title lang="zh">塞上风云记6/48</title>
+        <title lang="zh">塞上风云记－第6集</title>
     </programme>
     <programme start="20260504100300" stop="20260504110000" channel="cctv11">
-        <title lang="zh">塞上风云记7/48</title>
+        <title lang="zh">塞上风云记－第7集</title>
     </programme>
     <programme start="20260504110000" stop="20260504113000" channel="cctv11">
         <title lang="zh">青春戏苑-2026-102五四青年节专辑</title>
@@ -3427,16 +3427,19 @@
         <title lang="zh">青春戏苑-2026-17青春遇见古戏楼</title>
     </programme>
     <programme start="20260504140300" stop="20260504145300" channel="cctv11">
-        <title lang="zh">玫瑰的故事21/38</title>
+        <title lang="zh">玫瑰的故事第21集</title>
     </programme>
     <programme start="20260504145300" stop="20260504154400" channel="cctv11">
-        <title lang="zh">玫瑰的故事22/38</title>
+        <title lang="zh">玫瑰的故事第22集</title>
     </programme>
     <programme start="20260504154400" stop="20260504155900" channel="cctv11">
-        <title lang="zh">玫瑰的故事23/38</title>
+        <title lang="zh">玫瑰的故事第23集</title>
     </programme>
-    <programme start="20260504163400" stop="20260504220600" channel="cctv11">
+    <programme start="20260504163400" stop="20260504170500" channel="cctv11">
         <title lang="zh">青春戏苑-2026-102五四青年节专辑</title>
+    </programme>
+    <programme start="20260504170500" stop="20260504220600" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260504220600" stop="20260504231900" channel="cctv11">
         <title lang="zh">青春戏苑-2026-43 京剧《贵妃醉酒》</title>
