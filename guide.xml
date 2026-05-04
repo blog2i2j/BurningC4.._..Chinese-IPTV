@@ -3451,10 +3451,10 @@
         <title lang="zh">豫剧电影《大脚皇后》</title>
     </programme>
     <programme start="20260505033100" stop="20260505042100" channel="cctv11">
-        <title lang="zh">南洋女儿情25/40</title>
+        <title lang="zh">南洋女儿情第25集</title>
     </programme>
     <programme start="20260505042100" stop="20260505051200" channel="cctv11">
-        <title lang="zh">南洋女儿情26/40</title>
+        <title lang="zh">南洋女儿情第26集</title>
     </programme>
     <programme start="20260505051200" stop="20260505063100" channel="cctv11">
         <title lang="zh">2026年戏韵系列节目-青青风华-1</title>
@@ -3463,10 +3463,10 @@
         <title lang="zh">中国戏曲像音像集萃-2026-9越剧《狸猫换太子》</title>
     </programme>
     <programme start="20260505091300" stop="20260505100300" channel="cctv11">
-        <title lang="zh">塞上风云记8/48</title>
+        <title lang="zh">塞上风云记－第8集</title>
     </programme>
     <programme start="20260505100300" stop="20260505110000" channel="cctv11">
-        <title lang="zh">塞上风云记9/48</title>
+        <title lang="zh">塞上风云记－第9集</title>
     </programme>
     <programme start="20260505110000" stop="20260505113000" channel="cctv11">
         <title lang="zh">青春戏苑-2026-53越剧《追鱼》专辑1</title>
@@ -3475,16 +3475,19 @@
         <title lang="zh">电影 刘三姐（修复版）</title>
     </programme>
     <programme start="20260505134200" stop="20260505143200" channel="cctv11">
-        <title lang="zh">玫瑰的故事24/38</title>
+        <title lang="zh">玫瑰的故事第24集</title>
     </programme>
     <programme start="20260505143200" stop="20260505152300" channel="cctv11">
-        <title lang="zh">玫瑰的故事25/38</title>
+        <title lang="zh">玫瑰的故事第25集</title>
     </programme>
     <programme start="20260505152300" stop="20260505155900" channel="cctv11">
-        <title lang="zh">玫瑰的故事26/38</title>
+        <title lang="zh">玫瑰的故事第26集</title>
     </programme>
-    <programme start="20260505161300" stop="20260505220600" channel="cctv11">
+    <programme start="20260505161300" stop="20260505164400" channel="cctv11">
         <title lang="zh">青春戏苑-2026-53越剧《追鱼》专辑1</title>
+    </programme>
+    <programme start="20260505164400" stop="20260505220600" channel="cctv11">
+        <title lang="zh">再见</title>
     </programme>
     <programme start="20260505220600" stop="20260505232000" channel="cctv11">
         <title lang="zh">青春戏苑-2026-46 黄梅戏《天仙配》（选场）</title>
