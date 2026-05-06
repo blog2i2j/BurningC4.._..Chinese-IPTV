@@ -1939,7 +1939,7 @@
         <title lang="zh">2025/2026西班牙足球甲级联赛-第34轮集锦（4K）</title>
     </programme>
     <programme start="20260507113000" stop="20260507135000" channel="cctv5plus">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-1/4决赛 第一场2</title>
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-1/4决赛 浙江浙商证券VS山西汾酒</title>
     </programme>
     <programme start="20260507135000" stop="20260507155000" channel="cctv5plus">
         <title lang="zh">实况录像-2026年尤伯杯羽毛球赛  半决赛</title>
@@ -4395,22 +4395,22 @@
     <programme start="20260507101400" stop="20260507113000" channel="cctv15">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-227</title>
     </programme>
-    <programme start="20260507113000" stop="20260507132500" channel="cctv15">
-        <title lang="zh">未来我来-2026五四青年节特别节目-完整版</title>
+    <programme start="20260507113000" stop="20260507132300" channel="cctv15">
+        <title lang="zh">未来我来-2026 五四青年节特别节目-纯享版</title>
     </programme>
-    <programme start="20260507132500" stop="20260507151100" channel="cctv15">
+    <programme start="20260507132300" stop="20260507150900" channel="cctv15">
         <title lang="zh">综艺喜乐汇-2026-446</title>
     </programme>
-    <programme start="20260507151100" stop="20260507155900" channel="cctv15">
+    <programme start="20260507150900" stop="20260507155900" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-101-经典回响·古典名作系列音乐会（4）</title>
     </programme>
-    <programme start="20260507161000" stop="20260507164800" channel="cctv15">
+    <programme start="20260507160800" stop="20260507164600" channel="cctv15">
         <title lang="zh">风华国乐-2026-130</title>
     </programme>
-    <programme start="20260507164800" stop="20260507174300" channel="cctv15">
+    <programme start="20260507164600" stop="20260507174100" channel="cctv15">
         <title lang="zh">CCTV音乐厅-2026-101-经典回响·古典名作系列音乐会（4）</title>
     </programme>
-    <programme start="20260507174300" stop="20260507220000" channel="cctv15">
+    <programme start="20260507174100" stop="20260507220000" channel="cctv15">
         <title lang="zh">再见</title>
     </programme>
     <programme start="20260507220000" stop="20260507230900" channel="cctv15">
@@ -4584,20 +4584,23 @@
     <programme start="20260507074500" stop="20260507081500" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年世界室内田径锦标赛 25分钟版</title>
     </programme>
-    <programme start="20260507081500" stop="20260507091500" channel="cctv16">
+    <programme start="20260507081500" stop="20260507091300" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子大跳台决赛</title>
     </programme>
-    <programme start="20260507091500" stop="20260507111000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年尤伯杯羽毛球赛  半决赛</title>
+    <programme start="20260507091300" stop="20260507101000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2026年世界泳联跳水世界杯总决赛 3（4K）</title>
     </programme>
-    <programme start="20260507111000" stop="20260507113000" channel="cctv16">
+    <programme start="20260507101000" stop="20260507113500" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-2025/2026赛季欧洲篮球联赛 季后赛 帕纳辛纳科斯—巴伦西亚 录播（4K）</title>
+    </programme>
+    <programme start="20260507113500" stop="20260507115500" channel="cctv16">
         <title lang="zh">艺术里的奥林匹克2026-25</title>
     </programme>
-    <programme start="20260507113000" stop="20260507135000" channel="cctv16">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-1/4决赛 第一场 2</title>
+    <programme start="20260507115500" stop="20260507142000" channel="cctv16">
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-1/4决赛（深圳马可波罗-浙江稠州金租）</title>
     </programme>
-    <programme start="20260507135000" stop="20260507145000" channel="cctv16">
-        <title lang="zh">实况录像（奥林匹克）-2026年世界泳联跳水世界杯总决赛 3</title>
+    <programme start="20260507142000" stop="20260507145000" channel="cctv16">
+        <title lang="zh">实况录像（奥林匹克）-精品赛事记录-2026年世界泳联花样游泳世界杯法国站 中国队2金1银（4K）</title>
     </programme>
     <programme start="20260507145000" stop="20260507155900" channel="cctv16">
         <title lang="zh">实况录像（奥林匹克）-2026年ATP1000男子网球大师赛 马德里站 决赛</title>
