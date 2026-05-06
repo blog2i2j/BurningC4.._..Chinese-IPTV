@@ -510,19 +510,19 @@
     <programme start="20260507115900" stop="20260507120400" channel="cctv1">
         <title lang="zh">前情提要-喀什恋歌-5/8</title>
     </programme>
-    <programme start="20260507120400" stop="20260507125500" channel="cctv1">
+    <programme start="20260507120400" stop="20260507125300" channel="cctv1">
         <title lang="zh">喀什恋歌5/8</title>
     </programme>
-    <programme start="20260507125500" stop="20260507125600" channel="cctv1">
+    <programme start="20260507125300" stop="20260507125600" channel="cctv1">
         <title lang="zh">前情提要-喀什恋歌-6/8</title>
     </programme>
     <programme start="20260507125600" stop="20260507134400" channel="cctv1">
         <title lang="zh">喀什恋歌6/8</title>
     </programme>
-    <programme start="20260507134400" stop="20260507135000" channel="cctv1">
+    <programme start="20260507134400" stop="20260507135100" channel="cctv1">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme start="20260507135000" stop="20260507140000" channel="cctv1">
+    <programme start="20260507135100" stop="20260507140000" channel="cctv1">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme start="20260507140000" stop="20260507143600" channel="cctv1">
@@ -2716,13 +2716,13 @@
         <title lang="zh">本集提要-爱情没有神话-第19集</title>
     </programme>
     <programme start="20260507113000" stop="20260507122500" channel="cctv8">
-        <title lang="zh">爱情没有神话19/37</title>
+        <title lang="zh">爱情没有神话第19集</title>
     </programme>
     <programme start="20260507122500" stop="20260507123000" channel="cctv8">
         <title lang="zh">本集提要-爱情没有神话-第20集</title>
     </programme>
     <programme start="20260507123000" stop="20260507132400" channel="cctv8">
-        <title lang="zh">爱情没有神话20/37</title>
+        <title lang="zh">爱情没有神话第20集</title>
     </programme>
     <programme start="20260507132400" stop="20260507132900" channel="cctv8">
         <title lang="zh">本集提要-黄雀-第9集</title>
@@ -3291,17 +3291,14 @@
     <programme start="20260507123200" stop="20260507132000" channel="cctv10">
         <title lang="zh">探索·发现-2026-127</title>
     </programme>
-    <programme start="20260507132000" stop="20260507134800" channel="cctv10">
+    <programme start="20260507132000" stop="20260507144000" channel="cctv10">
+        <title lang="zh">闪亮的名字2026-最美巾帼奋斗者发布仪式</title>
+    </programme>
+    <programme start="20260507144000" stop="20260507150200" channel="cctv10">
         <title lang="zh">创新进行时-2026-91</title>
     </programme>
-    <programme start="20260507134800" stop="20260507144000" channel="cctv10">
-        <title lang="zh">2026大千世界-44</title>
-    </programme>
-    <programme start="20260507144000" stop="20260507151200" channel="cctv10">
-        <title lang="zh">地理·中国-2026-127</title>
-    </programme>
-    <programme start="20260507151200" stop="20260507152500" channel="cctv10">
-        <title lang="zh">时尚科技秀-2026-127</title>
+    <programme start="20260507150200" stop="20260507152500" channel="cctv10">
+        <title lang="zh">人物故事-2026-90</title>
     </programme>
     <programme start="20260507152500" stop="20260507155500" channel="cctv10">
         <title lang="zh">实验现场-2026-18</title>
@@ -3870,10 +3867,10 @@
     <programme start="20260505194400" stop="20260505200000" channel="cctv13">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme start="20260505200000" stop="20260505202500" channel="cctv13">
+    <programme start="20260505200000" stop="20260505202800" channel="cctv13">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme start="20260505202500" stop="20260505210000" channel="cctv13">
+    <programme start="20260505202800" stop="20260505210000" channel="cctv13">
         <title lang="zh">2026吾家吾国-11</title>
     </programme>
     <programme start="20260505210000" stop="20260505211800" channel="cctv13">
